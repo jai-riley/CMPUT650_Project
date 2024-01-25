@@ -30,6 +30,7 @@ temp = "s001"
 sentence = ""
 dict = {}
 for index, row in enumerate(df.values):
+    print(row)
     if row[0].split(".")[1] != temp:
         source_sentences.append(sentence)
         source_dict_list.append(dict)

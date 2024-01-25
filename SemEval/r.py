@@ -1,23 +1,19 @@
 import requests
 import csv
 
-
-lang = "ES"
+lang = "EN"
 lst = []
-
 
 def intersection(lst1, lst2):
     lst3 = [value for value in lst1 if value in lst2]
     return lst3
 
-
-def union(lst1, lst2):
+def union(lst1,lst2):
     lst3 = [x for x in lst1]
     for x in lst2:
         if x not in lst3:
             lst3.append(x)
     return lst3
-
 
 def get_score(lst1, lst2):
     lst3 = intersection(lst1, lst2)
@@ -34,11 +30,12 @@ def read_csv_file(file_path):
             r.append({'text': text[0].lower(), 'lang': lang})
             r.append({'text': text[1].lower(), 'lang': lang})
             score = get_wsd(r)
-            x = {'PairID': row['PairID'], "Text1": text[0], "Text2": text[1], "Score": f'{score:.2f}'}
+            x = {'PairID': row['PairID'], "Text1":text[0],"Text2":text[1], "Score":f'{score:.2f}'}
             lst.append(x)
 
-    return data
 
+
+    return data
 
 def get_wsd(data):
     try:
@@ -62,13 +59,11 @@ def get_wsd(data):
     except requests.exceptions.RequestException as e:
         print(f"Request Exception: {e}")
 
-
 def write_tsv_file(file_path, data):
     with open(file_path, 'w', newline='', encoding='utf-8') as tsvfile:
         writer = csv.DictWriter(tsvfile, fieldnames=data[0].keys(), delimiter='\t')
         writer.writeheader()
         writer.writerows(data)
-
 
 api_url = "http://nlp.uniroma1.it/amuse-wsd/api/model"
 
@@ -76,9 +71,9 @@ headers = {
     'Accept': 'application/json',
     'Content-Type': 'application/json',
 }
-csv_file_path = 'esp_dev.csv'
-output_file = "esp_out.tsv"
+csv_file_path = 'eng_dev.csv'
+output_file = "out.tsv"
 data_from_csv = read_csv_file(csv_file_path)
-write_tsv_file(output_file, lst)
+write_tsv_file(output_file,lst)
 
 """[{'text': 'two championships, three all-star wins, seven straight feature wins.', 'lang': 'EN'}, {'text': '2 championship, 3 all-stars victory, 7 straight wins.', 'lang': 'EN'}]"""

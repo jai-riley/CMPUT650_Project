@@ -1,6 +1,6 @@
 import csv
 
-tsv_file_path = 'out.tsv'
+tsv_file_path = 'out_train.tsv'
 target_column = 'Score'
 
 # Open the TSV file
