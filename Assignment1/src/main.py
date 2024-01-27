@@ -3,14 +3,16 @@ import translators as ts
 from hazm import *
 import csv
 
+
 def get_nth_line(file_path, n):
     with open(file_path, 'r') as file:
         lines = file.readlines()
         if 1 <= n <= len(lines):
             return lines[n - 1]
 
+
 def get_synset(num_line, persian_index):
-    synset_line = get_nth_line('synset.txt', num_line + 1)
+    synset_line = get_nth_line('../Data/synset.txt', num_line + 1)
     synsets = synset_line.split(" ")
     for synset in synsets:
         if int(synset.split("-")[1]) == persian_index:
@@ -19,7 +21,8 @@ def get_synset(num_line, persian_index):
             else:
                 return "nan"
 
-df = pd.read_csv('process_s15.tsv', sep='\t', header=None)
+
+df = pd.read_csv('../Data/process_s15.tsv', sep='\t', header=None)
 
 source_sentences = []
 source_dict_list = []
@@ -80,9 +83,9 @@ for sentence_index, s in enumerate(target_sentences):
         data.append((id, token, lemmatizer.lemmatize(token), pos[0], synset))
 
 df = pd.DataFrame(data, columns=['id', 'token', 'lemmatize', 'pos', 'sense'])
-csv_file_path = 'processed_fa.csv'
+csv_file_path = '../Data/processed_fa.csv'
 df.to_csv(csv_file_path, header=False, index=False, encoding='utf-8-sig')
 
-# with open('input.txt', 'a', encoding="utf-8") as f:
+# with open('../Data/input.txt', 'a', encoding="utf-8") as f:
 #     for index, s in enumerate(source_sentences):
 #         f.write(s + " ||| " + target_sentences[index] + "\n")
