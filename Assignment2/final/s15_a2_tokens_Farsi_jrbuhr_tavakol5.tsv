@@ -1,0 +1,2638 @@
+﻿d001.s001.t001	This	nan	X	nan	این	nan
+d001.s001.t002	document	document	N	bn:00028015n	سند	bn:00028016n
+d001.s001.t003	is	be	V	nan	nan	nan
+d001.s001.t004	a	nan	X	nan	nan	nan
+d001.s001.t005	summary	summary	N	bn:00075142n	خلاصه ای	bn:00021341n
+d001.s001.t006	of	nan	X	nan	از	nan
+d001.s001.t007	the	nan	X	nan	nan	nan
+d001.s001.t008	European	european	J	bn:00102440a	اروپا	nan
+d001.s001.t009	Public	public	J	bn:00109211a	عمومی	bn:00109211a
+d001.s001.t010	Assessment	assessment	N	bn:00006502n	ارزیابی	bn:00031973n
+d001.s001.t011	Report	report	N	bn:00067181n	گزارش	bn:00067181n
+d001.s001.t012	(	nan	X	nan	nan	nan
+d001.s001.t013	EPAR	epar	N	nan	(	nan
+d001.s001.t014	)	nan	X	nan	nan	nan
+d001.s001.t015	.	nan	X	nan	EPAR	nan
+d001.s002.t001	It	nan	X	nan	این	nan
+d001.s002.t002	explains	explain	V	bn:00087869v	توضیح می دهد	bn:00032329n
+d001.s002.t003	how	nan	X	nan	چگونه	bn:00115252r
+d001.s002.t004	the	nan	X	nan	که	nan
+d001.s002.t005	Committee	committee	N	bn:00021015n	کمیته	bn:00021015n
+d001.s002.t006	for	nan	X	nan	nan	nan
+d001.s002.t007	Medicinal	medicinal	J	bn:00106556a	محصولات	bn:00037326n
+d001.s002.t008	Products	product	N	bn:00064584n	دارویی	bn:00108519a
+d001.s002.t009	for	nan	X	nan	برای مصارف	nan
+d001.s002.t010	Human	human	J	bn:00104385a	انسانی	bn:00044576n
+d001.s002.t011	Use	use	N	bn:00030627n	nan	nan
+d001.s002.t012	(	nan	X	nan	nan	nan
+d001.s002.t013	CHMP	chmp	N	bn:00302314n	(	nan
+d001.s002.t014	)	nan	X	nan	nan	nan
+d001.s002.t015	assessed	assess	V	bn:00082720v	شده	bn:00089351v
+d001.s002.t016	the	nan	X	nan	انجام	bn:00029881n
+d001.s002.t017	studies	study	N	bn:00074790n	CHMP مطالعات	nan
+d001.s002.t018	performed	perform	V	bn:00087107v	)	nan
+d001.s002.t019	,	nan	X	nan	توصیه	nan
+d001.s002.t020	to	nan	X	nan	کرده_است	bn:00084593v
+d001.s002.t021	reach	reach	V	bn:00082226v	تا دارو	nan
+d001.s002.t022	their	nan	X	nan	های	bn:00066562n
+d001.s002.t023	recommendations	recommendation	N	bn:00066562n	به	nan
+d001.s002.t024	on	nan	X	nan	خود در	bn:00054156n
+d001.s002.t025	how	nan	X	nan	مورد	nan
+d001.s002.t026	to	nan	X	nan	nan	nan
+d001.s002.t027	use	use	V	bn:00082705v	نحوه استفاده	bn:00038799n
+d001.s002.t028	the	nan	X	nan	nan	nan
+d001.s002.t029	medicine	medicine	N	bn:00054128n	از	bn:00030627n
+d001.s002.t030	.	nan	X	nan	nan	nan
+d001.s003.t001	If	nan	X	nan	اگر	nan
+d001.s003.t002	you	nan	X	nan	nan	nan
+d001.s003.t003	need	need	V	bn:00091028v	به نیاز دارید	nan
+d001.s003.t004	more	more	J	bn:00106935a	بیشتری	bn:00105886a
+d001.s003.t005	information	information	N	bn:00025314n	اطلاعات	bn:00046705n
+d001.s003.t006	about	nan	X	nan	در مورد	nan
+d001.s003.t007	your	nan	X	nan	nan	nan
+d001.s003.t008	medical	medical	J	bn:00106555a	پزشکی	bn:00106554a
+d001.s003.t009	condition	condition	N	bn:00021648n	وضعیت	bn:00063703n
+d001.s003.t010	or	nan	X	nan	یا	nan
+d001.s003.t011	your	nan	X	nan	خود	nan
+d001.s003.t012	treatment	treatment	N	bn:00047235n	درمان	bn:00024461n
+d001.s003.t013	,	nan	X	nan	،	nan
+d001.s003.t014	read	read	V	bn:00092424v	)	nan
+d001.s003.t015	the	nan	X	nan	nan	nan
+d001.s003.t016	Package	package	N	bn:00013882n	جزوه	bn:00012133n
+d001.s003.t017	Leaflet	leaflet	N	bn:00012133n	nan	nan
+d001.s003.t018	(	nan	X	nan	(	nan
+d001.s003.t019	also	also	R	bn:00114246r	nan	nan
+d001.s003.t020	part	part	N	bn:00021395n	همچنین بخشی	bn:00114246r
+d001.s003.t021	of	nan	X	nan	nan	nan
+d001.s003.t022	the	nan	X	nan	EPAR	nan
+d001.s003.t023	EPAR	epar	N	nan	از	nan
+d001.s003.t024	)	nan	X	nan	nan	nan
+d001.s003.t025	or	nan	X	nan	را با	nan
+d001.s003.t026	contact	contact	V	bn:00085696v	بخوانید داروساز	bn:00082817v
+d001.s003.t027	your	nan	X	nan	یا	nan
+d001.s003.t028	doctor	doctor	N	bn:00027976n	یا	nan
+d001.s003.t029	or	nan	X	nan	nan	nan
+d001.s003.t030	pharmacist	pharmacist	N	bn:00004992n	پزشک	bn:00027976n
+d001.s003.t031	.	nan	X	nan	خود	nan
+d001.s004.t001	If	nan	X	nan	اگر	nan
+d001.s004.t002	you	nan	X	nan	بحث	nan
+d001.s004.t003	want	want	V	bn:00086682v	می خواهید_اطلاعات	bn:00054706n
+d001.s004.t004	more	more	J	bn:00106935a	در	bn:00105886a
+d001.s004.t005	information	information	N	bn:00025314n	بیشتری	bn:00046705n
+d001.s004.t006	on	nan	X	nan	مورد توصیه	nan
+d001.s004.t007	the	nan	X	nan	nan	nan
+d001.s004.t008	basis	basis	N	bn:00008786n	nan	nan
+d001.s004.t009	of	nan	X	nan	nan	nan
+d001.s004.t010	the	nan	X	nan	nan	nan
+d001.s004.t011	CHMP	chmp	N	bn:00302314n	داشته_باشید	nan
+d001.s004.t012	recommendations	recommendation	N	bn:00066562n	های	bn:00066562n
+d001.s004.t013	,	nan	X	nan	CHMP علمی	bn:00054156n
+d001.s004.t014	read	read	V	bn:00092424v	بخوانید	nan
+d001.s004.t015	the	nan	X	nan	nan	nan
+d001.s004.t016	Scientific	scientific	J	bn:00110175a	همچنین	bn:00110176a
+d001.s004.t017	Discussion	discussion	N	bn:00027523n	nan	nan
+d001.s004.t018	(	nan	X	nan	بخشی	nan
+d001.s004.t019	also	also	R	bn:00114246r	nan	nan
+d001.s004.t020	part	part	N	bn:00021395n	( از	bn:00027523n
+d001.s004.t021	of	nan	X	nan	EPAR	bn:00032658n
+d001.s004.t022	the	nan	X	nan	را	nan
+d001.s004.t023	EPAR	epar	N	nan	)	nan
+d001.s004.t024	)	nan	X	nan	nan	nan
+d001.s004.t025	.	nan	X	nan	nan	nan
+d001.s005.t001	What	nan	X	nan	nan	nan
+d001.s005.t002	is	be	V	nan	nan	nan
+d001.s005.t003	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s005.t004	?	nan	X	nan	چیست	nan
+d001.s006.t001	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s006.t002	is	be	V	nan	nan	nan
+d001.s006.t003	a	nan	X	nan	nan	nan
+d001.s006.t004	powder	powder	N	bn:00063926n	پودری	bn:00102977a
+d001.s006.t005	that	nan	X	nan	که	nan
+d001.s006.t006	is	be	V	nan	است	nan
+d001.s006.t007	made up	make up	V	bn:00083187v	ورید	bn:00079681n
+d001.s006.t008	into	nan	X	nan	در	nan
+d001.s006.t009	a	nan	X	nan	nan	nan
+d001.s006.t010	solution	solution	N	bn:00072760n	nan	nan
+d001.s006.t011	for	nan	X	nan	محلول	bn:00072760n
+d001.s006.t012	infusion	infusion	N	bn:00046734n	nan	nan
+d001.s006.t013	(	nan	X	nan	تزریق (	bn:00046787n
+d001.s006.t014	drip	drip	V	bn:00087306v	nan	nan
+d001.s006.t015	into	nan	X	nan	در	nan
+d001.s006.t016	a	nan	X	nan	nan	nan
+d001.s006.t017	vein	vein	N	bn:00079681n	nan	nan
+d001.s006.t018	)	nan	X	nan	nan	nan
+d001.s006.t019	.	nan	X	nan	nan	nan
+d001.s007.t001	It	nan	X	nan	این	nan
+d001.s007.t002	contains	contain	V	bn:00085499v	حاوی	bn:00098521a
+d001.s007.t003	the	nan	X	nan	nan	nan
+d001.s007.t004	active	active	J	bn:00096387a	فعال	bn:00096392a
+d001.s007.t005	substance	substance	N	bn:00074986n	ماده ماده	bn:00053867n
+d001.s007.t006	pemetrexed	pemetrexed	N	bn:00602447n	pemetrexed	nan
+d001.s007.t007	.	nan	X	nan	است	nan
+d001.s008.t001	What	nan	X	nan	nan	nan
+d001.s008.t002	is	be	V	nan	از	nan
+d001.s008.t003	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s008.t004	used	use	V	bn:00082705v	استفاده	bn:00030627n
+d001.s008.t005	for	nan	X	nan	nan	nan
+d001.s008.t006	?	nan	X	nan	می شود	bn:00081319n
+d001.s009.t001	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s009.t002	is	be	V	nan	nan	nan
+d001.s009.t003	used	use	V	bn:00082705v	استفاده	bn:00030627n
+d001.s009.t004	to	nan	X	nan	nan	nan
+d001.s009.t005	treat	treat	V	bn:00084532v	درمان	bn:00024461n
+d001.s009.t006	two	nan	X	nan	دو	nan
+d001.s009.t007	types	type	N	bn:00078798n	نوع	bn:00073210n
+d001.s009.t008	of	nan	X	nan	nan	nan
+d001.s009.t009	cancer	cancer	N	bn:00015180n	سرطان	bn:00015180n
+d001.s009.t010	:	nan	X	nan	برای	nan
+d001.s009.t011	pleural	pleural	J	bn:00108692a	: مزوتلیوما	nan
+d001.s009.t012	mesothelioma	mesothelioma	N	bn:00054512n	پلور	bn:00063016n
+d001.s009.t013	(	nan	X	nan	nan	nan
+d001.s009.t014	cancer	cancer	N	bn:00015180n	nan	nan
+d001.s009.t015	of	nan	X	nan	nan	nan
+d001.s009.t016	the	nan	X	nan	روکش	bn:00016472n
+d001.s009.t017	lining	lining	N	bn:00051366n	nan	nan
+d001.s009.t018	of	nan	X	nan	nan	nan
+d001.s009.t019	the	nan	X	nan	که	nan
+d001.s009.t020	lungs	lung	N	bn:00052341n	سرطان	bn:00015180n
+d001.s009.t021	that	nan	X	nan	ریه	bn:00052341n
+d001.s009.t022	is	be	V	nan	nan	nan
+d001.s009.t023	usually	usually	R	bn:00114778r	ها	bn:00052341n
+d001.s009.t024	caused	cause	V	bn:00084069v	معمولاً معرض	bn:00114778r
+d001.s009.t025	by	nan	X	nan	nan	nan
+d001.s009.t026	exposure	exposure	N	bn:00032379n	در اثر قرار گرفتن	nan
+d001.s009.t027	to	nan	X	nan	nan	nan
+d001.s009.t028	asbestos	asbestos	N	bn:00006236n	در	nan
+d001.s009.t029	)	nan	X	nan	آزبست ایجاد	bn:00006236n
+d001.s009.t030	.	nan	X	nan	nan	nan
+d001.s010.t001	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s010.t002	is	be	V	nan	nan	nan
+d001.s010.t003	used	use	V	bn:00082705v	سرطان سرطان	bn:00015180n
+d001.s010.t004	together	together	R	nan	nan	nan
+d001.s010.t005	with	nan	X	nan	همراه	bn:00006532n
+d001.s010.t006	cisplatin	cisplatin	N	bn:00577781n	سیس پلاتین	bn:00044245n
+d001.s010.t007	(	nan	X	nan	(	nan
+d001.s010.t008	another	nan	X	nan	یکی	bn:00000005n
+d001.s010.t009	anticancer	anticancer	J	bn:00097220a	داروهای ضد	bn:00028872n
+d001.s010.t010	medicine	medicine	N	bn:00054128n	از	nan
+d001.s010.t011	)	nan	X	nan	)	nan
+d001.s010.t012	when	nan	X	nan	nan	nan
+d001.s010.t013	the	nan	X	nan	nan	nan
+d001.s010.t014	cancer	cancer	N	bn:00015180n	شود	bn:00087737v
+d001.s010.t015	is	be	V	nan	غیرقابل	bn:00107546a
+d001.s010.t016	unresectable	unresectable	J	nan	nan	nan
+d001.s010.t017	(	nan	X	nan	توصیف	bn:00032370n
+d001.s010.t018	cannot	nan	X	nan	که است	nan
+d001.s010.t019	be	be	V	nan	استفاده	bn:00030627n
+d001.s010.t020	removed	remove	V	bn:00092783v	با	nan
+d001.s010.t021	by	nan	X	nan	توان	bn:00063941n
+d001.s010.t022	surgery	surgery	N	bn:00059129n	به تنهایی	nan
+d001.s010.t023	alone	alone	J	bn:00096871a	نمی	bn:00116360r
+d001.s010.t024	)	nan	X	nan	nan	nan
+d001.s010.t025	and	nan	X	nan	جراحی	bn:00059129n
+d001.s010.t026	malignant	malignant	J	bn:00106363a	برداشته	bn:00089884v
+d001.s010.t027	(	nan	X	nan	شد	nan
+d001.s010.t028	has	have	V	nan	nan	nan
+d001.s010.t029	spread	spread	V	bn:00092083v	)	nan
+d001.s010.t030	,	nan	X	nan	بدخیم	bn:00057267n
+d001.s010.t031	or	nan	X	nan	(	nan
+d001.s010.t032	is	be	V	nan	و	nan
+d001.s010.t033	likely	likely	J	bn:00105981a	گسترش	bn:00099361a
+d001.s010.t034	to	nan	X	nan	nan	nan
+d001.s010.t035	spread	spread	V	bn:00092083v	قسمت	nan
+d001.s010.t036	easily	easily	R	bn:00115155r	یافته_است ،	bn:00084711v
+d001.s010.t037	,	nan	X	nan	nan	nan
+d001.s010.t038	to	nan	X	nan	nan	nan
+d001.s010.t039	other	other	J	bn:00108011a	راحتی	nan
+d001.s010.t040	parts	part	N	bn:00021395n	احتمالاً به	nan
+d001.s010.t041	of	nan	X	nan	nan	nan
+d001.s010.t042	the	nan	X	nan	nan	nan
+d001.s010.t043	body	body	N	bn:00011744n	در	bn:00020913n
+d001.s010.t044	)	nan	X	nan	های )	bn:00049229n
+d001.s010.t045	,	nan	X	nan	بدن بر	bn:00108011a
+d001.s010.t046	in	nan	X	nan	یا پخش	nan
+d001.s010.t047	patients	patient	N	bn:00061017n	می	bn:00029896n
+d001.s010.t048	who	nan	X	nan	شود	bn:00081319n
+d001.s010.t049	have	have	V	nan	nan	nan
+d001.s010.t050	not	not	R	bn:00116360r	nan	nan
+d001.s010.t051	received	receive	V	bn:00087863v	گذارد	bn:00021961n
+d001.s010.t052	chemotherapy	chemotherapy	N	bn:00018141n	سلولهای سنگفرشی	nan
+d001.s010.t053	(	nan	X	nan	تأثیر نمی	bn:00017027n
+d001.s010.t054	medicines	medicine	N	bn:00054128n	nan	nan
+d001.s010.t055	for	nan	X	nan	nan	nan
+d001.s010.t056	cancer	cancer	N	bn:00015180n	بیمارانی	nan
+d001.s010.t057	)	nan	X	nan	nan	nan
+d001.s010.t058	before	nan	X	nan	، در	nan
+d001.s010.t059	advanced	advanced	J	bn:00096528a	از	nan
+d001.s010.t060	or	nan	X	nan	سرطان	nan
+d001.s010.t061	metastatic	metastatic	J	bn:00106664a	ریه	bn:00015180n
+d001.s010.t062	non-small	non-small	J	nan	)	bn:00089084v
+d001.s010.t063	cell	cell	N	bn:00017027n	قبل	nan
+d001.s010.t064	lung	lung	N	bn:00052341n	که	bn:00001742n
+d001.s010.t065	cancer	cancer	N	bn:00015180n	nan	nan
+d001.s010.t066	that	nan	X	nan	سلولهای	bn:00052341n
+d001.s010.t067	is	be	V	nan	nan	nan
+d001.s010.t068	not	not	R	bn:00116360r	متاستاتیک	nan
+d001.s010.t069	affecting	affect	V	bn:00082427v	غیر	bn:00017027n
+d001.s010.t070	the	nan	X	nan	nan	nan
+d001.s010.t071	squamous	squamous	J	nan	پیشرفته یا که	bn:00106685a
+d001.s010.t072	cells	cell	N	bn:00017027n	ندارند کوچک	nan
+d001.s010.t073	.	nan	X	nan	،	bn:00107546a
+d001.s011.t001	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s011.t002	is	be	V	nan	nan	nan
+d001.s011.t003	used	use	V	bn:00082705v	قبلاً	bn:00114165r
+d001.s011.t004	in	nan	X	nan	در	nan
+d001.s011.t005	combination	combination	N	bn:00020872n	ترکیب	bn:00001466n
+d001.s011.t006	with	nan	X	nan	با	nan
+d001.s011.t007	cisplatin	cisplatin	N	bn:00577781n	سیس پلاتین	bn:00044245n
+d001.s011.t008	in	nan	X	nan	در	nan
+d001.s011.t009	patients	patient	N	bn:00061017n	بیمارانی	bn:00001742n
+d001.s011.t010	who	nan	X	nan	که	nan
+d001.s011.t011	have	have	V	nan	nan	nan
+d001.s011.t012	not	not	R	bn:00116360r	در	bn:00026574n
+d001.s011.t013	been	be	V	nan	نگرفته_اند ،	bn:00085670v
+d001.s011.t014	treated	treat	V	bn:00084532v	تحت درمان قرار	nan
+d001.s011.t015	before	nan	X	nan	nan	nan
+d001.s011.t016	,	nan	X	nan	و شود	nan
+d001.s011.t017	and	nan	X	nan	به	nan
+d001.s011.t018	on	nan	X	nan	nan	nan
+d001.s011.t019	its	nan	X	nan	nan	nan
+d001.s011.t020	own	own	J	nan	بیمارانی	nan
+d001.s011.t021	in	nan	X	nan	که نوع	bn:00001742n
+d001.s011.t022	patients	patient	N	bn:00061017n	در	nan
+d001.s011.t023	who	nan	X	nan	گذشته	nan
+d001.s011.t024	have	have	V	nan	nan	nan
+d001.s011.t025	received	receive	V	bn:00087863v	، استفاده می	bn:00084593v
+d001.s011.t026	another	nan	X	nan	شیمی	nan
+d001.s011.t027	type	type	N	bn:00078798n	از	bn:00108011a
+d001.s011.t028	of	nan	X	nan	درمانی	bn:00018123n
+d001.s011.t029	chemotherapy	chemotherapy	N	bn:00018141n	دریافت کرده_اند	bn:00096890a
+d001.s011.t030	in	nan	X	nan	nan	nan
+d001.s011.t031	the	nan	X	nan	nan	nan
+d001.s011.t032	past	past	N	bn:00060927n	دیگری	bn:00012986n
+d001.s011.t033	.	nan	X	nan	.	bn:00054706n
+d001.s012.t001	The	nan	X	nan	این	nan
+d001.s012.t002	medicine	medicine	N	bn:00054128n	دارو	bn:00028872n
+d001.s012.t003	can	nan	X	nan	nan	nan
+d001.s012.t004	only	only	R	bn:00116450r	فقط	bn:00114234r
+d001.s012.t005	be	be	V	nan	قابل	bn:00108829a
+d001.s012.t006	obtained	obtain	V	bn:00082276v	nan	nan
+d001.s012.t007	with	nan	X	nan	با	nan
+d001.s012.t008	a	nan	X	nan	یک	nan
+d001.s012.t009	prescription	prescription	N	bn:00064195n	نسخه دریافت	bn:00029773n
+d001.s012.t010	.	nan	X	nan	است	nan
+d001.s013.t001	How	nan	X	nan	چگونه	bn:00115161r
+d001.s013.t002	is	be	V	nan	از	nan
+d001.s013.t003	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s013.t004	used	use	V	bn:00082705v	استفاده	bn:00079404n
+d001.s013.t005	?	nan	X	nan	می شود	bn:00054706n
+d001.s014.t001	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s014.t002	should	nan	X	nan	باید	nan
+d001.s014.t003	only	only	R	bn:00116450r	فقط	bn:00114234r
+d001.s014.t004	be	be	V	nan	nan	nan
+d001.s014.t005	given	give	V	bn:00088826v	nan	nan
+d001.s014.t006	under	nan	X	nan	تحت	nan
+d001.s014.t007	the	nan	X	nan	nan	nan
+d001.s014.t008	supervision	supervision	N	bn:00059908n	نظارت	bn:00059908n
+d001.s014.t009	of	nan	X	nan	از	nan
+d001.s014.t010	a	nan	X	nan	یک	nan
+d001.s014.t011	doctor	doctor	N	bn:00027976n	پزشک	bn:00027976n
+d001.s014.t012	who	nan	X	nan	که	nan
+d001.s014.t013	is	be	V	nan	است	nan
+d001.s014.t014	qualified	qualify	V	nan	واجد شرایط	bn:00096445a
+d001.s014.t015	in	nan	X	nan	در	nan
+d001.s014.t016	the	nan	X	nan	nan	nan
+d001.s014.t017	use	use	N	bn:00030627n	استفاده	bn:00030627n
+d001.s014.t018	of	nan	X	nan	nan	nan
+d001.s014.t019	anticancer	anticancer	J	bn:00097220a	ضد	nan
+d001.s014.t020	chemotherapy	chemotherapy	N	bn:00018141n	شیمی درمانی سرطان داده_شود	bn:00018123n
+d001.s014.t021	.	nan	X	nan	، .	nan
+d001.s015.t001	The	nan	X	nan	nan	nan
+d001.s015.t002	recommended	recommended	J	nan	توصیه شده	bn:00066562n
+d001.s015.t003	dose	dose	N	bn:00028320n	دوز	bn:00028320n
+d001.s015.t004	of	nan	X	nan	nan	nan
+d001.s015.t005	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s015.t006	is	be	V	nan	nan	nan
+d001.s015.t007	500	nan	X	nan	500 گرم	nan
+d001.s015.t008	mg	mg	N	bn:00054701n	میلی	bn:00054701n
+d001.s015.t009	per	nan	X	nan	در هر	nan
+d001.s015.t010	square	square	J	nan	متر مربع	bn:00052501n
+d001.s015.t011	metre	metre	N	bn:00052501n	nan	nan
+d001.s015.t012	of	nan	X	nan	از	nan
+d001.s015.t013	body	body	N	bn:00011744n	بدن	bn:00011744n
+d001.s015.t014	surface	surface	N	bn:00075374n	سطح	bn:00075250n
+d001.s015.t015	area	area	N	bn:00005518n	nan	nan
+d001.s015.t016	(	nan	X	nan	nan	nan
+d001.s015.t017	calculated	calculate	V	bn:00084373v	بیمار	bn:00001742n
+d001.s015.t018	using	use	V	bn:00082705v	با استفاده	nan
+d001.s015.t019	the	nan	X	nan	nan	nan
+d001.s015.t020	patient	patient	N	bn:00061017n	وزن	bn:00007487n
+d001.s015.t021	s	nan	X	nan	nan	nan
+d001.s015.t022	height	height	N	bn:00043545n	از	nan
+d001.s015.t023	and	nan	X	nan	قد	bn:00043545n
+d001.s015.t024	weight	weight	N	bn:00080831n	و	nan
+d001.s015.t025	)	nan	X	nan	محاسبه می	bn:00014688n
+d001.s015.t026	.	nan	X	nan	nan	nan
+d001.s016.t001	It	nan	X	nan	nan	nan
+d001.s016.t002	is	be	V	nan	nan	nan
+d001.s016.t003	given	give	V	bn:00088826v	به	nan
+d001.s016.t004	once	once	R	bn:00115811r	بار	bn:00008462n
+d001.s016.t005	every	every	J	bn:00102467a	هر	nan
+d001.s016.t006	three	nan	X	nan	سه	nan
+d001.s016.t007	weeks	week	N	bn:00043484n	هفته	bn:00043484n
+d001.s016.t008	as	nan	X	nan	عنوان به	bn:00047690n
+d001.s016.t009	an	nan	X	nan	یک یک	nan
+d001.s016.t010	intravenous	intravenous	J	bn:00102230a	داخل وریدی	bn:00011396n
+d001.s016.t011	infusion	infusion	N	bn:00046734n	تزریق	bn:00046787n
+d001.s016.t012	lasting	last	V	bn:00087620v	nan	nan
+d001.s016.t013	10	nan	X	nan	10	nan
+d001.s016.t014	minutes	minute	N	bn:00055094n	دقیقه طول	bn:00055094n
+d001.s016.t015	.	nan	X	nan	می انجامد	bn:00054706n
+d001.s017.t001	To	nan	X	nan	برای	nan
+d001.s017.t002	reduce	reduce	V	bn:00084079v	کاهش	bn:00025777n
+d001.s017.t003	side	side	J	nan	جانبی	bn:00105762a
+d001.s017.t004	effects	effect	N	bn:00029874n	عوارض	bn:00000690n
+d001.s017.t005	,	nan	X	nan	،	nan
+d001.s017.t006	patients	patient	N	bn:00061017n	بیماران	bn:00001742n
+d001.s017.t007	should	nan	X	nan	باید	nan
+d001.s017.t008	take	take	V	bn:00085689v	nan	nan
+d001.s017.t009	a	nan	X	nan	یک	nan
+d001.s017.t010	corticosteroid	corticosteroid	N	bn:00001507n	کورتیکواستروئید	bn:00001507n
+d001.s017.t011	and	nan	X	nan	و	nan
+d001.s017.t012	folic	folic	J	nan	فولیک	bn:00006295n
+d001.s017.t013	acid	acid	N	bn:00000902n	اسید	bn:00000902n
+d001.s017.t014	(	nan	X	nan	nan	nan
+d001.s017.t015	a	nan	X	nan	(	nan
+d001.s017.t016	type	type	N	bn:00078798n	nan	nan
+d001.s017.t017	of	nan	X	nan	nan	nan
+d001.s017.t018	vitamin	vitamin	N	bn:00080147n	نوعی ویتامین	bn:00073210n
+d001.s017.t019	)	nan	X	nan	nan	nan
+d001.s017.t020	,	nan	X	nan	nan	nan
+d001.s017.t021	and	nan	X	nan	) مصرف	nan
+d001.s017.t022	receive	receive	V	nan	ویتامین	bn:00006295n
+d001.s017.t023	injections	injection	N	bn:00046785n	با	nan
+d001.s017.t024	of	nan	X	nan	nan	nan
+d001.s017.t025	vitamin	vitamin	N	bn:00080147n	Alimta	nan
+d001.s017.t026	B12	b12	N	nan	تزریق	bn:00046786n
+d001.s017.t027	during	nan	X	nan	کنند و	bn:00084494v
+d001.s017.t028	treatment	treatment	N	bn:00047235n	در	nan
+d001.s017.t029	with	nan	X	nan	طول	bn:00050662n
+d001.s017.t030	Alimta	alimta	N	bn:00602447n	درمان	bn:00024461n
+d001.s017.t031	.	nan	X	nan	nan	nan
+d001.s018.t001	When	nan	X	nan	هنگامی	bn:00046209n
+d001.s018.t002	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s018.t003	is	be	V	nan	که	nan
+d001.s018.t004	given	give	V	bn:00088826v	داده	bn:00089921v
+d001.s018.t005	with	nan	X	nan	با	nan
+d001.s018.t006	cisplatin	cisplatin	N	bn:00577781n	سیس پلاتین	bn:00000855n
+d001.s018.t007	,	nan	X	nan	شود ،	bn:00088912v
+d001.s018.t008	an	nan	X	nan	یک	nan
+d001.s018.t009	anti-emetic	anti-emetic	J	nan	ضد	nan
+d001.s018.t010	medicine	medicine	N	bn:00054128n	داروی	bn:00054128n
+d001.s018.t011	(	nan	X	nan	امیک	bn:00000845n
+d001.s018.t012	to	nan	X	nan	nan	nan
+d001.s018.t013	prevent	prevent	V	bn:00088454v	برای جلوگیری	nan
+d001.s018.t014	vomiting	vomit	V	bn:00083115v	nan	nan
+d001.s018.t015	)	nan	X	nan	می ( از	nan
+d001.s018.t016	and	nan	X	nan	استفراغ	bn:00027565n
+d001.s018.t017	fluids	fluid	N	bn:00035426n	)	nan
+d001.s018.t018	(	nan	X	nan	nan	nan
+d001.s018.t019	to	nan	X	nan	nan	nan
+d001.s018.t020	prevent	prevent	V	bn:00088454v	مایعات (	bn:00051472n
+d001.s018.t021	dehydration	dehydration	N	bn:00025983n	برای	nan
+d001.s018.t022	)	nan	X	nan	و جلوگیری	nan
+d001.s018.t023	should	nan	X	nan	کم	bn:00034197n
+d001.s018.t024	also	also	R	bn:00114246r	از	nan
+d001.s018.t025	be	be	V	nan	nan	nan
+d001.s018.t026	given	give	V	bn:00088826v	از	nan
+d001.s018.t027	before	before	R	bn:00114512r	آبی	bn:00098606a
+d001.s018.t028	or	nan	X	nan	)	nan
+d001.s018.t029	after	after	R	bn:00114165r	نیز باید	bn:00114246r
+d001.s018.t030	the	nan	X	nan	nan	nan
+d001.s018.t031	cisplatin	cisplatin	N	bn:00577781n	یا بعد	nan
+d001.s018.t032	dose	dose	N	bn:00028320n	قبل	nan
+d001.s018.t033	.	nan	X	nan	دوز	bn:00028320n
+d001.s019.t001	Treatment	treatment	N	bn:00047235n	درمان	bn:00024461n
+d001.s019.t002	should	nan	X	nan	باید	nan
+d001.s019.t003	be	be	V	nan	nan	nan
+d001.s019.t004	delayed	delay	V	bn:00086514v	تأخیر	bn:00050125n
+d001.s019.t005	or	nan	X	nan	nan	nan
+d001.s019.t006	discontinued	discontinue	V	bn:00083908v	nan	nan
+d001.s019.t007	,	nan	X	nan	nan	nan
+d001.s019.t008	or	nan	X	nan	یا	nan
+d001.s019.t009	the	nan	X	nan	nan	nan
+d001.s019.t010	dose	dose	N	bn:00028320n	دوز	bn:00028320n
+d001.s019.t011	reduced	reduce	V	bn:00084079v	کاهش	bn:00025746n
+d001.s019.t012	,	nan	X	nan	، شود	nan
+d001.s019.t013	in	nan	X	nan	در	nan
+d001.s019.t014	patients	patient	N	bn:00061017n	بیمارانی	bn:00001742n
+d001.s019.t015	whose	nan	X	nan	که آنها	nan
+d001.s019.t016	blood	blood	N	bn:00011346n	خون	bn:00011346n
+d001.s019.t017	counts	count	N	bn:00023139n	تعداد	bn:00058285n
+d001.s019.t018	are	be	V	nan	دارند	bn:00085670v
+d001.s019.t019	abnormal	abnormal	J	bn:00096158a	غیر طبیعی	bn:00052175n
+d001.s019.t020	or	nan	X	nan	بیفتد یا یا	bn:00088454v
+d001.s019.t021	who	nan	X	nan	nan	nan
+d001.s019.t022	have	have	V	bn:00088745v	nan	nan
+d001.s019.t023	certain	certain	J	bn:00099474a	قطع	bn:00067288n
+d001.s019.t024	other	other	J	bn:00108011a	دیگری	bn:00108011a
+d001.s019.t025	side	side	J	nan	جانبی آن	bn:00105762a
+d001.s019.t026	effects	effect	N	bn:00029874n	عوارض	bn:00000690n
+d001.s019.t027	.	nan	X	nan	یابد	bn:00084079v
+d001.s020.t001	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s020.t002	is	be	V	nan	nan	nan
+d001.s020.t003	not	not	R	bn:00116360r	نمی	bn:00087966v
+d001.s020.t004	recommended	recommend	V	bn:00082418v	توصیه	bn:00066562n
+d001.s020.t005	for	nan	X	nan	برای	nan
+d001.s020.t006	use	use	N	bn:00030627n	استفاده	bn:00030627n
+d001.s020.t007	in	nan	X	nan	در	nan
+d001.s020.t008	patients	patient	N	bn:00061017n	بیماران مبتلا	bn:00001742n
+d001.s020.t009	with	nan	X	nan	nan	nan
+d001.s020.t010	moderate	moderate	J	bn:00106826a	متوسط	bn:00106548a
+d001.s020.t011	or	nan	X	nan	یا	nan
+d001.s020.t012	severe	severe	J	bn:00110473a	شدید	bn:00105251a
+d001.s020.t013	kidney	kidney	N	bn:00049083n	کلیوی	bn:00108566a
+d001.s020.t014	problems	problem	N	bn:00048242n	مشکلات	bn:00048242n
+d001.s020.t015	.	nan	X	nan	شود	bn:00083095v
+d001.s021.t001	For	nan	X	nan	برای	nan
+d001.s021.t002	more	more	J	bn:00106935a	بیشتر	bn:00102794a
+d001.s021.t003	information	information	N	bn:00025314n	اطلاعات	bn:00046705n
+d001.s021.t004	,	nan	X	nan	،	nan
+d001.s021.t005	see	see	V	bn:00087787v	nan	nan
+d001.s021.t006	the	nan	X	nan	به	nan
+d001.s021.t007	Summary	summary	N	bn:00075142n	خلاصه ویژگی	bn:00021341n
+d001.s021.t008	of	nan	X	nan	های	bn:00054156n
+d001.s021.t009	Product	product	N	bn:00064584n	محصول	bn:00037326n
+d001.s021.t010	Characteristics	characteristics	N	nan	nan	nan
+d001.s021.t011	(	nan	X	nan	(	nan
+d001.s021.t012	also	also	R	bn:00114246r	nan	nan
+d001.s021.t013	part	part	N	bn:00021395n	همچنین	bn:00114246r
+d001.s021.t014	of	nan	X	nan	بخشی	bn:00060633n
+d001.s021.t015	the	nan	X	nan	nan	nan
+d001.s021.t016	EPAR	epar	N	nan	از EPAR	nan
+d001.s021.t017	)	nan	X	nan	nan	nan
+d001.s021.t018	.	nan	X	nan	)	nan
+d001.s022.t001	How	nan	X	nan	چگونه	bn:00115266r
+d001.s022.t002	does	do	V	nan	nan	nan
+d001.s022.t003	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s022.t004	work	work	N	nan	کار	bn:00014137n
+d001.s022.t005	?	nan	X	nan	می کند	bn:00081319n
+d001.s023.t001	The	nan	X	nan	nan	nan
+d001.s023.t002	active	active	J	bn:00096387a	فعال	bn:00096392a
+d001.s023.t003	substance	substance	N	bn:00074986n	ماده	bn:00053867n
+d001.s023.t004	in	nan	X	nan	در	nan
+d001.s023.t005	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s023.t006	,	nan	X	nan	،	nan
+d001.s023.t007	pemetrexed	pemetrexed	N	bn:00602447n	Pemetrexed	nan
+d001.s023.t008	,	nan	X	nan	، سمیت (	nan
+d001.s023.t009	is	be	V	nan	است	nan
+d001.s023.t010	a	nan	X	nan	یک	nan
+d001.s023.t011	cytotoxic	cytotoxic	J	bn:00100866a	nan	nan
+d001.s023.t012	medicine	medicine	N	bn:00054128n	داروی	bn:00054128n
+d001.s023.t013	(	nan	X	nan	nan	nan
+d001.s023.t014	a	nan	X	nan	nan	nan
+d001.s023.t015	medicine	medicine	N	bn:00054128n	nan	nan
+d001.s023.t016	that	nan	X	nan	دارویی	bn:00028872n
+d001.s023.t017	kills	kill	V	bn:00090098v	هایی	bn:00053801n
+d001.s023.t018	cells	cell	N	bn:00017027n	که می	nan
+d001.s023.t019	that	nan	X	nan	را	nan
+d001.s023.t020	are	be	V	nan	nan	nan
+d001.s023.t021	dividing	divide	V	bn:00087100v	که	nan
+d001.s023.t022	,	nan	X	nan	شوند سلولهای	bn:00084027v
+d001.s023.t023	such as	such as	R	nan	سلول ،	bn:00017027n
+d001.s023.t024	cancer	cancer	N	bn:00015180n	nan	nan
+d001.s023.t025	cells	cell	N	bn:00017027n	nan	nan
+d001.s023.t026	)	nan	X	nan	مانند به	nan
+d001.s023.t027	,	nan	X	nan	تقسیم	bn:00027919n
+d001.s023.t028	which	nan	X	nan	متعلق گروه	bn:00009814n
+d001.s023.t029	belongs	belong	V	bn:00083389v	سرطانی های	bn:00015180n
+d001.s023.t030	to	nan	X	nan	) که	nan
+d001.s023.t031	the	nan	X	nan	nan	nan
+d001.s023.t032	group	group	N	bn:00018111n	nan	nan
+d001.s023.t033	antimetabolites	antimetabolites	N	bn:00004691n	آنتیمتابولیت	bn:00040918n
+d001.s023.t034	.	nan	X	nan	nan	nan
+d001.s024.t001	In	nan	X	nan	در	nan
+d001.s024.t002	the	nan	X	nan	nan	nan
+d001.s024.t003	body	body	N	bn:00011744n	بدن	bn:00011744n
+d001.s024.t004	,	nan	X	nan	، شود	nan
+d001.s024.t005	pemetrexed	pemetrexed	N	bn:00602447n	Pemetrexed	nan
+d001.s024.t006	is	be	V	nan	nan	nan
+d001.s024.t007	converted	convert	V	bn:00085761v	تبدیل	bn:00077989n
+d001.s024.t008	into	nan	X	nan	به	nan
+d001.s024.t009	an	nan	X	nan	یک	nan
+d001.s024.t010	active	active	J	bn:00096382a	فعال	bn:00096392a
+d001.s024.t011	form	form	N	bn:00035913n	شکل	bn:00035909n
+d001.s024.t012	that	nan	X	nan	که	nan
+d001.s024.t013	blocks	block	V	bn:00083623v	nan	nan
+d001.s024.t014	the	nan	X	nan	nan	nan
+d001.s024.t015	activity	activity	N	bn:00001130n	فعالیت	bn:00001174n
+d001.s024.t016	of	nan	X	nan	nan	nan
+d001.s024.t017	the	nan	X	nan	را	nan
+d001.s024.t018	enzymes	enzyme	N	bn:00031085n	آنزیم هایی	bn:00031085n
+d001.s024.t019	that	nan	X	nan	که	nan
+d001.s024.t020	are	be	V	nan	دارند	bn:00083187v
+d001.s024.t021	involved	involve	V	bn:00089893v	نقش	bn:00068130n
+d001.s024.t022	in	nan	X	nan	در	nan
+d001.s024.t023	producing	produce	V	bn:00084082v	تولید	bn:00032594n
+d001.s024.t024	nucleotides	nucleotide	N	bn:00008788n	نوکلئوتیدها (	bn:00008788n
+d001.s024.t025	(	nan	X	nan	nan	nan
+d001.s024.t026	the	nan	X	nan	nan	nan
+d001.s024.t027	building blocks	building block	N	bn:00013726n	های	bn:00054156n
+d001.s024.t028	of	nan	X	nan	nan	nan
+d001.s024.t029	DNA	dna	N	bn:00026301n	بلوک	bn:00007533n
+d001.s024.t030	and	nan	X	nan	ساختمانی	bn:00100341a
+d001.s024.t031	RNA	rna	N	bn:00067714n	DNA	nan
+d001.s024.t032	,	nan	X	nan	و	nan
+d001.s024.t033	the	nan	X	nan	RNA	nan
+d001.s024.t034	genetic	genetic	J	bn:00103522a	nan	nan
+d001.s024.t035	material	material	N	bn:00053801n	مواد	bn:00053867n
+d001.s024.t036	of	nan	X	nan	،	nan
+d001.s024.t037	cells	cell	N	bn:00017027n	nan	nan
+d001.s024.t038	)	nan	X	nan	ژنتیکی	bn:00098417a
+d001.s024.t039	.	nan	X	nan	سلول ها )	bn:00017027n
+d001.s025.t001	How	nan	X	nan	چگونه	bn:00114234r
+d001.s025.t002	has	have	V	nan	nan	nan
+d001.s025.t003	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s025.t004	been	be	V	nan	nan	nan
+d001.s025.t005	studied	study	V	bn:00082596v	مورد مطالعه قرار گرفته_است	nan
+d001.s025.t006	?	nan	X	nan	؟	nan
+d001.s026.t001	For	nan	X	nan	برای	nan
+d001.s026.t002	the	nan	X	nan	nan	nan
+d001.s026.t003	treatment	treatment	N	bn:00047235n	درمان	bn:00024461n
+d001.s026.t004	of	nan	X	nan	nan	nan
+d001.s026.t005	malignant	malignant	J	bn:00106363a	بدخیم	nan
+d001.s026.t006	pleural	pleural	J	bn:00108692a	مزوتلیوما پلور	bn:00054512n
+d001.s026.t007	mesothelioma	mesothelioma	N	bn:00054512n	nan	nan
+d001.s026.t008	,	nan	X	nan	، مورد	nan
+d001.s026.t009	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s026.t010	has	have	V	nan	nan	nan
+d001.s026.t011	been	be	V	nan	nan	nan
+d001.s026.t012	studied	study	V	bn:00082596v	مطالعه 456 مطالعه گرفته_است .	bn:00061758n
+d001.s026.t013	in	nan	X	nan	در در	nan
+d001.s026.t014	one	nan	X	nan	یک	nan
+d001.s026.t015	main	main	J	bn:00099598a	اصلی	bn:00107593a
+d001.s026.t016	study	study	N	bn:00074790n	قرار	bn:00061758n
+d001.s026.t017	in	nan	X	nan	nan	nan
+d001.s026.t018	456	nan	X	nan	nan	nan
+d001.s026.t019	patients	patient	N	bn:00061017n	بیمار	bn:00001742n
+d001.s026.t020	who	nan	X	nan	که	nan
+d001.s026.t021	had	have	V	nan	،	nan
+d001.s026.t022	not	not	R	bn:00116360r	نکرده_بودند	bn:00087966v
+d001.s026.t023	received	receive	V	bn:00087863v	دریافت	bn:00026631n
+d001.s026.t024	chemotherapy	chemotherapy	N	bn:00018141n	شیمی درمانی	bn:00018123n
+d001.s026.t025	for	nan	X	nan	برای	nan
+d001.s026.t026	their	nan	X	nan	خود	nan
+d001.s026.t027	disease	disease	N	bn:00027546n	بیماری	bn:00045952n
+d001.s026.t028	before	before	R	bn:00114512r	قبلاً	bn:00114089r
+d001.s026.t029	.	nan	X	nan	nan	
+d001.s027.t001	The	nan	X	nan	nan	nan
+d001.s027.t002	effects	effect	N	bn:00029874n	اثرات	bn:00001740n
+d001.s027.t003	of	nan	X	nan	nan	nan
+d001.s027.t004	Alimta	alimta	N	bn:00602447n	ALIMTA	nan
+d001.s027.t005	in	nan	X	nan	در	nan
+d001.s027.t006	combination	combination	N	bn:00020872n	ترکیب	bn:00001466n
+d001.s027.t007	with	nan	X	nan	با	nan
+d001.s027.t008	cisplatin	cisplatin	N	bn:00577781n	سیس پلاتین	bn:00016860n
+d001.s027.t009	were	be	V	nan	nan	nan
+d001.s027.t010	compared	compare	V	bn:00085450v	مقایسه	bn:00021297n
+d001.s027.t011	with	nan	X	nan	با	nan
+d001.s027.t012	those	nan	X	nan	nan	nan
+d001.s027.t013	of	nan	X	nan	nan	nan
+d001.s027.t014	cisplatin	cisplatin	N	bn:00577781n	سیس پلاتین	bn:00044245n
+d001.s027.t015	alone	alone	R	bn:00114234r	تنهایی	bn:00026574n
+d001.s027.t016	.	nan	X	nan	شد	bn:00087562v
+d001.s028.t001	For	nan	X	nan	برای	nan
+d001.s028.t002	the	nan	X	nan	nan	nan
+d001.s028.t003	treatment	treatment	N	bn:00047235n	درمان	bn:00024461n
+d001.s028.t004	of	nan	X	nan	nan	nan
+d001.s028.t005	non-small	non-small	J	nan	غیر	bn:00004674n
+d001.s028.t006	cell	cell	N	bn:00017027n	سلول کوچک	bn:00017027n
+d001.s028.t007	lung	lung	N	bn:00052341n	ریه	bn:00052341n
+d001.s028.t008	cancer	cancer	N	bn:00015180n	سرطان	bn:00015180n
+d001.s028.t009	,	nan	X	nan	،	nan
+d001.s028.t010	the	nan	X	nan	nan	nan
+d001.s028.t011	effects	effect	N	bn:00029874n	اثرات	bn:00001740n
+d001.s028.t012	of	nan	X	nan	nan	nan
+d001.s028.t013	Alimta	alimta	N	bn:00602447n	Alimta Docetaxel	nan
+d001.s028.t014	were	be	V	nan	nan	nan
+d001.s028.t015	compared	compare	V	bn:00085450v	،	nan
+d001.s028.t016	with	nan	X	nan	با	nan
+d001.s028.t017	those	nan	X	nan	موارد	bn:00016401n
+d001.s028.t018	of	nan	X	nan	دیگر	bn:00108011a
+d001.s028.t019	docetaxel	docetaxel	N	bn:01537207n	nan	nan
+d001.s028.t020	(	nan	X	nan	(	nan
+d001.s028.t021	another	nan	X	nan	یکی	bn:00000005n
+d001.s028.t022	anticancer	anticancer	J	bn:00097220a	داروهای ضد	bn:00028872n
+d001.s028.t023	medicine	medicine	N	bn:00054128n	از	nan
+d001.s028.t024	)	nan	X	nan	مطالعه	bn:00061758n
+d001.s028.t025	in	nan	X	nan	سرطان	bn:00015180n
+d001.s028.t026	one	nan	X	nan	)	nan
+d001.s028.t027	study	study	N	bn:00074790n	در	nan
+d001.s028.t028	involving	involve	V	bn:00089893v	یک	nan
+d001.s028.t029	571	nan	X	nan	nan	nan
+d001.s028.t030	patients	patient	N	bn:00061017n	شامل 571	bn:00104728a
+d001.s028.t031	with	nan	X	nan	nan	nan
+d001.s028.t032	locally	locally	R	bn:00116147r	به	nan
+d001.s028.t033	advanced	advanced	J	bn:00096528a	بیماری	bn:00027546n
+d001.s028.t034	or	nan	X	nan	محلی	bn:00109715a
+d001.s028.t035	metastatic	metastatic	J	bn:00106664a	پیشرفته	bn:00099667a
+d001.s028.t036	disease	disease	N	bn:00027546n	مبتلا	bn:00103595a
+d001.s028.t037	who	nan	X	nan	یا	nan
+d001.s028.t038	had	have	V	nan	دریافت	bn:00026631n
+d001.s028.t039	received	receive	V	bn:00087863v	شیمی درمانی	bn:00018123n
+d001.s028.t040	chemotherapy	chemotherapy	N	bn:00018141n	در گذشته	nan
+d001.s028.t041	in	nan	X	nan	متاستاتیک	bn:00054585n
+d001.s028.t042	the	nan	X	nan	nan	nan
+d001.s028.t043	past	past	N	bn:00060927n	که	nan
+d001.s028.t044	.	nan	X	nan	کرده_بودند مقایسه	bn:00082565v
+d001.s029.t001	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s029.t002	was	be	V	nan	nan	nan
+d001.s029.t003	also	also	R	bn:00114246r	همچنین	bn:00114246r
+d001.s029.t004	compared	compare	V	bn:00085450v	nan	nan
+d001.s029.t005	with	nan	X	nan	با	nan
+d001.s029.t006	gemcitabine	gemcitabine	N	bn:00848690n	Gemcitabine	nan
+d001.s029.t007	(	nan	X	nan	( دیگر	nan
+d001.s029.t008	another	nan	X	nan	یکی	bn:00000005n
+d001.s029.t009	anticancer	anticancer	J	bn:00097220a	داروهای ضد	bn:00028872n
+d001.s029.t010	medicine	medicine	N	bn:00054128n	از	nan
+d001.s029.t011	)	nan	X	nan	nan	nan
+d001.s029.t012	,	nan	X	nan	سرطان	bn:00015180n
+d001.s029.t013	both	nan	X	nan	) ،	nan
+d001.s029.t014	in	nan	X	nan	هر	nan
+d001.s029.t015	combination	combination	N	bn:00020872n	دو	bn:00012596n
+d001.s029.t016	with	nan	X	nan	در	nan
+d001.s029.t017	cisplatin	cisplatin	N	bn:00577781n	ترکیب با	bn:00001466n
+d001.s029.t018	,	nan	X	nan	سیس نکرده_بودند	bn:00044245n
+d001.s029.t019	in	nan	X	nan	پلاتین بیمار	bn:00006910n
+d001.s029.t020	a	nan	X	nan	،	nan
+d001.s029.t021	study	study	N	bn:00074790n	در	nan
+d001.s029.t022	involving	involve	V	bn:00089893v	یک	nan
+d001.s029.t023	1,725	nan	X	nan	مطالعه	bn:00061758n
+d001.s029.t024	patients	patient	N	bn:00061017n	شامل	bn:00104728a
+d001.s029.t025	who	nan	X	nan	1725	nan
+d001.s029.t026	had	have	V	nan	دریافت	bn:00026631n
+d001.s029.t027	not	not	R	bn:00116360r	ریه	bn:00052341n
+d001.s029.t028	received	receive	V	bn:00087863v	سرطان	bn:00015180n
+d001.s029.t029	chemotherapy	chemotherapy	N	bn:00018141n	در گذشته	nan
+d001.s029.t030	for	nan	X	nan	شیمی	bn:00018123n
+d001.s029.t031	lung	lung	N	bn:00052341n	برای	nan
+d001.s029.t032	cancer	cancer	N	bn:00015180n	درمانی	bn:00096890a
+d001.s029.t033	in	nan	X	nan	nan	nan
+d001.s029.t034	the	nan	X	nan	nan	nan
+d001.s029.t035	past	past	N	bn:00060927n	که	nan
+d001.s029.t036	.	nan	X	nan	، مقایسه	nan
+d001.s030.t001	In	nan	X	nan	در	nan
+d001.s030.t002	all	nan	X	nan	nan	nan
+d001.s030.t003	three	nan	X	nan	هر سه	nan
+d001.s030.t004	studies	study	N	bn:00067181n	مطالعه	bn:00061758n
+d001.s030.t005	,	nan	X	nan	،	nan
+d001.s030.t006	the	nan	X	nan	nan	nan
+d001.s030.t007	main	main	J	bn:00099598a	اصلی	bn:00103567a
+d001.s030.t008	measure	measure	N	bn:00054019n	اندازه گیری	bn:00054019n
+d001.s030.t009	of	nan	X	nan	nan	nan
+d001.s030.t010	effectiveness	effectiveness	N	bn:00029876n	اثربخشی	bn:00029876n
+d001.s030.t011	was	be	V	nan	این بود که	nan
+d001.s030.t012	how	nan	X	nan	چه	nan
+d001.s030.t013	long	long	R	bn:00116153r	مدت .	bn:00029170n
+d001.s030.t014	the	nan	X	nan	nan	nan
+d001.s030.t015	patients	patient	N	bn:00061017n	بیماران	bn:00001742n
+d001.s030.t016	survived	survive	V	bn:00085382v	زنده مانده_اند	bn:00096787a
+d001.s030.t017	.	nan	X	nan	nan	nan
+d001.s031.t001	What	nan	X	nan	چه	nan
+d001.s031.t002	benefit	benefit	N	bn:00037022n	فایده	bn:00079396n
+d001.s031.t003	has	have	V	nan	nan	nan
+d001.s031.t004	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s031.t005	shown	show	V	bn:00086567v	نشان داده_است	bn:00025766n
+d001.s031.t006	during	nan	X	nan	در طول	nan
+d001.s031.t007	the	nan	X	nan	ای	nan
+d001.s031.t008	studies	study	N	bn:00074790n	مطالعات	bn:00061758n
+d001.s031.t009	?	nan	X	nan	؟	nan
+d001.s032.t001	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s032.t002	increased	increase	V	bn:00089667v	nan	nan
+d001.s032.t003	the	nan	X	nan	nan	nan
+d001.s032.t004	survival	survival	N	bn:00030811n	بقای	bn:00030811n
+d001.s032.t005	time	time	N	bn:00077268n	زمان	bn:00060099n
+d001.s032.t006	of	nan	X	nan	به	nan
+d001.s032.t007	patients	patient	N	bn:00061017n	بیماران مبتلا	bn:00001742n
+d001.s032.t008	with	nan	X	nan	nan	nan
+d001.s032.t009	malignant	malignant	J	bn:00106363a	بدخیم	nan
+d001.s032.t010	pleural	pleural	J	bn:00108692a	مزوتلیوما پلور	nan
+d001.s032.t011	mesothelioma	mesothelioma	N	bn:00054512n	افزایش داد	bn:00007148n
+d001.s032.t012	.	nan	X	nan	nan	nan
+d001.s033.t001	Patients	patient	N	bn:00061017n	بیمارانی دریافت	bn:00001742n
+d001.s033.t002	receiving	receive	V	bn:00087863v	دریافت	bn:00061505n
+d001.s033.t003	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s033.t004	and	nan	X	nan	و کردند	nan
+d001.s033.t005	cisplatin	cisplatin	N	bn:00577781n	سیس پلاتین	nan
+d001.s033.t006	survived	survive	V	bn:00085382v	زنده مانده_بودند	bn:00096787a
+d001.s033.t007	for	nan	X	nan	nan	nan
+d001.s033.t008	an	nan	X	nan	nan	nan
+d001.s033.t009	average	average	N	bn:00054001n	طور متوسط	bn:00046516n
+d001.s033.t010	of	nan	X	nan	nan	nan
+d001.s033.t011	12.1	nan	X	nan	12.1	nan
+d001.s033.t012	months	month	N	bn:00055794n	ماه	bn:00014710n
+d001.s033.t013	,	nan	X	nan	در	nan
+d001.s033.t014	compared	compare	V	bn:00085450v	با	bn:00021297n
+d001.s033.t015	with	nan	X	nan	9.3	nan
+d001.s033.t016	9.3	nan	X	nan	ماه	nan
+d001.s033.t017	months	month	N	bn:00055794n	در	bn:00014710n
+d001.s033.t018	in	nan	X	nan	مقایسه بیماران	nan
+d001.s033.t019	those	nan	X	nan	nan	nan
+d001.s033.t020	receiving	receive	V	nan	کننده سیس	bn:00026631n
+d001.s033.t021	cisplatin	cisplatin	N	bn:00577781n	پلاتین .	bn:00044245n
+d001.s033.t022	alone	alone	R	bn:00114235r	nan	nan
+d001.s033.t023	.	nan	X	nan	nan	nan
+d001.s034.t001	In	nan	X	nan	در	nan
+d001.s034.t002	the	nan	X	nan	nan	nan
+d001.s034.t003	treatment	treatment	N	bn:00047235n	درمان	bn:00024461n
+d001.s034.t004	of	nan	X	nan	nan	nan
+d001.s034.t005	patients	patient	N	bn:00061017n	بیماران مبتلا	bn:00001742n
+d001.s034.t006	with	nan	X	nan	nan	nan
+d001.s034.t007	non-small	non-small	J	nan	غیر	bn:00004674n
+d001.s034.t008	cell	cell	N	bn:00017027n	سلول کوچک	bn:00017027n
+d001.s034.t009	lung	lung	N	bn:00052341n	ریه	bn:00052341n
+d001.s034.t010	cancer	cancer	N	bn:00015180n	سرطان	bn:00015180n
+d001.s034.t011	,	nan	X	nan	،	nan
+d001.s034.t012	Alimta	alimta	N	bn:00602447n	Alimta مقایسه	nan
+d001.s034.t013	was	be	V	nan	nan	nan
+d001.s034.t014	as	as	R	bn:00114354r	به اندازه	nan
+d001.s034.t015	effective	effective	J	bn:00102038a	nan	nan
+d001.s034.t016	as	as	R	bn:00114354r	nan	nan
+d001.s034.t017	the	nan	X	nan	کننده ها	bn:00001177n
+d001.s034.t018	comparators	comparator	N	nan	مؤثر بود	bn:00101186a
+d001.s034.t019	.	nan	X	nan	nan	nan
+d001.s035.t001	In	nan	X	nan	در در	nan
+d001.s035.t002	patients	patient	N	bn:00061017n	بیمارانی	bn:00001742n
+d001.s035.t003	who	nan	X	nan	که	nan
+d001.s035.t004	had	have	V	nan	،	nan
+d001.s035.t005	received	receive	V	bn:00087863v	دریافت کرده_بودند	bn:00026631n
+d001.s035.t006	chemotherapy	chemotherapy	N	bn:00018141n	شیمی درمانی	bn:00018123n
+d001.s035.t007	in	nan	X	nan	nan	nan
+d001.s035.t008	the	nan	X	nan	nan	nan
+d001.s035.t009	past	past	N	bn:00060927n	گذشته	bn:00060927n
+d001.s035.t010	,	nan	X	nan	میانگین	nan
+d001.s035.t011	the	nan	X	nan	nan	nan
+d001.s035.t012	average	average	J	bn:00097854a	زمان	bn:00054001n
+d001.s035.t013	survival	survival	N	bn:00030811n	8.3	bn:00030811n
+d001.s035.t014	time	time	N	bn:00077268n	بقا	bn:00060099n
+d001.s035.t015	was	be	V	nan	،	nan
+d001.s035.t016	8.3	nan	X	nan	ماه	nan
+d001.s035.t017	months	month	N	bn:00055794n	با	bn:00014710n
+d001.s035.t018	with	nan	X	nan	ALIMTA	nan
+d001.s035.t019	Alimta	alimta	N	bn:00602447n	بود	nan
+d001.s035.t020	,	nan	X	nan	در	nan
+d001.s035.t021	compared	compare	V	bn:00085450v	مقایسه با	nan
+d001.s035.t022	with	nan	X	nan	7.9	nan
+d001.s035.t023	7.9	nan	X	nan	ماه	nan
+d001.s035.t024	months	month	N	bn:00055794n	با	bn:00014710n
+d001.s035.t025	with	nan	X	nan	Docetaxel	nan
+d001.s035.t026	docetaxel	docetaxel	N	bn:01537207n	.	nan
+d001.s035.t027	.	nan	X	nan	nan	nan
+d001.s036.t001	In	nan	X	nan	در در	nan
+d001.s036.t002	patients	patient	N	bn:00061017n	بیمارانی	bn:00001742n
+d001.s036.t003	who	nan	X	nan	که	nan
+d001.s036.t004	had	have	V	nan	،	nan
+d001.s036.t005	not	not	R	bn:00116360r	نکرده_بودند	bn:00082907v
+d001.s036.t006	received	receive	V	bn:00087863v	دریافت	bn:00026631n
+d001.s036.t007	chemotherapy	chemotherapy	N	bn:00018141n	شیمی درمانی	bn:00018123n
+d001.s036.t008	in	nan	X	nan	nan	nan
+d001.s036.t009	the	nan	X	nan	nan	nan
+d001.s036.t010	past	past	N	bn:00060927n	گذشته	bn:00060927n
+d001.s036.t011	,	nan	X	nan	میانگین	nan
+d001.s036.t012	the	nan	X	nan	nan	nan
+d001.s036.t013	average	average	J	bn:00097854a	زمان	bn:00054001n
+d001.s036.t014	survival	survival	N	bn:00030811n	در	bn:00030811n
+d001.s036.t015	time	time	N	bn:00077268n	بقا	bn:00060099n
+d001.s036.t016	was	be	V	nan	.	nan
+d001.s036.t017	10.3	nan	X	nan	ماه	nan
+d001.s036.t018	months	month	N	bn:00055794n	بود	bn:00014710n
+d001.s036.t019	in	nan	X	nan	هر	nan
+d001.s036.t020	both	nan	X	nan	دو گروه	nan
+d001.s036.t021	groups	group	N	bn:00041942n	10	bn:00073699n
+d001.s036.t022	.	nan	X	nan	nan	nan
+d001.s037.t001	However	however	R	bn:00114627r	nan	nan
+d001.s037.t002	,	nan	X	nan	،	nan
+d001.s037.t003	in	nan	X	nan	حال در در در	bn:00029935n
+d001.s037.t004	both	nan	X	nan	هر دو	nan
+d001.s037.t005	studies	study	N	bn:00074790n	مطالعه	bn:00061758n
+d001.s037.t006	,	nan	X	nan	، ، ،	nan
+d001.s037.t007	patients	patient	N	bn:00061017n	بیمارانی	bn:00001742n
+d001.s037.t008	whose	nan	X	nan	که	nan
+d001.s037.t009	cancer	cancer	N	bn:00015180n	سرطان	bn:00015180n
+d001.s037.t010	was	be	V	nan	nan	nan
+d001.s037.t011	not	not	R	bn:00116360r	نمی	nan
+d001.s037.t012	affecting	affect	V	bn:00082427v	nan	nan
+d001.s037.t013	squamous	squamous	J	nan	سنگفرشی تأثیر گذارد	bn:00073708n
+d001.s037.t014	cells	cell	N	bn:00017027n	سلولهای	bn:00017027n
+d001.s037.t015	had	have	V	bn:00088078v	nan	nan
+d001.s037.t016	longer	long	J	bn:00106124a	طولانی	bn:00106124a
+d001.s037.t017	survival	survival	N	bn:00030811n	بقا	bn:00030811n
+d001.s037.t018	times	time	N	bn:00077268n	زمان	bn:00060099n
+d001.s037.t019	if	nan	X	nan	صورت	bn:00000746n
+d001.s037.t020	they	nan	X	nan	آنها	nan
+d001.s037.t021	received	receive	V	nan	دریافت دریافت	bn:00026631n
+d001.s037.t022	Alimta	alimta	N	bn:00602447n	Alimta مقایسه	nan
+d001.s037.t023	than	nan	X	nan	نسبت اینکه تر	nan
+d001.s037.t024	if	nan	X	nan	nan	nan
+d001.s037.t025	they	nan	X	nan	کنند	bn:00086008v
+d001.s037.t026	received	receive	V	nan	nan	nan
+d001.s037.t027	the	nan	X	nan	nan	nan
+d001.s037.t028	comparator	comparator	N	nan	nan	nan
+d001.s037.t029	.	nan	X	nan	می داشتند	bn:00054706n
+d001.s038.t001	In	nan	X	nan	در در در	nan
+d001.s038.t002	contrast	contrast	N	bn:00022261n	مقابل	bn:00022262n
+d001.s038.t003	,	nan	X	nan	، ، ،	nan
+d001.s038.t004	patients	patient	N	bn:00061017n	بیمارانی	bn:00001742n
+d001.s038.t005	whose	nan	X	nan	که آنها	nan
+d001.s038.t006	cancer	cancer	N	bn:00015180n	سرطان	bn:00015180n
+d001.s038.t007	was	be	V	nan	nan	nan
+d001.s038.t008	affecting	affect	V	bn:00082427v	nan	nan
+d001.s038.t009	squamous	squamous	J	nan	سنگفرشی تأثیر گذارد	bn:00073708n
+d001.s038.t010	cells	cell	N	bn:00017027n	سلولهای	bn:00017027n
+d001.s038.t011	had	have	V	bn:00088078v	nan	nan
+d001.s038.t012	shorter	short	J	bn:00110561a	بقا کوتاه	bn:00030811n
+d001.s038.t013	survival	survival	N	bn:00030811n	زمان	bn:00060099n
+d001.s038.t014	times	time	N	bn:00077268n	nan	nan
+d001.s038.t015	if	nan	X	nan	صورت	bn:00025766n
+d001.s038.t016	they	nan	X	nan	nan	nan
+d001.s038.t017	received	receive	V	nan	دریافت	bn:00026631n
+d001.s038.t018	Alimta	alimta	N	bn:00602447n	Alimta	nan
+d001.s038.t019	.	nan	X	nan	تر	bn:00116284r
+d002.s001.t001	kalgebra	kalgebra	N	bn:08534138n	Kalgebra	nan
+d002.s001.t002	is	be	V	nan	است	nan
+d002.s001.t003	a	nan	X	nan	یک	nan
+d002.s001.t004	mathematical	mathematical	J	bn:00106488a	ریاضی	bn:00053826n
+d002.s001.t005	calculator	calculator	N	bn:00946167n	ماشین حساب	bn:00005004n
+d002.s001.t006	based	base	V	bn:00083141v	بر اساس	nan
+d002.s001.t007	on	nan	X	nan	nan	nan
+d002.s001.t008	content	content	J	nan	MATHML	nan
+d002.s001.t009	markup	markup	N	bn:00053491n	nan	nan
+d002.s001.t010	MathML	mathml	N	bn:03313895n	MATHML MATHML	nan
+d002.s001.t011	language	language	N	bn:00213650n	زبان	bn:00049910n
+d002.s001.t012	.	nan	X	nan	محتوا	bn:00080229n
+d002.s002.t001	Nowadays	nowadays	R	bn:00116382r	امروزه	bn:00116382r
+d002.s002.t002	it	nan	X	nan	nan	nan
+d002.s002.t003	is	be	V	nan	nan	nan
+d002.s002.t004	capable	capable	J	bn:00099215a	قادر	bn:00099215a
+d002.s002.t005	to	nan	X	nan	به	nan
+d002.s002.t006	make	make	V	bn:00090557v	nan	nan
+d002.s002.t007	simple	simple	J	bn:00102111a	ساده	bn:00112419a
+d002.s002.t008	MathML	mathml	N	bn:03313895n	MATHML	nan
+d002.s002.t009	operations	operation	N	bn:00053826n	انجام عملیات	bn:00029881n
+d002.s002.t010	(	nan	X	nan	nan	nan
+d002.s002.t011	arithmetic	arithmetic	J	bn:00097495a	(	nan
+d002.s002.t012	and	nan	X	nan	حسابی	bn:00097495a
+d002.s002.t013	logical	logical	J	nan	و	nan
+d002.s002.t014	)	nan	X	nan	nan	nan
+d002.s002.t015	and	nan	X	nan	منطقی	bn:00106117a
+d002.s002.t016	to	nan	X	nan	nan	nan
+d002.s002.t017	representate	representate	N	nan	nan	nan
+d002.s002.t018	2D	2d	N	nan	و	nan
+d002.s002.t019	and	nan	X	nan	نمودارهای	bn:00026817n
+d002.s002.t020	3D	3d	N	bn:00000102n	2	bn:00000075n
+d002.s002.t021	graphs	graph	N	bn:00041412n	) D	nan
+d002.s002.t022	.	nan	X	nan	و	bn:00000101n
+d002.s003.t001	It	nan	X	nan	nan	nan
+d002.s003.t002	is	be	V	nan	nan	nan
+d002.s003.t003	actually	actually	R	bn:00114118r	در واقع	nan
+d002.s003.t004	not	not	R	bn:00116360r	نیست	nan
+d002.s003.t005	necessary	necessary	J	bn:00107182a	لازم برای	bn:00107183a
+d002.s003.t006	to	nan	X	nan	nan	nan
+d002.s003.t007	know	know	V	bn:00085261v	که	nan
+d002.s003.t008	MathML	mathml	N	bn:03313895n	MATHML	nan
+d002.s003.t009	to	nan	X	nan	nan	nan
+d002.s003.t010	use	use	V	bn:00082705v	از استفاده از استفاده	nan
+d002.s003.t011	kalgebra	kalgebra	N	bn:08534138n	Kalgebra کنیم	nan
+d002.s003.t012	.	nan	X	nan	nan	nan
+d002.s004.t001	kalgebra	kalgebra	N	bn:08534138n	Kalgebra	nan
+d002.s004.t002	is	be	V	nan	nan	nan
+d002.s004.t003	a	nan	X	nan	یک	nan
+d002.s004.t004	MathML	mathml	N	bn:03313895n	MATHML	nan
+d002.s004.t005	based	base	V	bn:00083141v	مبتنی بر	bn:00097034a
+d002.s004.t006	graph	graph	N	bn:00041412n	نمودار	bn:00026817n
+d002.s004.t007	calculator	calculator	N	bn:00946167n	ماشین حساب	bn:00005004n
+d002.s004.t008	.	nan	X	nan	است	nan
+d002.s005.t001	Although	nan	X	nan	اگرچه	nan
+d002.s005.t002	it	nan	X	nan	nan	nan
+d002.s005.t003	was	be	V	nan	بود	nan
+d002.s005.t004	initially	initially	R	bn:00114055r	در ابتدا	nan
+d002.s005.t005	MathML	mathml	N	bn:03313895n	MathML گرا	nan
+d002.s005.t006	oriented	orient	V	bn:00091201v	nan	nan
+d002.s005.t007	it	nan	X	nan	،	nan
+d002.s005.t008	can	nan	X	nan	می تواند	bn:00054706n
+d002.s005.t009	now	now	R	bn:00114424r	اکنون	bn:00058218n
+d002.s005.t010	be	be	V	nan	nan	nan
+d002.s005.t011	used	use	V	bn:00082705v	استفاده	bn:00030627n
+d002.s005.t012	by	nan	X	nan	توسط	nan
+d002.s005.t013	everyone	everyone	N	nan	همه	bn:00042721n
+d002.s005.t014	with	nan	X	nan	با	nan
+d002.s005.t015	little	little	J	bn:00106058a	کمی	bn:00102920a
+d002.s005.t016	mathematical	mathematical	J	bn:00106488a	ریاضی	bn:00076834n
+d002.s005.t017	knowledge	knowledge	N	bn:00020452n	دانش	bn:00020452n
+d002.s005.t018	.	nan	X	nan	شود	bn:00087737v
+d002.s006.t001	Here	here	R	bn:00115639r	در اینجا	nan
+d002.s006.t002	's	be	V	nan	تصویری	bn:00045772n
+d002.s006.t003	a	nan	X	nan	nan	nan
+d002.s006.t004	screenshot	screenshot	N	bn:01157212n	از	nan
+d002.s006.t005	of	nan	X	nan	nan	nan
+d002.s006.t006	kalgebra	kalgebra	N	bn:08534138n	Kalgebra	nan
+d002.s006.t007	main	main	J	bn:00099598a	اصلی	bn:00107593a
+d002.s006.t008	window	window	N	bn:00081292n	پنجره است	bn:00081285n
+d002.s007.t001	kalgebra	kalgebra	N	bn:08534138n	پنجره	bn:00081285n
+d002.s007.t002	main	main	J	bn:00099598a	اصلی	bn:00103567a
+d002.s007.t003	window	window	N	bn:00081292n	Kalgebra	nan
+d002.s008.t001	kalgebra	kalgebra	N	bn:08534138n	Kalgebra کنسول	nan
+d002.s008.t002	main	main	J	bn:00099598a	اصلی	bn:00103567a
+d002.s008.t003	window	window	N	bn:00081292n	پنجره	bn:00081285n
+d002.s008.t004	consists	consist	V	bn:00085498v	nan	nan
+d002.s008.t005	in	nan	X	nan	در	nan
+d002.s008.t006	a	nan	X	nan	یک یک	nan
+d002.s008.t007	Console	console	N	bn:00020949n	nan	nan
+d002.s008.t008	tab	tab	N	bn:00120018n	برگه برگه نمودار	bn:00035619n
+d002.s008.t009	,	nan	X	nan	، D	nan
+d002.s008.t010	a	nan	X	nan	،	nan
+d002.s008.t011	2D	2d	N	nan	2	bn:00046516n
+d002.s008.t012	Graph	graph	N	bn:00041412n	nan	nan
+d002.s008.t013	tab	tab	N	bn:00120018n	یک برگه	bn:00035619n
+d002.s008.t014	,	nan	X	nan	nan	nan
+d002.s008.t015	a	nan	X	nan	nan	nan
+d002.s008.t016	3D	3d	N	bn:00000102n	نمودار سه	nan
+d002.s008.t017	Graph	graph	N	bn:00041412n	nan	nan
+d002.s008.t018	tab	tab	N	bn:00120018n	یک	bn:00035619n
+d002.s008.t019	and	nan	X	nan	بعدی	nan
+d002.s008.t020	a	nan	X	nan	و	nan
+d002.s008.t021	Dictionary	dictionary	N	bn:00026967n	برگه فرهنگ	bn:00026967n
+d002.s008.t022	tab	tab	N	bn:00120018n	لغت	bn:00035771n
+d002.s008.t023	.	nan	X	nan	تشکیل شده_است	bn:00085670v
+d002.s009.t001	Below	below	R	bn:00114401r	در زیر	nan
+d002.s009.t002	these	nan	X	nan	این ها	nan
+d002.s009.t003	tabs	tab	N	bn:00120018n	برگه	bn:00035619n
+d002.s009.t004	you	nan	X	nan	nan	nan
+d002.s009.t005	will	nan	X	nan	nan	nan
+d002.s009.t006	find	find	V	bn:00086708v	پیدا	bn:00088208v
+d002.s009.t007	an	nan	X	nan	یک	nan
+d002.s009.t008	input	input	N	bn:00046850n	ورودی	bn:00031044n
+d002.s009.t009	field	field	N	bn:00034274n	nan	nan
+d002.s009.t010	to	nan	X	nan	برای	nan
+d002.s009.t011	type	type	V	bn:00095295v	تایپ	bn:00078813n
+d002.s009.t012	your	nan	X	nan	خود	nan
+d002.s009.t013	functions	function	N	bn:00036821n	کارکردهای	bn:00009654n
+d002.s009.t014	or	nan	X	nan	یا	nan
+d002.s009.t015	do	do	V	bn:00087107v	انجام	bn:00029881n
+d002.s009.t016	your	nan	X	nan	خود خواهید_کرد	nan
+d002.s009.t017	calculations	calculation	N	bn:00014688n	محاسبات	bn:00014688n
+d002.s009.t018	.	nan	X	nan	.	bn:00087106v
+d002.s010.t001	If	nan	X	nan	اگر	nan
+d002.s010.t002	we	nan	X	nan	که	bn:00088162v
+d002.s010.t003	want	want	V	bn:00086682v	می خواهیم_درک	bn:00054706n
+d002.s010.t004	to	nan	X	nan	nan	nan
+d002.s010.t005	understand	understand	V	bn:00092443v	کنیم	bn:00005134n
+d002.s010.t006	how	nan	X	nan	کار	bn:00116246r
+d002.s010.t007	it	nan	X	nan	nan	nan
+d002.s010.t008	works	work	V	bn:00088629v	می ،	bn:00014137n
+d002.s010.t009	,	nan	X	nan	بهترین	nan
+d002.s010.t010	the	nan	X	nan	nan	nan
+d002.s010.t011	best	good	J	bn:00098274a	کاری	bn:00104728a
+d002.s010.t012	thing	thing	N	bn:00076919n	nan	nan
+d002.s010.t013	we	nan	X	nan	nan	nan
+d002.s010.t014	can	nan	X	nan	کند توانیم انجام	bn:00081319n
+d002.s010.t015	do	do	V	bn:00087107v	که دهیم این	bn:00018756n
+d002.s010.t016	is	be	V	nan	است	nan
+d002.s010.t017	to	nan	X	nan	nan	nan
+d002.s010.t018	realize	realize	V	bn:00082472v	ورودی	bn:00085261v
+d002.s010.t019	that	nan	X	nan	می بدانیم	nan
+d002.s010.t020	our	nan	X	nan	به	nan
+d002.s010.t021	input	input	N	bn:00046850n	ما	bn:00030988n
+d002.s010.t022	is	be	V	nan	که	nan
+d002.s010.t023	being	be	V	nan	nan	nan
+d002.s010.t024	converted	convert	V	bn:00084772v	می	bn:00077989n
+d002.s010.t025	into	nan	X	nan	MATHML اگرچه	nan
+d002.s010.t026	MathML	mathml	N	bn:03313895n	تبدیل	nan
+d002.s010.t027	although	nan	X	nan	لازم	nan
+d002.s010.t028	it	nan	X	nan	nan	nan
+d002.s010.t029	is	be	V	nan	nan	nan
+d002.s010.t030	not	not	R	bn:00116360r	شناخت	nan
+d002.s010.t031	necessary	necessary	J	bn:00107182a	نیست	bn:00107183a
+d002.s010.t032	to	nan	X	nan	nan	nan
+d002.s010.t033	know	know	V	bn:00085261v	MATHML	bn:00020452n
+d002.s010.t034	MathML	mathml	N	bn:03313895n	باشد	nan
+d002.s010.t035	.	nan	X	nan	شود .	bn:00054706n
+d002.s011.t001	I	nan	X	nan	من ،	nan
+d002.s011.t002	have	have	V	nan	این	nan
+d002.s011.t003	based	base	V	bn:00083141v	بر اساس پایه	nan
+d002.s011.t004	the	nan	X	nan	را	nan
+d002.s011.t005	syntax	syntax	N	bn:02561609n	نحو	bn:00075738n
+d002.s011.t006	basically	basically	R	bn:00114508r	اساساً	bn:00114319r
+d002.s011.t007	on	nan	X	nan	گذاری	bn:00074760n
+d002.s011.t008	common	common	J	bn:00100090a	عقل سلیم	bn:00081406n
+d002.s011.t009	sense	sense	N	bn:00021164n	nan	nan
+d002.s011.t010	,	nan	X	nan	نباید	nan
+d002.s011.t011	it	nan	X	nan	کرده_ام	bn:00089681v
+d002.s011.t012	should	nan	X	nan	برای	nan
+d002.s011.t013	not	not	R	bn:00116360r	nan	nan
+d002.s011.t014	be	be	V	nan	nan	nan
+d002.s011.t015	hard	hard	J	bn:00101358a	باشد	bn:00101358a
+d002.s011.t016	for	nan	X	nan	کسی	nan
+d002.s011.t017	anyone	anyone	N	bn:02268723n	سخت	bn:00010740n
+d002.s011.t018	.	nan	X	nan	.	nan
+d002.s012.t001	I	nan	X	nan	من	nan
+d002.s012.t002	ve	have	V	nan	nan	nan
+d002.s012.t003	looked	look	V	bn:00090448v	به کردم	nan
+d002.s012.t004	closely	closely	R	bn:00114748r	نزدیک	bn:00057220n
+d002.s012.t005	to	nan	X	nan	nan	nan
+d002.s012.t006	maxima	maxima	N	bn:03857246n	نحو Maxima	bn:00062118n
+d002.s012.t007	and	nan	X	nan	و	nan
+d002.s012.t008	maple	maple	N	bn:03668936n	Maple	nan
+d002.s012.t009	s	nan	X	nan	nan	nan
+d002.s012.t010	syntax	syntax	N	bn:02561609n	nan	nan
+d002.s012.t011	so	nan	X	nan	تا	nan
+d002.s012.t012	they	nan	X	nan	باشند	nan
+d002.s012.t013	look	look	V	bn:00090452v	نگاه به	bn:00006386n
+d002.s012.t014	very	very	R	bn:00116789r	بسیار	bn:00114203r
+d002.s012.t015	similar	similar	J	bn:00096782a	شبیه هم	bn:00092876v
+d002.s012.t016	.	nan	X	nan	nan	nan
+d002.s013.t001	+	nan	X	nan	+	bn:00071555n
+d002.s013.t002	-	nan	X	nan	-	nan
+d002.s013.t003	*	nan	X	nan	* /	nan
+d002.s013.t004	/	nan	X	nan	nan	nan
+d002.s013.t005	:	nan	X	nan	nan	nan
+d002.s013.t006	Addition	addition	N	bn:00001296n	: علاوه	nan
+d002.s013.t007	,	nan	X	nan	nan	nan
+d002.s013.t008	subtraction	subtraction	N	bn:00055233n	،	nan
+d002.s013.t009	,	nan	X	nan	این تفریق	nan
+d002.s013.t010	multiplication	multiplication	N	bn:00056300n	،	nan
+d002.s013.t011	and	nan	X	nan	ضرب	bn:00056300n
+d002.s013.t012	division	division	N	bn:00027919n	و	nan
+d002.s013.t013	.	nan	X	nan	nan	nan
+d002.s014.t001	^	nan	X	nan	^	nan
+d002.s014.t002	,	nan	X	nan	،	nan
+d002.s014.t003	**	nan	X	nan	**	nan
+d002.s014.t004	:	nan	X	nan	nan	nan
+d002.s014.t005	Power	power	N	bn:00032355n	:	nan
+d002.s014.t006	,	nan	X	nan	قدرت	bn:00030821n
+d002.s014.t007	you	nan	X	nan	،	nan
+d002.s014.t008	can	nan	X	nan	شما می	nan
+d002.s014.t009	use	use	V	bn:00082705v	توانید دو	bn:00084526v
+d002.s014.t010	them	nan	X	nan	nan	nan
+d002.s014.t011	both	nan	X	nan	از هر	nan
+d002.s014.t012	.	nan	X	nan	استفاده	bn:00030627n
+d002.s015.t001	Also	also	R	bn:00114246r	همچنین	bn:00114246r
+d002.s015.t002	it	nan	X	nan	می	bn:00054706n
+d002.s015.t003	is	be	V	nan	nan	nan
+d002.s015.t004	possible	possible	J	bn:00108829a	nan	nan
+d002.s015.t005	to	nan	X	nan	توان	bn:00063941n
+d002.s015.t006	use	use	V	bn:00082705v	از استفاده	nan
+d002.s015.t007	the	nan	X	nan	nan	nan
+d002.s015.t008	unicode	unicode	N	bn:02529895n	کاراکترهای Unicode	bn:00017738n
+d002.s015.t009	²	nan	X	nan	²	nan
+d002.s015.t010	characters	character	N	bn:09438926n	nan	nan
+d002.s015.t011	.	nan	X	nan	کرد	bn:00087032v
+d002.s016.t001	Powers	power	N	bn:00032355n	قدرتها	bn:00063940n
+d002.s016.t002	are	be	V	nan	هستند	nan
+d002.s016.t003	one	nan	X	nan	یکی از	bn:00000005n
+d002.s016.t004	way	way	N	bn:00001965n	راه ای	bn:00061006n
+d002.s016.t005	to	nan	X	nan	nan	nan
+d002.s016.t006	make	make	V	bn:00090557v	nan	nan
+d002.s016.t007	roots	root	N	bn:00068247n	های ریشه	bn:00054156n
+d002.s016.t008	too	too	R	bn:00114246r	نیز	bn:00114246r
+d002.s016.t009	.	nan	X	nan	nan	nan
+d002.s017.t001	-gt	-gt	N	nan	-GT	nan
+d002.s017.t002	:	nan	X	nan	راهی	bn:00054625n
+d002.s017.t003	It	nan	X	nan	:	nan
+d002.s017.t004	s	be	V	nan	nan	nan
+d002.s017.t005	the	nan	X	nan	nan	nan
+d002.s017.t006	way	way	N	bn:00001965n	این	nan
+d002.s017.t007	to	nan	X	nan	مشخص	bn:00099758a
+d002.s017.t008	specify	specify	V	bn:00086468v	برای	nan
+d002.s017.t009	the	nan	X	nan	nan	nan
+d002.s017.t010	bounded	bound	V	nan	متغیر	bn:00112067a
+d002.s017.t011	variable	variable	N	bn:00079583n	کردن	bn:00092754v
+d002.s017.t012	in	nan	X	nan	محدود	bn:00096933a
+d002.s017.t013	a	nan	X	nan	در	nan
+d002.s017.t014	function	function	N	bn:00036821n	یک	nan
+d002.s017.t015	.	nan	X	nan	تابع	bn:00036821n
+d002.s018.t001	(	nan	X	nan	( )	nan
+d002.s018.t002	)	nan	X	nan	nan	nan
+d002.s018.t003	:	nan	X	nan	از	nan
+d002.s018.t004	It	nan	X	nan	:	nan
+d002.s018.t005	is	be	V	nan	nan	nan
+d002.s018.t006	used	use	V	bn:00082705v	اولویت	bn:00064073n
+d002.s018.t007	to	nan	X	nan	آن	nan
+d002.s018.t008	specify	specify	V	bn:00086468v	nan	nan
+d002.s018.t009	a	nan	X	nan	nan	nan
+d002.s018.t010	higher	high	J	bn:00104162a	تعیین	bn:00026650n
+d002.s018.t011	priority	priority	N	bn:00004489n	برای	nan
+d002.s018.t012	.	nan	X	nan	بالاتر استفاده	bn:00104162a
+d002.s019.t001	abc(params)	nan	X	nan	ABC (	nan
+d002.s019.t002	:	nan	X	nan	nan	nan
+d002.s019.t003	When	nan	X	nan	پارامترها	bn:00005603n
+d002.s019.t004	the	nan	X	nan	nan	nan
+d002.s019.t005	parser	parser	N	bn:00060753n	) : وقتی	nan
+d002.s019.t006	finds	find	V	bn:00082811v	تجزیه کننده عملکردی	bn:00027730n
+d002.s019.t007	a	nan	X	nan	nan	nan
+d002.s019.t008	function	function	N	bn:00036821n	nan	nan
+d002.s019.t009	,	nan	X	nan	پیدا کند ،	bn:00088208v
+d002.s019.t010	it	nan	X	nan	nan	nan
+d002.s019.t011	checks	check	V	bn:00082813v	می	bn:00054706n
+d002.s019.t012	if	nan	X	nan	می یک	bn:00054706n
+d002.s019.t013	abc	abc	N	nan	کند	bn:00086734v
+d002.s019.t014	is	be	V	nan	بررسی ABC	bn:00042823n
+d002.s019.t015	an	nan	X	nan	که	nan
+d002.s019.t016	operator	operator	N	bn:00059141n	آیا اپراتور	nan
+d002.s019.t017	.	nan	X	nan	nan	nan
+d002.s020.t001	If	nan	X	nan	اگر	nan
+d002.s020.t002	it	nan	X	nan	nan	nan
+d002.s020.t003	is	be	V	nan	nan	nan
+d002.s020.t004	,	nan	X	nan	اینگونه ،	bn:00100594a
+d002.s020.t005	it	nan	X	nan	nan	nan
+d002.s020.t006	will	nan	X	nan	nan	nan
+d002.s020.t007	be	be	V	nan	باشد	nan
+d002.s020.t008	treated	treat	V	bn:00095141v	رفتار	bn:00009654n
+d002.s020.t009	as	nan	X	nan	به عنوان	nan
+d002.s020.t010	an	nan	X	nan	یک	nan
+d002.s020.t011	operator	operator	N	bn:00059141n	اپراتور	bn:00053226n
+d002.s020.t012	,	nan	X	nan	می شود ،	bn:00054706n
+d002.s020.t013	if	nan	X	nan	اگر	nan
+d002.s020.t014	it	nan	X	nan	nan	nan
+d002.s020.t015	is	be	V	nan	nan	nan
+d002.s020.t016	not	not	R	bn:00116360r	نباشد	nan
+d002.s020.t017	,	nan	X	nan	اینگونه ،	bn:00113940a
+d002.s020.t018	it	nan	X	nan	nan	nan
+d002.s020.t019	will	nan	X	nan	nan	nan
+d002.s020.t020	be	be	V	nan	nan	nan
+d002.s020.t021	treated	treat	V	bn:00095141v	رفتار	bn:00009654n
+d002.s020.t022	as	nan	X	nan	به عنوان	nan
+d002.s020.t023	a	nan	X	nan	یک	nan
+d002.s020.t024	user	user	N	bn:00079373n	کاربر	bn:00079373n
+d002.s020.t025	function	function	N	bn:00036821n	عملکرد	bn:00016286n
+d002.s020.t026	.	nan	X	nan	می شود	bn:00054706n
+d002.s021.t001	:	nan	X	nan	:	nan
+d002.s021.t002	=	nan	X	nan	nan	nan
+d002.s021.t003	:	nan	X	nan	= :	nan
+d002.s021.t004	It	nan	X	nan	nan	nan
+d002.s021.t005	is	be	V	nan	nan	nan
+d002.s021.t006	used	use	V	bn:00082705v	متغیر	bn:00112067a
+d002.s021.t007	to	nan	X	nan	nan	nan
+d002.s021.t008	define	define	V	bn:00086468v	برای	nan
+d002.s021.t009	a	nan	X	nan	تعریف	bn:00025928n
+d002.s021.t010	variable	variable	J	nan	مقدار	bn:00079508n
+d002.s021.t011	value	value	N	bn:00079508n	یک	nan
+d002.s021.t012	.	nan	X	nan	استفاده می	bn:00030627n
+d002.s022.t001	?	nan	X	nan	؟	nan
+d002.s022.t002	:	nan	X	nan	:	nan
+d002.s022.t003	Piecewise	piecewise	N	bn:03132721n	nan	nan
+d002.s022.t004	condition	condition	N	bn:00021645n	شرایط	bn:00065535n
+d002.s022.t005	definition	definition	N	bn:00025928n	تعریف	bn:00025928n
+d002.s022.t006	.	nan	X	nan	piecewise	nan
+d002.s023.t001	Piecewise	piecewise	N	bn:03132721n	Piecewise روشی	nan
+d002.s023.t002	is	be	V	nan	است که	nan
+d002.s023.t003	the	nan	X	nan	nan	nan
+d002.s023.t004	way	way	N	bn:00001965n	nan	nan
+d002.s023.t005	we	nan	X	nan	ما	nan
+d002.s023.t006	can	nan	X	nan	می توانیم	bn:00054706n
+d002.s023.t007	define	define	V	bn:00086468v	را تعریف	nan
+d002.s023.t008	conditional	conditional	J	bn:00100214a	مشروط	bn:00109046a
+d002.s023.t009	operations	operation	N	bn:00053826n	عملیات	bn:00053826n
+d002.s023.t010	in	nan	X	nan	در	nan
+d002.s023.t011	kalgebra	kalgebra	N	bn:08534138n	Kalgebra کنیم	nan
+d002.s023.t012	.	nan	X	nan	nan	nan
+d002.s024.t001	If	nan	X	nan	اگر	nan
+d002.s024.t002	we	nan	X	nan	کنیم	bn:00082732v
+d002.s024.t003	introduce	introduce	V	bn:00087681v	را معرفی	nan
+d002.s024.t004	the	nan	X	nan	nan	nan
+d002.s024.t005	condition	condition	N	bn:00021645n	شرط	bn:00064921n
+d002.s024.t006	before	nan	X	nan	قبل از	nan
+d002.s024.t007	the	nan	X	nan	nan	nan
+d002.s024.t008	?	?	N	bn:00047210n	nan	nan
+d002.s024.t009	it	nan	X	nan	آن	nan
+d002.s024.t010	will	nan	X	nan	nan	nan
+d002.s024.t011	use	use	V	bn:00082705v	، شرایط	nan
+d002.s024.t012	this	nan	X	nan	از	nan
+d002.s024.t013	condition	condition	N	bn:00021645n	این	nan
+d002.s024.t014	only	only	R	bn:00114626r	nan	nan
+d002.s024.t015	if	nan	X	nan	؟ درست	nan
+d002.s024.t016	it	nan	X	nan	nan	nan
+d002.s024.t017	is	be	V	nan	nan	nan
+d002.s024.t018	true	true	J	bn:00112146a	اگر در	nan
+d002.s024.t019	,	nan	X	nan	باشد	nan
+d002.s024.t020	if	nan	X	nan	nan	nan
+d002.s024.t021	it	nan	X	nan	nan	nan
+d002.s024.t022	finds	find	V	bn:00086708v	nan	nan
+d002.s024.t023	a	nan	X	nan	nan	nan
+d002.s024.t024	?	?	N	bn:00047210n	استفاده	bn:00030627n
+d002.s024.t025	without	nan	X	nan	کند	bn:00082739v
+d002.s024.t026	any	nan	X	nan	؟	nan
+d002.s024.t027	condition	condition	N	bn:00021645n	بدون	nan
+d002.s024.t028	,	nan	X	nan	هیچ	nan
+d002.s024.t029	it	nan	X	nan	nan	nan
+d002.s024.t030	will	nan	X	nan	nan	nan
+d002.s024.t031	enter	enter	V	bn:00085363v	آخرین	bn:00105740a
+d002.s024.t032	in	nan	X	nan	شرط	bn:00064921n
+d002.s024.t033	the	nan	X	nan	nan	nan
+d002.s024.t034	last	last	J	bn:00102969a	،	nan
+d002.s024.t035	instance	instance	N	bn:00016401n	nan	nan
+d002.s024.t036	.	nan	X	nan	مورد وارد	bn:00016401n
+d002.s025.t001	{	nan	X	nan	nan	nan
+d002.s025.t002	}	nan	X	nan	{	nan
+d002.s025.t003	:	nan	X	nan	nan	nan
+d002.s025.t004	MathML	mathml	N	bn:03313895n	}	nan
+d002.s025.t005	container	container	N	bn:03305154n	nan	nan
+d002.s025.t006	.	nan	X	nan	:	bn:00036285n
+d002.s026.t001	It	nan	X	nan	آن	nan
+d002.s026.t002	can	nan	X	nan	می توان	bn:00054706n
+d002.s026.t003	be	be	V	nan	nan	nan
+d002.s026.t004	used	use	V	bn:00082705v	از برای استفاده	nan
+d002.s026.t005	to	nan	X	nan	nan	nan
+d002.s026.t006	define	define	V	bn:00086466v	تعریف	bn:00025928n
+d002.s026.t007	a	nan	X	nan	یک	nan
+d002.s026.t008	container	container	N	bn:03305154n	ظرف	bn:00075834n
+d002.s026.t009	.	nan	X	nan	کرد	bn:00082739v
+d002.s027.t001	Mainly	mainly	R	bn:00114714r	عمدتا	bn:00114714r
+d002.s027.t002	useful	useful	J	bn:00113455a	nan	nan
+d002.s027.t003	for	nan	X	nan	برای	nan
+d002.s027.t004	working	work	V	bn:00095812v	کار	bn:00014137n
+d002.s027.t005	with	nan	X	nan	با	nan
+d002.s027.t006	piecewise	piecewise	N	bn:03132721n	Piecewise مفید	nan
+d002.s027.t007	.	nan	X	nan	است	nan
+d002.s028.t001	Now	now	R	bn:00114424r	حالا	bn:00058217n
+d002.s028.t002	you	nan	X	nan	توانید	bn:00093287v
+d002.s028.t003	could	nan	X	nan	می	nan
+d002.s028.t004	ask	ask	V	bn:00082821v	از بپرسید	nan
+d002.s028.t005	me	me	N	nan	من	nan
+d002.s028.t006	,	nan	X	nan	،	nan
+d002.s028.t007	why	nan	X	nan	چرا	bn:00080992n
+d002.s028.t008	should	nan	X	nan	باید	nan
+d002.s028.t009	the	nan	X	nan	در	nan
+d002.s028.t010	user	user	N	bn:00079373n	کاربر	bn:00079373n
+d002.s028.t011	mind	mind	N	nan	ذهن داشته_باشد	bn:00012680n
+d002.s028.t012	about	nan	X	nan	مورد	bn:00032099n
+d002.s028.t013	MathML	mathml	N	bn:03313895n	MATHML	nan
+d002.s028.t014	?	nan	X	nan	؟	nan
+d002.s029.t001	That	nan	X	nan	nan	nan
+d002.s029.t002	s	be	V	nan	nan	nan
+d002.s029.t003	easy	easy	J	bn:00101973a	آسان است	bn:00101973a
+d002.s029.t004	.	nan	X	nan	nan	nan
+d002.s029.t005	With	nan	X	nan	با	nan
+d002.s029.t006	this	nan	X	nan	این	nan
+d002.s029.t007	,	nan	X	nan	،	nan
+d002.s029.t008	we	nan	X	nan	ما	nan
+d002.s029.t009	can	nan	X	nan	می توانیم	bn:00054706n
+d002.s029.t010	operate	operate	V	bn:00085744v	کار یا	bn:00018756n
+d002.s029.t011	with	nan	X	nan	با	nan
+d002.s029.t012	functions	function	N	bn:00036821n	کارکردهایی	bn:00018101n
+d002.s029.t013	like	nan	X	nan	مانند	nan
+d002.s029.t014	cos()	cos	N	bn:00022956n	(	nan
+d002.s029.t015	,	nan	X	nan	cos ) ، (	nan
+d002.s029.t016	sin()	sin	N	bn:00071709n	sin	nan
+d002.s029.t017	,	nan	X	nan	هر	nan
+d002.s029.t018	any	nan	X	nan	)	nan
+d002.s029.t019	other	other	J	bn:00108011a	عملکرد	bn:00061561n
+d002.s029.t020	trigonometric	trigonometric	J	bn:00112111a	،	nan
+d002.s029.t021	functions	function	N	bn:00036821n	،	nan
+d002.s029.t022	,	nan	X	nan	مثلثات	bn:00078277n
+d002.s029.t023	sum()	sum	N	bn:00001296n	(	nan
+d002.s029.t024	or	nan	X	nan	جمع	bn:00001296n
+d002.s029.t025	product()	product	N	bn:00053827n	)	nan
+d002.s029.t026	.	nan	X	nan	محصول	bn:00037326n
+d002.s030.t001	It	nan	X	nan	nan	nan
+d002.s030.t002	does	do	V	nan	که	nan
+d002.s030.t003	not	not	R	bn:00116360r	نیست	nan
+d002.s030.t004	matter	matter	V	bn:00085860v	مهم	bn:00098485a
+d002.s030.t005	what	nan	X	nan	چه نوع	nan
+d002.s030.t006	kind	kind	N	bn:00035907n	است	nan
+d002.s030.t007	it	nan	X	nan	nan	nan
+d002.s030.t008	is	be	V	nan	nan	nan
+d002.s030.t009	.	nan	X	nan	.	nan
+d002.s031.t001	We	nan	X	nan	ما	nan
+d002.s031.t002	can	nan	X	nan	می توانیم	bn:00054706n
+d002.s031.t003	use	use	V	bn:00082705v	از	nan
+d002.s031.t004	plus()	plus	N	bn:00001296n	Plus (	nan
+d002.s031.t005	,	nan	X	nan	)	nan
+d002.s031.t006	times()	times	N	bn:00056300n	، Times	nan
+d002.s031.t007	and	nan	X	nan	(	nan
+d002.s031.t008	everything	everything	N	nan	) و	nan
+d002.s031.t009	which	nan	X	nan	هر	nan
+d002.s031.t010	has	have	V	bn:00088078v	آن	nan
+d002.s031.t011	its	nan	X	nan	که اپراتور	nan
+d002.s031.t012	operator	operator	N	bn:00059141n	آنچه	bn:00007146n
+d002.s031.t013	.	nan	X	nan	را دارد	nan
+d002.s032.t001	kalgebra	kalgebra	N	bn:08534138n	کنسول Kalgebra	bn:00022087n
+d002.s032.t002	's	be	V	nan	nan	nan
+d002.s032.t003	console	console	V	nan	به	nan
+d002.s032.t004	is	be	V	nan	nan	nan
+d002.s032.t005	useful	useful	J	bn:00113455a	مفید	bn:00104094a
+d002.s032.t006	as	nan	X	nan	عنوان	bn:00035925n
+d002.s032.t007	a	nan	X	nan	یک	nan
+d002.s032.t008	calculator	calculator	N	bn:00946167n	ماشین حساب	bn:00005004n
+d002.s032.t009	.	nan	X	nan	است	nan
+d002.s033.t001	There	there	R	bn:00114427r	در آنجا	nan
+d002.s033.t002	you	nan	X	nan	nan	nan
+d002.s033.t003	have	have	V	bn:00088078v	nan	nan
+d002.s033.t004	a	nan	X	nan	nan	nan
+d002.s033.t005	list	list	N	bn:00051508n	لیستی	bn:00000152n
+d002.s033.t006	of	nan	X	nan	از	nan
+d002.s033.t007	the	nan	X	nan	nan	nan
+d002.s033.t008	declared	declare	V	nan	اعلام	bn:00064713n
+d002.s033.t009	variables	variable	N	bn:00079583n	متغیرهای	bn:00079583n
+d002.s033.t010	.	nan	X	nan	شده دارید	bn:00089351v
+d002.s034.t001	By	nan	X	nan	با	nan
+d002.s034.t002	double	double	R	nan	nan	nan
+d002.s034.t003	clicking	click	V	nan	کلیک	bn:00019758n
+d002.s034.t004	on	nan	X	nan	بر روی	nan
+d002.s034.t005	them	nan	X	nan	آنها	nan
+d002.s034.t006	you	nan	X	nan	nan	nan
+d002.s034.t007	will	nan	X	nan	خواهید_دید	nan
+d002.s034.t008	see	see	V	bn:00084662v	که	bn:00086525v
+d002.s034.t009	a	nan	X	nan	گفتگوی	bn:00022349n
+d002.s034.t010	dialog	dialog	N	nan	nan	nan
+d002.s034.t011	that	nan	X	nan	به	nan
+d002.s034.t012	lets	let	V	bn:00082536v	شما می مقادیر	nan
+d002.s034.t013	you	nan	X	nan	امکان دهد (	nan
+d002.s034.t014	change	change	V	bn:00082553v	دهید	bn:00001410n
+d002.s034.t015	their	nan	X	nan	را تغییر	nan
+d002.s034.t016	values	value	N	bn:00079508n	آنها	bn:00079508n
+d002.s034.t017	(	nan	X	nan	nan	nan
+d002.s034.t018	just	just	R	bn:00114626r	nan	nan
+d002.s034.t019	a	nan	X	nan	nan	nan
+d002.s034.t020	way	way	N	bn:00001965n	راهی	bn:00114234r
+d002.s034.t021	to	nan	X	nan	برای به	bn:00061006n
+d002.s034.t022	trick	trick	V	bn:00088310v	فقط فریب	nan
+d002.s034.t023	the	nan	X	nan	nan	nan
+d002.s034.t024	log	log	N	bn:00051831n	ورود	bn:00017977n
+d002.s034.t025	)	nan	X	nan	سیستم	nan
+d002.s034.t026	.	nan	X	nan	nan	nan
+d002.s035.t001	Every	nan	X	nan	هر	nan
+d002.s035.t002	time	time	N	bn:00019848n	بار	bn:00013944n
+d002.s035.t003	you	nan	X	nan	که کنید	nan
+d002.s035.t004	enter	enter	V	bn:00087679v	وارد	bn:00085363v
+d002.s035.t005	an	nan	X	nan	یک	nan
+d002.s035.t006	expression	expression	N	bn:00032395n	عبارت	bn:00032395n
+d002.s035.t007	,	nan	X	nan	می ،	bn:00054706n
+d002.s035.t008	the	nan	X	nan	را	nan
+d002.s035.t009	""""	nan	X	nan	nan	nan
+d002.s035.t010	ans	ans	J	nan	nan	nan
+d002.s035.t011	""""	nan	X	nan	""""	nan
+d002.s035.t012	variable	variable	N	bn:00079583n	متغیر	bn:00112067a
+d002.s035.t013	value	value	N	bn:00079508n	مقدار	bn:00079508n
+d002.s035.t014	will	nan	X	nan	nan	nan
+d002.s035.t015	be	be	V	nan	nan	nan
+d002.s035.t016	changed	change	V	bn:00082553v	آخرین	bn:00105740a
+d002.s035.t017	to	nan	X	nan	ANS	nan
+d002.s035.t018	the	nan	X	nan	nan	nan
+d002.s035.t019	last	last	J	bn:00105739a	""""	nan
+d002.s035.t020	result	result	N	bn:00034520n	به	nan
+d002.s035.t021	.	nan	X	nan	نتیجه تغییر	bn:00004452n
+d002.s036.t001	Ctrl	ctrl	N	bn:00020947n	Ctrl	nan
+d002.s036.t002	N	n	N	bn:00056688n	n	bn:00056688n
+d002.s036.t003	New	new	J	bn:00107267a	nan	nan
+d002.s036.t004	Window	window	N	bn:00081292n	Window	nan
+d002.s037.t001	Flushes	flush	V	nan	ورود	bn:00005887n
+d002.s037.t002	the	nan	X	nan	nan	nan
+d002.s037.t003	log	log	N	bn:00051831n	به	nan
+d002.s037.t004	.	nan	X	nan	سیستم	bn:00069580n
+d002.s038.t001	Ctrl	ctrl	N	bn:00020947n	اسکریپت	bn:00012062n
+d002.s038.t002	L	l	N	bn:00049538n	بار	bn:00013941n
+d002.s038.t003	Load	load	V	bn:00090416v	Ctrl	nan
+d002.s038.t004	Script	script	N	nan	L	bn:00049538n
+d002.s039.t001	Executes	execute	V	bn:00082225v	دستورالعمل ها	bn:00041913n
+d002.s039.t002	the	nan	X	nan	را	nan
+d002.s039.t003	instructions	instruction	N	bn:00020945n	nan	nan
+d002.s039.t004	in	nan	X	nan	در صورت	nan
+d002.s039.t005	a	nan	X	nan	یک به	nan
+d002.s039.t006	file	file	N	bn:00021475n	پرونده	bn:00028327n
+d002.s039.t007	sequentially	sequentially	R	bn:00114819r	متوالی اجرا	bn:00100386a
+d002.s039.t008	.	nan	X	nan	می کند	bn:00054706n
+d002.s040.t001	Nice	nice	J	bn:00107292a	کتابخانه	nan
+d002.s040.t002	if	nan	X	nan	خوب اگر	bn:00096817a
+d002.s040.t003	you	nan	X	nan	یا	bn:00093287v
+d002.s040.t004	want	want	V	bn:00086682v	می خواهید_برخی	bn:00054706n
+d002.s040.t005	to	nan	X	nan	nan	nan
+d002.s040.t006	define	define	V	bn:00086466v	تعریف کنید از	nan
+d002.s040.t007	some	nan	X	nan	از را	bn:00006554n
+d002.s040.t008	libraries	library	N	bn:00050969n	ها	bn:00010229n
+d002.s040.t009	or	nan	X	nan	کارهای	nan
+d002.s040.t010	resume	resume	V	bn:00092413v	nan	nan
+d002.s040.t011	some	nan	X	nan	سر	nan
+d002.s040.t012	previous	previous	J	bn:00107791a	را	bn:00064460n
+d002.s040.t013	work	work	N	bn:00081568n	قبلی بگیرید	bn:00018756n
+d002.s040.t014	.	nan	X	nan	.	bn:00085649v
+d002.s041.t001	Ctrl	ctrl	N	bn:00020947n	ctrl g	nan
+d002.s041.t002	G	g	N	bn:00036962n	script	nan
+d002.s041.t003	Save	save	V	bn:00093281v	را	nan
+d002.s041.t004	Script	script	N	nan	ذخیره کنید	bn:00007805n
+d002.s042.t001	Saves	save	V	bn:00093281v	nan	nan
+d002.s042.t002	the	nan	X	nan	nan	nan
+d002.s042.t003	instructions	instruction	N	bn:00020945n	دستورالعمل	bn:00035960n
+d002.s042.t004	you	nan	X	nan	ذخیره	nan
+d002.s042.t005	have	have	V	nan	nan	nan
+d002.s042.t006	typed	type	V	bn:00095295v	تایپ	bn:00078813n
+d002.s042.t007	since	nan	X	nan	از زمان کرده_اید	nan
+d002.s042.t008	the	nan	X	nan	هایی را	bn:00062308n
+d002.s042.t009	session	session	N	bn:03751534n	جلسه	bn:00070690n
+d002.s042.t010	began	begin	V	bn:00083344v	شروع	bn:00058967n
+d002.s042.t011	to	nan	X	nan	که	nan
+d002.s042.t012	be	be	V	nan	nan	nan
+d002.s042.t013	able	able	J	bn:00096151a	nan	nan
+d002.s042.t014	to	nan	X	nan	می	bn:00007805n
+d002.s042.t015	reuse	reuse	V	bn:00092558v	nan	nan
+d002.s042.t016	.	nan	X	nan	کند .	bn:00054706n
+d002.s043.t001	Generates	generate	V	bn:00084080v	فایلهای	bn:00025320n
+d002.s043.t002	text	text	N	bn:00076732n	متنی	bn:00111785a
+d002.s043.t003	files	file	N	bn:00021475n	را	nan
+d002.s043.t004	so	nan	X	nan	بنابراین	bn:00115635r
+d002.s043.t005	it	nan	X	nan	تولید می کند	bn:00064594n
+d002.s043.t006	should	nan	X	nan	باید	nan
+d002.s043.t007	be	be	V	nan	nan	nan
+d002.s043.t008	easy	easy	J	bn:00101973a	آسان	bn:00101973a
+d002.s043.t009	to	nan	X	nan	nan	nan
+d002.s043.t010	fix	fix	V	bn:00084308v	nan	nan
+d002.s043.t011	using	use	V	bn:00082705v	با استفاده از	nan
+d002.s043.t012	any	nan	X	nan	هر	nan
+d002.s043.t013	text	text	N	bn:00076732n	متن	bn:00076732n
+d002.s043.t014	editor	editor	N	bn:00029775n	ویرایشگر	bn:00047204n
+d002.s043.t015	,	nan	X	nan	، ، ،	nan
+d002.s043.t016	like	nan	X	nan	مانند	nan
+d002.s043.t017	Kate	kate	N	bn:03628723n	کیت	bn:00021464n
+d002.s043.t018	.	nan	X	nan	باشد	nan
+d002.s044.t001	Ctrl	ctrl	N	bn:00020947n	Ctrl	nan
+d002.s044.t002	S	s	N	bn:00068673n	S ذخیره ورود	nan
+d002.s044.t003	Save	save	V	bn:00093281v	nan	nan
+d002.s044.t004	Log	log	N	bn:00051831n	به سیستم	nan
+d002.s045.t001	Saves	save	V	bn:00093281v	ورود	bn:00005885n
+d002.s045.t002	the	nan	X	nan	nan	nan
+d002.s045.t003	log	log	N	bn:00051831n	سیستم	bn:00069580n
+d002.s045.t004	with	nan	X	nan	با	nan
+d002.s045.t005	all	nan	X	nan	تمام	bn:00031023n
+d002.s045.t006	results	result	N	bn:00034520n	نتایج	bn:00004452n
+d002.s045.t007	into	nan	X	nan	به در	nan
+d002.s045.t008	an	nan	X	nan	یک	nan
+d002.s045.t009	HTML	html	N	bn:00045087n	HTML	nan
+d002.s045.t010	file	file	V	nan	فایل ذخیره	bn:00025320n
+d002.s045.t011	to	nan	X	nan	را	nan
+d002.s045.t012	be	be	V	nan	nan	nan
+d002.s045.t013	able	able	J	bn:00096151a	کند بتواند	bn:00086008v
+d002.s045.t014	to	nan	X	nan	تا	nan
+d002.s045.t015	print	print	V	bn:00089639v	چاپ	bn:00064453n
+d002.s045.t016	or	nan	X	nan	یا	nan
+d002.s045.t017	publish	publish	V	bn:00084099v	منتشر	bn:00027051n
+d002.s045.t018	.	nan	X	nan	می شود	bn:00054706n
+d002.s046.t001	Ctrl	ctrl	N	bn:00020947n	Ctrl q	nan
+d002.s046.t002	Q	q	N	bn:00065472n	را	nan
+d002.s046.t003	Quit	quit	V	bn:00084710v	ترک کنید	bn:00008263n
+d002.s047.t001	Shuts	shut	V	nan	برنامه	bn:00021492n
+d002.s047.t002	the	nan	X	nan	را	nan
+d002.s047.t003	program	program	N	bn:00021492n	خاموش	bn:00107069a
+d002.s047.t004	down	down	R	bn:00115114r	nan	nan
+d002.s047.t005	.	nan	X	nan	می کند	bn:00054706n
+d002.s048.t001	To	nan	X	nan	برای	nan
+d002.s048.t002	add	add	V	bn:00082317v	افزودن	bn:00007149n
+d002.s048.t003	a	nan	X	nan	یک	nan
+d002.s048.t004	new	new	J	bn:00107267a	D	bn:00103007a
+d002.s048.t005	2D	2d	N	nan	2	bn:00095976a
+d002.s048.t006	graph	graph	N	bn:00041412n	نمودار	bn:00026817n
+d002.s048.t007	on	nan	X	nan	جدید	nan
+d002.s048.t008	kalgebra	kalgebra	N	bn:08534138n	در	nan
+d002.s048.t009	,	nan	X	nan	Kalgebra عملکرد	nan
+d002.s048.t010	what	nan	X	nan	کاری	nan
+d002.s048.t011	you	nan	X	nan	که	nan
+d002.s048.t012	have	have	V	nan	شما	nan
+d002.s048.t013	to	nan	X	nan	nan	nan
+d002.s048.t014	do	do	V	bn:00087107v	، باید انجام	bn:00018756n
+d002.s048.t015	is	be	V	nan	دهید این	nan
+d002.s048.t016	to	nan	X	nan	nan	nan
+d002.s048.t017	go	go	V	bn:00088912v	که D	nan
+d002.s048.t018	to	nan	X	nan	nan	nan
+d002.s048.t019	the	nan	X	nan	nan	nan
+d002.s048.t020	2D	2d	N	nan	برگه	bn:00051760n
+d002.s048.t021	Graph	graph	N	bn:00041412n	nan	nan
+d002.s048.t022	tab	tab	N	bn:00120018n	به 2	bn:00035619n
+d002.s048.t023	and	nan	X	nan	Graph	nan
+d002.s048.t024	click	click	N	nan	جدید برگه	nan
+d002.s048.t025	in	nan	X	nan	nan	nan
+d002.s048.t026	the	nan	X	nan	nan	nan
+d002.s048.t027	Add	add	V	bn:00082317v	nan	nan
+d002.s048.t028	tab	tab	N	bn:00120018n	، روی	bn:00035619n
+d002.s048.t029	to	nan	X	nan	بروید	nan
+d002.s048.t030	add	add	V	bn:00082317v	و	bn:00007149n
+d002.s048.t031	the	nan	X	nan	nan	nan
+d002.s048.t032	new	new	J	bn:00107267a	افزودن	bn:00103007a
+d002.s048.t033	function	function	N	bn:00036821n	برای	bn:00016286n
+d002.s048.t034	.	nan	X	nan	Add	bn:00085427v
+d002.s049.t001	Then	then	R	bn:00114281r	سپس	bn:00114281r
+d002.s049.t002	your	nan	X	nan	شما	nan
+d002.s049.t003	focus	focus	N	bn:00007023n	تمرکز	bn:00017197n
+d002.s049.t004	will	nan	X	nan	nan	nan
+d002.s049.t005	go	go	V	bn:00088912v	به رود	nan
+d002.s049.t006	to	nan	X	nan	nan	nan
+d002.s049.t007	an	nan	X	nan	یک	nan
+d002.s049.t008	input	input	N	bn:00046850n	ورودی	bn:00031044n
+d002.s049.t009	text	text	N	bn:00076732n	متن	bn:00076732n
+d002.s049.t010	box	box	N	bn:00012528n	کادر	bn:00014536n
+d002.s049.t011	where	nan	X	nan	که	nan
+d002.s049.t012	you	nan	X	nan	nan	nan
+d002.s049.t013	can	nan	X	nan	می می توانید	bn:00054706n
+d002.s049.t014	type	type	V	bn:00095295v	تایپ	bn:00078813n
+d002.s049.t015	your	nan	X	nan	خود را	nan
+d002.s049.t016	function	function	N	bn:00036821n	عملکرد	bn:00016286n
+d002.s049.t017	.	nan	X	nan	کنید	bn:00082170v
+d002.s050.t001	If	nan	X	nan	اگر	nan
+d002.s050.t002	you	nan	X	nan	استفاده	nan
+d002.s050.t003	want	want	V	bn:00086682v	می خواهید_از	bn:00054706n
+d002.s050.t004	to	nan	X	nan	nan	nan
+d002.s050.t005	use	use	V	bn:00082705v	یک )	nan
+d002.s050.t006	a	nan	X	nan	تابع	nan
+d002.s050.t007	typical	typical	J	bn:00112217a	F	bn:00100416a
+d002.s050.t008	f(x)	f(x)	N	bn:00036821n	( x	bn:00032575n
+d002.s050.t009	function	function	V	nan	معمولی	bn:00036821n
+d002.s050.t010	it	nan	X	nan	nan	nan
+d002.s050.t011	is	be	V	nan	nan	nan
+d002.s050.t012	not	not	R	bn:00116360r	لازم	nan
+d002.s050.t013	necessary	necessary	J	bn:00107182a	،	bn:00086734v
+d002.s050.t014	to	nan	X	nan	nan	nan
+d002.s050.t015	specify	specify	V	bn:00086468v	را	nan
+d002.s050.t016	it	nan	X	nan	نیست آن	bn:00107183a
+d002.s050.t017	.	nan	X	nan	کنید مشخص	bn:00030627n
+d002.s051.t001	If	nan	X	nan	اگر	nan
+d002.s051.t002	you	nan	X	nan	،	nan
+d002.s051.t003	have	have	V	nan	را کرده_اید	nan
+d002.s051.t004	entered	enter	V	bn:00087679v	وارد	bn:00085363v
+d002.s051.t005	the	nan	X	nan	روی	nan
+d002.s051.t006	function	function	N	bn:00036821n	عملکرد	bn:00016286n
+d002.s051.t007	click	click	N	nan	کنید تا	bn:00014306n
+d002.s051.t008	on	nan	X	nan	دکمه	nan
+d002.s051.t009	the	nan	X	nan	nan	nan
+d002.s051.t010	OK	ok	J	bn:00096817a	کلیک	bn:00058395n
+d002.s051.t011	button	button	N	bn:03843242n	OK	bn:00014306n
+d002.s051.t012	to	nan	X	nan	نمودار	nan
+d002.s051.t013	display	display	V	bn:00087013v	دهید	bn:00069859n
+d002.s051.t014	the	nan	X	nan	در	nan
+d002.s051.t015	graph	graph	N	bn:00041412n	را	bn:00026817n
+d002.s051.t016	in	nan	X	nan	پنجره	nan
+d002.s051.t017	the	nan	X	nan	.	bn:00083512v
+d002.s051.t018	main	main	J	bn:00099598a	نمایش	bn:00103567a
+d002.s051.t019	window	window	N	bn:00081292n	اصلی	bn:00081285n
+d002.s051.t020	.	nan	X	nan	nan	nan
+d002.s052.t001	You	nan	X	nan	می	bn:00054706n
+d002.s052.t002	can	nan	X	nan	توانید	bn:00089667v
+d002.s052.t003	set	set	V	bn:00090224v	را	nan
+d002.s052.t004	several	several	J	bn:00110469a	چندین	nan
+d002.s052.t005	graphs	graph	N	bn:00041412n	نمودار	bn:00026817n
+d002.s052.t006	on	nan	X	nan	در	nan
+d002.s052.t007	the	nan	X	nan	nan	nan
+d002.s052.t008	same	same	J	bn:00110075a	همان	nan
+d002.s052.t009	view	view	N	bn:00079985n	نمای	bn:00026817n
+d002.s052.t010	.	nan	X	nan	تنظیم کنید	bn:00005865n
+d002.s053.t001	Just	just	R	bn:00114626r	فقط	bn:00114234r
+d002.s053.t002	use	use	V	bn:00082705v	nan	nan
+d002.s053.t003	the	nan	X	nan	در	nan
+d002.s053.t004	Add	add	V	bn:00082317v	nan	nan
+d002.s053.t005	button	button	N	bn:03843242n	دکمه	bn:00014306n
+d002.s053.t006	when	nan	X	nan	وقتی	bn:00060099n
+d002.s053.t007	you	nan	X	nan	هستید	nan
+d002.s053.t008	are	be	V	nan	از	nan
+d002.s053.t009	in	nan	X	nan	nan	nan
+d002.s053.t010	List	list	N	bn:00051508n	لیست افزودن	bn:00000152n
+d002.s053.t011	mode	mode	N	bn:00055444n	حالت	bn:00045201n
+d002.s053.t012	.	nan	X	nan	، استفاده کنید	nan
+d002.s054.t001	You	nan	X	nan	می	bn:00054706n
+d002.s054.t002	can	nan	X	nan	توانید	bn:00089667v
+d002.s054.t003	set	set	V	bn:00090224v	nan	nan
+d002.s054.t004	each	nan	X	nan	هر	nan
+d002.s054.t005	graph	graph	N	bn:00041412n	نمودار	bn:00026817n
+d002.s054.t006	its	nan	X	nan	را	nan
+d002.s054.t007	own	own	J	nan	خود	nan
+d002.s054.t008	color	color	N	bn:00020726n	رنگ	bn:00070821n
+d002.s054.t009	.	nan	X	nan	تنظیم کنید	bn:00005865n
+d003.s002.t001	The	nan	X	nan	این	nan
+d003.s002.t002	Foundation	foundation	N	bn:00036064n	بنیاد	bn:00008870n
+d003.s002.t003	has	have	V	nan	nan	nan
+d003.s002.t004	recently	recently	R	bn:00116085r	اخیراً	bn:00114431r
+d003.s002.t005	been	be	V	nan	nan	nan
+d003.s002.t006	involved	involve	V	bn:00089893v	شده_است	bn:00105394a
+d003.s002.t007	in	nan	X	nan	در	nan
+d003.s002.t008	organising	organise	V	bn:00091196v	nan	nan
+d003.s002.t009	a	nan	X	nan	nan	nan
+d003.s002.t010	conference	conference	N	bn:00021721n	کنفرانسی	bn:00050487n
+d003.s002.t011	which	nan	X	nan	که ،	nan
+d003.s002.t012	dealt	deal	V	bn:00084527v	پرداخته_است	bn:00083240v
+d003.s002.t013	with	nan	X	nan	nan	nan
+d003.s002.t014	this	nan	X	nan	این	nan
+d003.s002.t015	critical	critical	J	bn:00100676a	مهم	bn:00098485a
+d003.s002.t016	challenge	challenge	N	bn:00017557n	چالش	bn:00084758v
+d003.s002.t017	.	nan	X	nan	درگیر .	nan
+d003.s003.t001	Over	nan	X	nan	بیش	bn:00109485a
+d003.s003.t002	100	nan	X	nan	100	nan
+d003.s003.t003	participants	participant	N	bn:00060798n	شرکت کننده	bn:00021286n
+d003.s003.t004	from	nan	X	nan	از از از	nan
+d003.s003.t005	the	nan	X	nan	nan	nan
+d003.s003.t006	main	main	J	bn:00099598a	اصلی	bn:00103567a
+d003.s003.t007	interest	interest	N	bn:00047078n	nan	nan
+d003.s003.t008	groups	group	N	bn:00072536n	گروه های	bn:00073699n
+d003.s003.t009	attended	attend	V	bn:00082907v	در	nan
+d003.s003.t010	and	nan	X	nan	nan	nan
+d003.s003.t011	debated	debate	V	bn:00086341v	بحث	bn:00005601n
+d003.s003.t012	issues	issue	N	bn:00047688n	موضوعاتی	bn:00047690n
+d003.s003.t013	such	such	R	nan	nan	nan
+d003.s003.t014	as	as	R	nan	nan	nan
+d003.s003.t015	the	nan	X	nan	nan	nan
+d003.s003.t016	role	role	N	bn:00036823n	نقش	bn:00068130n
+d003.s003.t017	of	nan	X	nan	از	nan
+d003.s003.t018	key	key	J	bn:00099258a	کلیدی	bn:00099258a
+d003.s003.t019	actors	actor	N	bn:00001177n	بازیگران	bn:00001177n
+d003.s003.t020	including	include	V	bn:00089660v	جمله جمله	bn:00070528n
+d003.s003.t021	public	public	J	bn:00109211a	دولتی	bn:00109211a
+d003.s003.t022	authorities	authority	N	bn:00001961n	مقامات	bn:00027103n
+d003.s003.t023	,	nan	X	nan	، ،	nan
+d003.s003.t024	social	social	J	bn:00110842a	اجتماعی سازمان های	bn:00110842a
+d003.s003.t025	partners	partner	N	nan	شرکای	bn:00020592n
+d003.s003.t026	,	nan	X	nan	nan	nan
+d003.s003.t027	voluntary	voluntary	J	bn:00113672a	داوطلبانه	bn:00113672a
+d003.s003.t028	and	nan	X	nan	و و و	nan
+d003.s003.t029	community	community	N	bn:00021248n	جامعه	bn:00072566n
+d003.s003.t030	organisations	organisation	N	bn:00001423n	nan	nan
+d003.s003.t031	as	as	R	nan	nan	nan
+d003.s003.t032	well	well	R	nan	همچنین	bn:00114246r
+d003.s003.t033	as	nan	X	nan	nan	nan
+d003.s003.t034	service	service	N	bn:00070651n	خدمات	bn:00029239n
+d003.s003.t035	users	user	N	bn:00079373n	کاربران	bn:00079373n
+d003.s003.t036	.	nan	X	nan	nan	nan
+d003.s004.t001	There	nan	X	nan	nan	nan
+d003.s004.t002	were	be	V	nan	nan	nan
+d003.s004.t003	relatively	relatively	R	bn:00114784r	نسبتاً	bn:00115274r
+d003.s004.t004	few	few	J	bn:00102920a	کمی	bn:00116143r
+d003.s004.t005	cases	case	N	bn:00016401n	موارد مورد	bn:00032099n
+d003.s004.t006	reported	report	V	bn:00092825v	گزارش شده_است	bn:00067181n
+d003.s004.t007	of	nan	X	nan	nan	nan
+d003.s004.t008	attempts	attempt	N	bn:00007011n	تلاش برای	bn:00007011n
+d003.s004.t009	to	nan	X	nan	nan	nan
+d003.s004.t010	involve	involve	V	bn:00089893v	مشارکت	bn:00030844n
+d003.s004.t011	users	user	N	bn:00079373n	کاربران	bn:00079373n
+d003.s004.t012	in	nan	X	nan	در در	nan
+d003.s004.t013	service	service	N	bn:00070651n	خدمات	bn:00029239n
+d003.s004.t014	planning	planning	N	bn:00062794n	برنامه ریزی	bn:00026536n
+d003.s004.t015	but	nan	X	nan	مشارکت	nan
+d003.s004.t016	their	nan	X	nan	در	nan
+d003.s004.t017	involvement	involvement	N	bn:00030844n	آنها	bn:00030844n
+d003.s004.t018	in	nan	X	nan	ارائه	nan
+d003.s004.t019	service	service	N	bn:00070651n	خدمات شایع	bn:00058678n
+d003.s004.t020	provision	provision	N	bn:00064922n	nan	nan
+d003.s004.t021	was	be	V	nan	nan	nan
+d003.s004.t022	found	find	V	bn:00082811v	nan	nan
+d003.s004.t023	to	nan	X	nan	nan	nan
+d003.s004.t024	be	be	V	nan	nan	nan
+d003.s004.t025	more	more	R	bn:00116284r	است	bn:00116284r
+d003.s004.t026	common	common	J	bn:00100093a	تر	bn:00101689a
+d003.s004.t027	.	nan	X	nan	.	nan
+d003.s005.t001	Note	note	N	bn:00058145n	توجه داشته_باشید از	bn:00007020n
+d003.s005.t002	was	be	V	nan	nan	nan
+d003.s005.t003	also	also	R	bn:00114246r	nan	nan
+d003.s005.t004	taken	take	V	nan	nan	nan
+d003.s005.t005	of	nan	X	nan	انواع	nan
+d003.s005.t006	the	nan	X	nan	nan	nan
+d003.s005.t007	variety	variety	N	bn:00027862n	نقش مختلف	bn:00033729n
+d003.s005.t008	of	nan	X	nan	توسط	nan
+d003.s005.t009	different	different	J	bn:00101350a	که	bn:00113502a
+d003.s005.t010	roles	role	N	bn:00036823n	های	bn:00032591n
+d003.s005.t011	played	play	V	bn:00091709v	شده_است	bn:00037180n
+d003.s005.t012	by	nan	X	nan	رفاه	nan
+d003.s005.t013	public	public	J	bn:00109211a	بازی	bn:00109211a
+d003.s005.t014	welfare	welfare	N	bn:00009905n	عمومی	bn:00080860n
+d003.s006.t001	The	nan	X	nan	این	nan
+d003.s006.t002	Foundation	foundation	N	bn:00036064n	بنیاد	bn:00008870n
+d003.s006.t003	organised	organise	N	nan	nan	nan
+d003.s006.t004	,	nan	X	nan	،	nan
+d003.s006.t005	together	together	R	bn:00115794r	nan	nan
+d003.s006.t006	with	nan	X	nan	همراه	bn:00006532n
+d003.s006.t007	the	nan	X	nan	nan	nan
+d003.s006.t008	European	european	J	bn:00102440a	اروپا	nan
+d003.s006.t009	Commission	commission	N	bn:00021015n	کمیسیون	nan
+d003.s006.t010	,	nan	X	nan	،	nan
+d003.s006.t011	the	nan	X	nan	nan	nan
+d003.s006.t012	Spanish	spanish	J	bn:00110978a	اسپانیا	nan
+d003.s006.t013	Ministry	ministry	N	bn:00055180n	وزارت	nan
+d003.s006.t014	of	nan	X	nan	nan	nan
+d003.s006.t015	Social	social	J	bn:00110842a	اجتماعی	nan
+d003.s006.t016	Affairs	affairs	N	bn:00001739n	امور	nan
+d003.s006.t017	and	nan	X	nan	و	nan
+d003.s006.t018	the	nan	X	nan	nan	nan
+d003.s006.t019	Galician	galician	J	nan	گالیسی	nan
+d003.s006.t020	regional	regional	J	bn:00109624a	منطقه ای	bn:00012257n
+d003.s006.t021	government	government	N	bn:00007299n	دولت	bn:00023236n
+d003.s006.t022	,	nan	X	nan	،	nan
+d003.s006.t023	a	nan	X	nan	یک	nan
+d003.s006.t024	European	european	J	bn:00102440a	اروپایی	bn:00031898n
+d003.s006.t025	conference	conference	N	bn:00021721n	کنفرانس عمومی	bn:00050487n
+d003.s006.t026	on	nan	X	nan	در مورد	nan
+d003.s006.t027	social	social	J	bn:00110842a	اجتماعی	bn:00110842a
+d003.s006.t028	exclusion	exclusion	N	bn:00032152n	محرومیت	bn:00010002n
+d003.s006.t029	:	nan	X	nan	nan	nan
+d003.s006.t030	a	nan	X	nan	:	nan
+d003.s006.t031	major	major	J	bn:00106332a	چالش	bn:00084758v
+d003.s006.t032	challenge	challenge	N	bn:00017557n	یک	nan
+d003.s006.t033	for	nan	X	nan	بزرگ خدمات	bn:00098342a
+d003.s006.t034	public	public	J	bn:00109211a	بهزیستی	nan
+d003.s006.t035	welfare	welfare	N	bn:00009905n	nan	nan
+d003.s006.t036	services	service	N	bn:00070651n	برای	nan
+d003.s006.t037	.	nan	X	nan	برگزار	bn:00016984n
+d003.s007.t001	The	nan	X	nan	این	nan
+d003.s007.t002	Foundation	foundation	N	bn:00036064n	بنیاد	bn:00008870n
+d003.s007.t003	recently	recently	R	bn:00116085r	اخیراً	bn:00116085r
+d003.s007.t004	published	publish	V	bn:00084099v	منتشر	bn:00027051n
+d003.s007.t005	a	nan	X	nan	یک	nan
+d003.s007.t006	comparative	comparative	J	bn:00100121a	تطبیقی	bn:00100121a
+d003.s007.t007	study	study	N	bn:00067181n	مطالعه	bn:00061758n
+d003.s007.t008	as	nan	X	nan	به عنوان	nan
+d003.s007.t009	part	part	N	bn:00027912n	بخشی	bn:00060633n
+d003.s007.t010	of	nan	X	nan	از	nan
+d003.s007.t011	the	nan	X	nan	nan	nan
+d003.s007.t012	EPOC	epoc	N	nan	EPOC	nan
+d003.s007.t013	project	project	N	bn:00064665n	پروژه	bn:00049573n
+d003.s007.t014	which	nan	X	nan	که میزان	nan
+d003.s007.t015	assesses	assess	V	bn:00082720v	را	nan
+d003.s007.t016	the	nan	X	nan	nan	nan
+d003.s007.t017	extent	extent	N	bn:00032425n	مشارکت	bn:00008465n
+d003.s007.t018	to	nan	X	nan	nan	nan
+d003.s007.t019	which	nan	X	nan	nan	nan
+d003.s007.t020	direct	direct	J	bn:00101412a	می	bn:00101411a
+d003.s007.t021	participation	participation	N	bn:00030844n	مستقیم	bn:00030844n
+d003.s007.t022	can	nan	X	nan	تواند انسان ارزیابی	bn:00054706n
+d003.s007.t023	humanise	humanise	V	bn:00089511v	سودآوری	bn:00037022n
+d003.s007.t024	work	work	N	bn:00014138n	کند	bn:00031973n
+d003.s007.t025	while	nan	X	nan	را	bn:00044576n
+d003.s007.t026	increasing	increase	V	bn:00089667v	افزایش	nan
+d003.s007.t027	profitability	profitability	N	bn:00037027n	nan	nan
+d003.s007.t028	.	nan	X	nan	nan	
+d003.s008.t001	The	nan	X	nan	این	nan
+d003.s008.t002	study	study	N	bn:00074790n	مطالعه	bn:00061758n
+d003.s008.t003	is	be	V	nan	nan	nan
+d003.s008.t004	based	base	V	bn:00083141v	بر اساس	nan
+d003.s008.t005	on	nan	X	nan	nan	nan
+d003.s008.t006	195	nan	X	nan	195	bn:00046516n
+d003.s008.t007	personal	personal	J	bn:00108489a	شخصی	bn:00108488a
+d003.s008.t008	interviews	interview	N	bn:00047238n	مصاحبه	bn:00047238n
+d003.s008.t009	with	nan	X	nan	با	nan
+d003.s008.t010	senior	senior	J	bn:00110401a	ارشد	bn:00070479n
+d003.s008.t011	officials	official	N	bn:00036837n	مقامات	bn:00027103n
+d003.s008.t012	of	nan	X	nan	nan	nan
+d003.s008.t013	the	nan	X	nan	nan	nan
+d003.s008.t014	social	social	J	bn:00110842a	اجتماعی سازمان های	bn:00110842a
+d003.s008.t015	partners	partner	N	nan	شرکای	bn:00020592n
+d003.s008.t016	as	nan	X	nan	به عنوان	nan
+d003.s008.t017	representatives	representative	N	bn:00047203n	نمایندگان	bn:00021019n
+d003.s008.t018	of	nan	X	nan	nan	nan
+d003.s008.t019	national	national	J	bn:00107136a	ملی	bn:00107136a
+d003.s008.t020	level	level	N	bn:00041239n	سطح	bn:00075250n
+d003.s008.t021	peak	peak	N	nan	اوج	bn:00000942n
+d003.s008.t022	organisations	organisation	N	bn:00001423n	nan	nan
+d003.s008.t023	in	nan	X	nan	در	nan
+d003.s008.t024	fifteen	fifteen	J	bn:00095923a	پانزده	nan
+d003.s008.t025	European	european	J	bn:00102440a	اروپایی	bn:00031898n
+d003.s008.t026	countries	country	N	bn:00011771n	کشور	bn:00023235n
+d003.s008.t027	.	nan	X	nan	شده_است .	bn:00084593v
+d003.s009.t001	As	nan	X	nan	به عنوان	nan
+d003.s009.t002	important	important	J	bn:00104680a	مهم	bn:00098485a
+d003.s009.t003	industrial	industrial	J	bn:00104995a	صنعتی	bn:00097537a
+d003.s009.t004	sectors	sector	N	bn:00070206n	بخش	bn:00027810n
+d003.s009.t005	,	nan	X	nan	های ،	bn:00054156n
+d003.s009.t006	the	nan	X	nan	nan	nan
+d003.s009.t007	metal	metal	N	bn:00002936n	فلز	bn:00002936n
+d003.s009.t008	industry	industry	N	bn:00046575n	صنعت	bn:00046576n
+d003.s009.t009	and	nan	X	nan	و	nan
+d003.s009.t010	the	nan	X	nan	nan	nan
+d003.s009.t011	banking	banking	N	bn:00008412n	بانکی	bn:00096474a
+d003.s009.t012	sector	sector	N	bn:00070206n	بخش	bn:00021218n
+d003.s009.t013	were	be	V	nan	nan	nan
+d003.s009.t014	also	also	R	bn:00114246r	نیز	bn:00114246r
+d003.s009.t015	included	include	V	bn:00089660v	گنجانده	bn:00085497v
+d003.s009.t016	.	nan	X	nan	شده_است .	nan
+d003.s010.t001	Key	key	N	nan	کلیدی	bn:00099258a
+d003.s010.t002	speakers	speaker	N	bn:00073170n	سخنرانان	bn:00073526n
+d003.s010.t003	at	nan	X	nan	در	nan
+d003.s010.t004	the	nan	X	nan	nan	nan
+d003.s010.t005	social	social	J	bn:00110842a	اجتماعی اشتغال اقتصادی	bn:00110842a
+d003.s010.t006	exclusion	exclusion	N	bn:00032152n	محرومیت	bn:00010002n
+d003.s010.t007	conference	conference	N	bn:00021721n	کنفرانس	bn:00050487n
+d003.s010.t008	were	be	V	nan	nan	nan
+d003.s010.t009	(	nan	X	nan	nan	nan
+d003.s010.t010	left	left	N	bn:00050521n	از	nan
+d003.s010.t011	to	nan	X	nan	چپ	bn:00050522n
+d003.s010.t012	right	right	N	bn:00067808n	nan	nan
+d003.s010.t013	)	nan	X	nan	nan	nan
+d003.s010.t014	Cristina	cristina	N	nan	راست	bn:00067810n
+d003.s010.t015	Louro	louro	N	nan	nan	nan
+d003.s010.t016	,	nan	X	nan	به ) کریستینا ،	nan
+d003.s010.t017	Employment	employment	N	bn:00030625n	لورو	nan
+d003.s010.t018	,	nan	X	nan	nan	nan
+d003.s010.t019	Industrial	industrial	J	bn:00104995a	،	nan
+d003.s010.t020	Relations	relations	N	bn:00025569n	nan	nan
+d003.s010.t021	and	nan	X	nan	روابط	bn:00001735n
+d003.s010.t022	Social	social	J	bn:00110842a	و	nan
+d003.s010.t023	Affairs	affair	N	bn:00001738n	صنعتی	bn:00097537a
+d003.s010.t024	Directorate	directorate	N	bn:00011651n	nan	nan
+d003.s010.t025	,	nan	X	nan	امور	bn:00001735n
+d003.s010.t026	European	european	J	bn:00102440a	،	nan
+d003.s010.t027	Commission	commission	N	bn:00021015n	اجتماعی	bn:00110842a
+d003.s010.t028	Fernando	fernando	N	nan	کمیسیون	nan
+d003.s010.t029	Gomes	gomes	N	nan	nan	nan
+d003.s010.t030	,	nan	X	nan	اروپا فرناندو	nan
+d003.s010.t031	a	nan	X	nan	nan	nan
+d003.s010.t032	high	high	J	bn:00102158a	،	nan
+d003.s010.t033	degree	degree	N	nan	گومز	nan
+d003.s010.t034	of	nan	X	nan	درجه	bn:00073848n
+d003.s010.t035	Committee	committee	N	bn:00021015n	بالایی	bn:00104162a
+d003.s010.t036	of	nan	X	nan	nan	nan
+d003.s010.t037	the	nan	X	nan	nan	nan
+d003.s010.t038	Regions	region	N	bn:03359468n	از	nan
+d003.s010.t039	Barbara	barbara	N	nan	کمیته	nan
+d003.s010.t040	Weiler	weiler	N	nan	nan	nan
+d003.s010.t041	,	nan	X	nan	مناطق باربارا José	bn:00051754n
+d003.s010.t042	Member	member	N	bn:00034004n	ویلر	nan
+d003.s010.t043	of	nan	X	nan	nan	nan
+d003.s010.t044	the	nan	X	nan	nan	nan
+d003.s010.t045	European	european	J	bn:00102440a	عضو	bn:00059458n
+d003.s010.t046	Parliament	parliament	N	bn:00060708n	،	nan
+d003.s010.t047	José	josé	N	nan	پارلمان	nan
+d003.s010.t048	Maria	Maria	N	nan	اروپا	nan
+d003.s010.t049	Gil-Robles	gil-robles	N	nan	nan	nan
+d003.s010.t050	,	nan	X	nan	Maria Gil- Robles	nan
+d003.s010.t051	Vice-President	vice-president	N	bn:00079435n	nan	nan
+d003.s010.t052	,	nan	X	nan	رئیس	bn:00006523n
+d003.s010.t053	European	european	J	bn:00102440a	،	bn:00064234n
+d003.s010.t054	Parliament	parliament	N	bn:00060708n	جمهور	bn:00012293n
+d003.s010.t055	and	and	N	nan	پارلمان	nan
+d003.s010.t056	John	john	N	nan	اروپا	nan
+d003.s010.t057	Carroll	carroll	N	nan	و	nan
+d003.s010.t058	,	nan	X	nan	جان	nan
+d003.s010.t059	Economic	economic	J	bn:00102001a	،	nan
+d003.s010.t060	and	nan	X	nan	کمیته	nan
+d003.s010.t061	Social	social	J	bn:00110842a	nan	nan
+d003.s010.t062	Committee	committee	N	bn:00021015n	کارول	nan
+d003.s010.t063	.	nan	X	nan	nan	nan
+d003.s011.t001	Case	case	N	bn:00016401n	nan	nan
+d003.s011.t002	Studies	study	N	bn:00074790n	مطالعات	bn:00061758n
+d003.s011.t003	Each	nan	X	nan	هر	nan
+d003.s011.t004	national	national	J	bn:00107136a	ملی	bn:00107136a
+d003.s011.t005	report	report	N	bn:00067181n	موردی گزارش	bn:00032099n
+d003.s011.t006	contains	contain	V	bn:00085499v	شامل است	bn:00104728a
+d003.s011.t007	a	nan	X	nan	نمونه	bn:00069079n
+d003.s011.t008	portfolio	portfolio	N	bn:00063673n	nan	nan
+d003.s011.t009	of	nan	X	nan	nan	nan
+d003.s011.t010	between	nan	X	nan	بین	nan
+d003.s011.t011	25	nan	X	nan	25	nan
+d003.s011.t012	and	nan	X	nan	nan	nan
+d003.s011.t013	30	nan	X	nan	تا 30	nan
+d003.s011.t014	initiatives	initiative	N	bn:00034797n	ابتکار	bn:00034797n
+d003.s011.t015	which	nan	X	nan	که	nan
+d003.s011.t016	best	good	J	nan	بهترین	bn:00104728a
+d003.s011.t017	present	present	V	bn:00090234v	موجود	bn:00102542a
+d003.s011.t018	policies	policy	N	bn:00063329n	سیاست	bn:00063359n
+d003.s011.t019	and	nan	X	nan	و	nan
+d003.s011.t020	practices	practice	N	bn:00061054n	شیوه های	bn:00076341n
+d003.s011.t021	to	nan	X	nan	برای	nan
+d003.s011.t022	improve	improve	V	bn:00082573v	بهبود	bn:00010162n
+d003.s011.t023	the	nan	X	nan	ها	bn:00062759n
+d003.s011.t024	recruitment	recruitment	N	bn:00030933n	استخدام	bn:00030616n
+d003.s011.t025	,	nan	X	nan	،	nan
+d003.s011.t026	training	training	N	bn:00041853n	آموزش	bn:00026980n
+d003.s011.t027	and	nan	X	nan	و	nan
+d003.s011.t028	development	development	N	bn:00026695n	توسعه	bn:00059801n
+d003.s011.t029	of	nan	X	nan	nan	nan
+d003.s011.t030	ageing	age	V	bn:00082449v	nan	nan
+d003.s011.t031	workers	worker	N	bn:00081593n	کارگران	bn:00047795n
+d003.s011.t032	in	nan	X	nan	در	nan
+d003.s011.t033	both	nan	X	nan	nan	nan
+d003.s011.t034	the	nan	X	nan	nan	nan
+d003.s011.t035	work	work	N	bn:00014138n	کارها کار	bn:00014137n
+d003.s011.t036	place	place	N	bn:00051760n	محل	bn:00051760n
+d003.s011.t037	and	nan	X	nan	پیری و	bn:00001956n
+d003.s011.t038	the	nan	X	nan	nan	nan
+d003.s011.t039	community	community	N	bn:00021248n	جامعه	bn:00072566n
+d003.s011.t040	.	nan	X	nan	است	nan
+d003.s012.t001	For	nan	X	nan	برای	nan
+d003.s012.t002	each	nan	X	nan	هر	nan
+d003.s012.t003	country	country	N	bn:00011771n	کشور	bn:00072653n
+d003.s012.t004	,	nan	X	nan	،	nan
+d003.s012.t005	two	nan	X	nan	دو	nan
+d003.s012.t006	or	nan	X	nan	یا	nan
+d003.s012.t007	three	nan	X	nan	سه	nan
+d003.s012.t008	initiatives	initiative	N	bn:00034797n	ابتکار	bn:00047330n
+d003.s012.t009	have	have	V	nan	nan	nan
+d003.s012.t010	been	be	V	nan	nan	nan
+d003.s012.t011	selected	select	V	bn:00084931v	انتخاب	bn:00018660n
+d003.s012.t012	for	nan	X	nan	برای	nan
+d003.s012.t013	further	further	J	bn:00102794a	بیشتر	bn:00102794a
+d003.s012.t014	in	nan	X	nan	nan	nan
+d003.s012.t015	depth	depth	N	bn:00026418n	nan	nan
+d003.s012.t016	case	case	N	bn:00016401n	عمل موردی	bn:00063989n
+d003.s012.t017	study	study	N	bn:00074790n	مطالعه	bn:00061758n
+d003.s012.t018	.	nan	X	nan	شده_است .	bn:00085427v
+d003.s013.t001	These	nan	X	nan	این	nan
+d003.s013.t002	case	case	N	bn:00016401n	موردی مورد	bn:00032099n
+d003.s013.t003	studies	study	N	bn:00074790n	مطالعات	bn:00061758n
+d003.s013.t004	analysed	analyse	V	bn:00082596v	nan	nan
+d003.s013.t005	the	nan	X	nan	nan	nan
+d003.s013.t006	background	background	N	bn:00007783n	پیشینه	bn:00028013n
+d003.s013.t007	of	nan	X	nan	nan	nan
+d003.s013.t008	the	nan	X	nan	سازمان	bn:00059480n
+d003.s013.t009	initiatives	initiative	N	bn:00034797n	ابتکارات	bn:00047330n
+d003.s013.t010	,	nan	X	nan	، ، های	nan
+d003.s013.t011	their	nan	X	nan	آنها را	nan
+d003.s013.t012	impact	impact	N	bn:00030709n	تأثیر بر	bn:00021961n
+d003.s013.t013	on	nan	X	nan	قرار	bn:00080504n
+d003.s013.t014	employment	employment	N	bn:00030626n	اشتغال	bn:00064164n
+d003.s013.t015	patterns	pattern	N	bn:00061054n	الگوهای	bn:00069576n
+d003.s013.t016	and	nan	X	nan	و تجزیه و	nan
+d003.s013.t017	work	work	N	bn:00014138n	کاری عمل	bn:00024521n
+d003.s013.t018	organisations	organisation	N	bn:00001423n	nan	nan
+d003.s013.t019	and	nan	X	nan	تحلیل و	bn:00022873n
+d003.s013.t020	assessed	assess	V	bn:00082720v	ارزیابی	bn:00031973n
+d003.s013.t021	the	nan	X	nan	داده	bn:00088175v
+d003.s013.t022	benefits	benefit	N	bn:00037022n	مزایا	bn:00064489n
+d003.s013.t023	and	nan	X	nan	و	nan
+d003.s013.t024	problems	problem	N	bn:00048242n	مشکلات	bn:00048242n
+d003.s013.t025	of	nan	X	nan	nan	nan
+d003.s013.t026	the	nan	X	nan	را کرده_است	nan
+d003.s013.t027	initiative	initiative	N	bn:00034797n	ابتکار	bn:00047330n
+d003.s013.t028	.	nan	X	nan	.	nan
+d003.s014.t001	Visits	visit	N	bn:00080113n	بازدیدها	bn:00046920n
+d003.s014.t002	and	nan	X	nan	و	nan
+d003.s014.t003	interviews	interview	N	bn:00047238n	مصاحبه	bn:00047238n
+d003.s014.t004	with	nan	X	nan	با	nan
+d003.s014.t005	key	key	J	bn:00099258a	کلیدی	bn:00099258a
+d003.s014.t006	personnel	personnel	N	bn:00035770n	پرسنل	bn:00035770n
+d003.s014.t007	were	be	V	nan	nan	nan
+d003.s014.t008	also	also	R	bn:00114246r	نیز	bn:00114246r
+d003.s014.t009	undertaken	undertake	V	bn:00082906v	انجام	bn:00029881n
+d003.s014.t010	.	nan	X	nan	شد	bn:00087106v
+d003.s015.t001	These	nan	X	nan	این	nan
+d003.s015.t002	national	national	J	bn:00107136a	ملی	bn:00107136a
+d003.s015.t003	studies	study	N	bn:00074790n	مطالعات	bn:00061758n
+d003.s015.t004	will	nan	X	nan	nan	nan
+d003.s015.t005	form	form	V	bn:00085670v	تشکیل	bn:00035771n
+d003.s015.t006	the	nan	X	nan	را	nan
+d003.s015.t007	basis	basis	N	bn:00008790n	اساس	bn:00008786n
+d003.s015.t008	of	nan	X	nan	nan	nan
+d003.s015.t009	a	nan	X	nan	یک	nan
+d003.s015.t010	European	european	J	bn:00102440a	اروپایی	bn:00031898n
+d003.s015.t011	report	report	N	bn:00067181n	گزارش	bn:00067181n
+d003.s015.t012	which	nan	X	nan	دهد که	bn:00083187v
+d003.s015.t013	synthesises	synthesise	V	bn:00094713v	سنتز	bn:00075742n
+d003.s015.t014	overall	overall	J	bn:00108083a	کلی	bn:00079141n
+d003.s015.t015	practices	practice	N	bn:00061054n	شیوه های را	bn:00076341n
+d003.s015.t016	.	nan	X	nan	می کند	bn:00054706n
+d003.s016.t001	The	nan	X	nan	این	nan
+d003.s016.t002	report	report	N	bn:00067181n	گزارش	bn:00067181n
+d003.s016.t003	and	nan	X	nan	و	nan
+d003.s016.t004	a	nan	X	nan	یک	nan
+d003.s016.t005	case	case	N	bn:00016401n	موردی	bn:00032099n
+d003.s016.t006	book	book	N	bn:00012059n	کتاب	bn:00012059n
+d003.s016.t007	of	nan	X	nan	از	nan
+d003.s016.t008	initiatives	initiative	N	bn:00034797n	ابتکارات	bn:00047330n
+d003.s016.t009	will	nan	X	nan	nan	nan
+d003.s016.t010	be	be	V	nan	شود	bn:00086008v
+d003.s016.t011	published	publish	V	bn:00084099v	منتشر	bn:00027051n
+d003.s016.t012	in	nan	X	nan	در	nan
+d003.s016.t013	1996	nan	X	nan	سال 1996	bn:00078738n
+d003.s016.t014	and	nan	X	nan	و	nan
+d003.s016.t015	provide	provide	V	bn:00084692v	فراهم	bn:00109650a
+d003.s016.t016	the	nan	X	nan	nan	nan
+d003.s016.t017	backdrop	backdrop	N	nan	زمینه	bn:00022168n
+d003.s016.t018	for	nan	X	nan	برای	nan
+d003.s016.t019	a	nan	X	nan	ای	nan
+d003.s016.t020	conference	conference	N	bn:00021721n	کنفرانسی برگزار	bn:00050487n
+d003.s016.t021	to	nan	X	nan	nan	nan
+d003.s016.t022	be	be	V	nan	nan	nan
+d003.s016.t023	staged	stage	V	bn:00082779v	را	nan
+d003.s016.t024	in	nan	X	nan	در	nan
+d003.s016.t025	Autumn	autumn	N	bn:00007406n	پاییز	bn:00007406n
+d003.s016.t026	,	nan	X	nan	کند	bn:00086008v
+d003.s016.t027	1996	nan	X	nan	1996	bn:00078738n
+d003.s016.t028	.	nan	X	nan	می شود	bn:00054706n
+d003.s017.t001	The	nan	X	nan	این	nan
+d003.s017.t002	Foundation	foundation	N	bn:00036064n	بنیاد	bn:00008870n
+d003.s017.t003	aims	aim	V	bn:00082486v	هدف	bn:00002178n
+d003.s017.t004	to	nan	X	nan	با	nan
+d003.s017.t005	document	document	V	bn:00087137v	مستند سازی	bn:00101659a
+d003.s017.t006	the	nan	X	nan	nan	nan
+d003.s017.t007	characteristics	characteristic	N	bn:00017761n	ویژگی های	bn:00077930n
+d003.s017.t008	of	nan	X	nan	nan	nan
+d003.s017.t009	age	age	N	bn:00001936n	سنی	bn:00075215n
+d003.s017.t010	barriers	barrier	N	bn:00008714n	موانع	bn:00058511n
+d003.s017.t011	in	nan	X	nan	در	nan
+d003.s017.t012	job	job	N	bn:00014138n	شغلی	bn:00102001a
+d003.s017.t013	recruitment	recruitment	N	bn:00030933n	استخدام	bn:00030933n
+d003.s017.t014	and	nan	X	nan	و	nan
+d003.s017.t015	training	training	N	bn:00041853n	آموزش	bn:00026980n
+d003.s017.t016	and	nan	X	nan	و و	nan
+d003.s017.t017	to	nan	X	nan	nan	nan
+d003.s017.t018	analyse	analyse	V	bn:00082596v	تجزیه تحلیل آنها	bn:00027707n
+d003.s017.t019	their	nan	X	nan	nan	nan
+d003.s017.t020	causes	cause	N	bn:00016850n	دلایل	bn:00041881n
+d003.s017.t021	.	nan	X	nan	nan	nan
+d003.s018.t001	The	nan	X	nan	nan	nan
+d003.s018.t002	perspectives	perspective	N	bn:00061746n	دیدگاه	bn:00063237n
+d003.s018.t003	of	nan	X	nan	nan	nan
+d003.s018.t004	the	nan	X	nan	nan	nan
+d003.s018.t005	social	social	J	bn:00110842a	های اجتماعی	bn:00054156n
+d003.s018.t006	partners	partner	N	nan	شرکای	bn:00020592n
+d003.s018.t007	is	be	V	nan	nan	nan
+d003.s018.t008	also	also	R	bn:00114246r	نیز	bn:00114246r
+d003.s018.t009	being	be	V	nan	مورد قرار گیرد	nan
+d003.s018.t010	examined	examine	V	bn:00082596v	بررسی	bn:00042823n
+d003.s018.t011	,	nan	X	nan	می ،	bn:00054706n
+d003.s018.t012	with	nan	X	nan	با	nan
+d003.s018.t013	particular	particular	J	bn:00102398a	ویژه	bn:00060807n
+d003.s018.t014	attention	attention	N	bn:00007020n	توجه	bn:00007020n
+d003.s018.t015	paid	pay	V	bn:00086761v	nan	nan
+d003.s018.t016	to	nan	X	nan	به	nan
+d003.s018.t017	proposals	proposal	N	bn:00064776n	nan	nan
+d003.s018.t018	for	nan	X	nan	nan	nan
+d003.s018.t019	removing	remove	V	bn:00088783v	پیشنهادات رفع	bn:00064777n
+d003.s018.t020	age	age	N	bn:00001936n	nan	nan
+d003.s018.t021	barriers	barrier	N	bn:00008714n	موانع	bn:00058511n
+d003.s018.t022	.	nan	X	nan	سنی	bn:00075215n
+d003.s019.t001	Thirdly	thirdly	R	bn:00117283r	ثالثاً	bn:00114106r
+d003.s019.t002	,	nan	X	nan	،	nan
+d003.s019.t003	the	nan	X	nan	این	nan
+d003.s019.t004	project	project	N	bn:00064665n	پروژه	bn:00049573n
+d003.s019.t005	documents	document	N	nan	اسناد	bn:00028016n
+d003.s019.t006	and	nan	X	nan	nan	nan
+d003.s019.t007	assesses	assess	V	bn:00082720v	را را	nan
+d003.s019.t008	initiatives	initiative	N	bn:00034797n	ابتکارات	bn:00059522n
+d003.s019.t009	,	nan	X	nan	nan	nan
+d003.s019.t010	in	nan	X	nan	در	nan
+d003.s019.t011	both	nan	X	nan	هر دو	nan
+d003.s019.t012	the	nan	X	nan	nan	nan
+d003.s019.t013	public	public	J	bn:00109211a	دولتی	bn:00109026a
+d003.s019.t014	and	nan	X	nan	و و	nan
+d003.s019.t015	private	private	J	bn:00104973a	خصوصی	bn:00109026a
+d003.s019.t016	sectors	sector	N	bn:00070206n	بخش	bn:00027810n
+d003.s019.t017	which	nan	X	nan	که	nan
+d003.s019.t018	combat	combat	N	nan	مبارزه	bn:00009079n
+d003.s019.t019	age	age	N	bn:00001936n	سنی	bn:00075215n
+d003.s019.t020	barriers	barrier	N	bn:00008714n	موانع	bn:00058511n
+d003.s019.t021	,	nan	X	nan	،	nan
+d003.s019.t022	especially	especially	R	bn:00115235r	ویژه	bn:00060807n
+d003.s019.t023	for	nan	X	nan	برای	nan
+d003.s019.t024	older	old	J	bn:00096644a	مسن	bn:00096644a
+d003.s019.t025	workers	worker	N	bn:00081593n	کارگران	bn:00047795n
+d003.s019.t026	.	nan	X	nan	می ارزیابی می کند	bn:00054706n
+d003.s020.t001	Seeking	seek	V	bn:00090460v	به دنبال	nan
+d003.s020.t002	alternatives	alternative	N	bn:00003132n	گزینه	bn:00059228n
+d003.s020.t003	to	nan	X	nan	برای	nan
+d003.s020.t004	early	early	J	bn:00101935a	زودرس	bn:00101901a
+d003.s020.t005	retirement	retirement	N	bn:00067456n	بازنشستگی	bn:00058797n
+d003.s020.t006	and	nan	X	nan	و	nan
+d003.s020.t007	redundancy	redundancy	N	bn:00066743n	افزونگی	bn:00066745n
+d003.s020.t008	,	nan	X	nan	های ،	bn:00054156n
+d003.s020.t009	the	nan	X	nan	nan	nan
+d003.s020.t010	project	project	N	bn:00064665n	پروژه	bn:00049573n
+d003.s020.t011	is	be	V	nan	nan	nan
+d003.s020.t012	primarily	primarily	R	bn:00114714r	در درجه اول	nan
+d003.s020.t013	concerned	concern	V	bn:00083240v	nan	nan
+d003.s020.t014	with	nan	X	nan	ادغام	bn:00003203n
+d003.s020.t015	the	nan	X	nan	nan	nan
+d003.s020.t016	retention	retention	N	bn:00044396n	حفظ	bn:00054298n
+d003.s020.t017	,	nan	X	nan	،	nan
+d003.s020.t018	reintegration	reintegrate	V	bn:00092717v	مجدد	bn:00108441a
+d003.s020.t019	and	nan	X	nan	و	nan
+d003.s020.t020	retraining	retrain	V	bn:00092953v	بازآموزی	bn:00067463n
+d003.s020.t021	of	nan	X	nan	مربوط	bn:00097382a
+d003.s020.t022	older	old	J	bn:00096644a	مسن	bn:00096644a
+d003.s020.t023	workers	worker	N	bn:00081593n	کارگران	bn:00047795n
+d003.s020.t024	.	nan	X	nan	می شود	bn:00054706n
+d003.s021.t001	The	nan	X	nan	nan	nan
+d003.s021.t002	gender	gender	N	bn:00037634n	جنسیت	bn:00037634n
+d003.s021.t003	and	nan	X	nan	و	nan
+d003.s021.t004	ethnic	ethnic	J	bn:00100762a	قومی	bn:00044382n
+d003.s021.t005	backgrounds	background	N	bn:00007781n	پیشینه	bn:00007985n
+d003.s021.t006	of	nan	X	nan	nan	nan
+d003.s021.t007	workers	worker	N	bn:00081593n	کارگران	bn:00047795n
+d003.s021.t008	and	nan	X	nan	و	nan
+d003.s021.t009	how	nan	X	nan	چگونگی	bn:00001965n
+d003.s021.t010	these	nan	X	nan	اینها	nan
+d003.s021.t011	relate	relate	V	bn:00082868v	ارتباط با	bn:00045161n
+d003.s021.t012	to	nan	X	nan	nan	nan
+d003.s021.t013	age	age	N	bn:00001936n	سنی	bn:00075215n
+d003.s021.t014	discrimination	discrimination	N	bn:00027538n	تبعیض	bn:00010210n
+d003.s021.t015	are	be	V	nan	nan	nan
+d003.s021.t016	examined	examine	V	bn:00082596v	بررسی	bn:00042823n
+d003.s021.t017	.	nan	X	nan	می شود	bn:00054706n
+d003.s022.t001	The	nan	X	nan	این	nan
+d003.s022.t002	project	project	N	bn:00064665n	پروژه	bn:00049573n
+d003.s022.t003	also	also	R	bn:00114246r	همچنین	bn:00114246r
+d003.s022.t004	considers	consider	V	bn:00085648v	را	nan
+d003.s022.t005	initiatives	initiative	N	bn:00034797n	ابتکاراتی	bn:00047330n
+d003.s022.t006	to	nan	X	nan	برای	nan
+d003.s022.t007	combat	combat	V	nan	مبارزه با	bn:00009079n
+d003.s022.t008	age	age	N	bn:00001936n	سن	bn:00070298n
+d003.s022.t009	discrimination	discrimination	N	bn:00027538n	تبعیض	bn:00010210n
+d003.s022.t010	in	nan	X	nan	در	nan
+d003.s022.t011	rural	rural	J	bn:00109998a	مناطق روستایی	bn:00012257n
+d003.s022.t012	areas	area	N	bn:00005513n	nan	nan
+d003.s022.t013	and	nan	X	nan	و	nan
+d003.s022.t014	in	nan	X	nan	در در	nan
+d003.s022.t015	small	small	J	bn:00106773a	شرکتهای کوچک	bn:00021286n
+d003.s022.t016	and	nan	X	nan	و	nan
+d003.s022.t017	medium	medium	J	nan	متوسط	bn:00106548a
+d003.s022.t018	sized	sized	J	nan	nan	nan
+d003.s022.t019	enterprises	enterprise	N	bn:00021286n	گیرد	bn:00082379v
+d003.s022.t020	.	nan	X	nan	می	bn:00054706n
+d003.s023.t001	Seven	nan	X	nan	هفت	nan
+d003.s023.t002	member	member	N	bn:00054277n	عضو	bn:00059458n
+d003.s023.t003	states	state	N	bn:00011771n	کشور	bn:00023235n
+d003.s023.t004	are	be	V	nan	nan	nan
+d003.s023.t005	covered	cover	V	bn:00085497v	پوشش	bn:00023360n
+d003.s023.t006	by	nan	X	nan	تحت قرار	nan
+d003.s023.t007	the	nan	X	nan	این	nan
+d003.s023.t008	project	project	N	bn:00064665n	پروژه	bn:00049573n
+d003.s023.t009	:	nan	X	nan	nan	nan
+d003.s023.t010	Belgium	belgium	N	bn:00009714n	:	nan
+d003.s023.t011	,	nan	X	nan	دارند	bn:00083184v
+d003.s023.t012	France	france	N	bn:00036202n	،	nan
+d003.s023.t013	,	nan	X	nan	بلژیک	nan
+d003.s023.t014	Germany	germany	N	bn:00026684n	،	nan
+d003.s023.t015	,	nan	X	nan	فرانسه	nan
+d003.s023.t016	Greece	greece	N	bn:00030401n	،	nan
+d003.s023.t017	,	nan	X	nan	آلمان	nan
+d003.s023.t018	Italy	italy	N	bn:00047705n	،	nan
+d003.s023.t019	,	nan	X	nan	یونان ایتالیا	nan
+d003.s023.t020	the	nan	X	nan	nan	nan
+d003.s023.t021	Netherlands	netherlands	N	bn:00044423n	،	nan
+d003.s023.t022	and	nan	X	nan	هلند	nan
+d003.s023.t023	the	nan	X	nan	nan	nan
+d003.s023.t024	United	united	J	bn:00112908a	nan	nan
+d003.s023.t025	Kingdom	kingdom	N	bn:00049168n	و	nan
+d003.s023.t026	.	nan	X	nan	nan	nan
+d004.s001.t001	This	nan	X	nan	این	nan
+d004.s001.t002	document	document	N	bn:00028015n	سند	bn:00028016n
+d004.s001.t003	is	be	V	nan	nan	nan
+d004.s001.t004	a	nan	X	nan	nan	nan
+d004.s001.t005	summary	summary	N	bn:00075142n	خلاصه ای	bn:00021341n
+d004.s001.t006	of	nan	X	nan	از	nan
+d004.s001.t007	the	nan	X	nan	nan	nan
+d004.s001.t008	European	european	J	bn:00102440a	اروپا	nan
+d004.s001.t009	Public	public	J	bn:00109211a	عمومی	bn:00109211a
+d004.s001.t010	Assessment	assessment	N	bn:00005120n	ارزیابی	bn:00031973n
+d004.s001.t011	Report	report	N	bn:00067181n	گزارش	bn:00067181n
+d004.s001.t012	.	nan	X	nan	است	nan
+d004.s002.t001	It	nan	X	nan	این	nan
+d004.s002.t002	explains	explain	V	bn:00087869v	توضیح می دهد	bn:00020978n
+d004.s002.t003	how	nan	X	nan	چگونه	bn:00115252r
+d004.s002.t004	the	nan	X	nan	که	nan
+d004.s002.t005	Committee	committee	N	bn:00021015n	کمیته	bn:00021015n
+d004.s002.t006	for	nan	X	nan	nan	nan
+d004.s002.t007	Medicinal	medicinal	J	bn:00106556a	محصولات	bn:00037326n
+d004.s002.t008	Products	product	N	bn:00064584n	دارویی	bn:00108519a
+d004.s002.t009	for	nan	X	nan	برای	nan
+d004.s002.t010	Veterinary	veterinary	N	bn:00079883n	دامپزشکی	bn:00079888n
+d004.s002.t011	Use	use	N	bn:00030627n	استفاده	bn:00030627n
+d004.s002.t012	(	nan	X	nan	nan	nan
+d004.s002.t013	CVMP	cvmp	N	nan	(	nan
+d004.s002.t014	)	nan	X	nan	nan	nan
+d004.s002.t015	assessed	assess	V	bn:00082720v	شده	bn:00083185v
+d004.s002.t016	the	nan	X	nan	انجام	bn:00029881n
+d004.s002.t017	studies	study	N	bn:00074790n	CVMP مطالعات	nan
+d004.s002.t018	performed	perform	V	bn:00087107v	)	nan
+d004.s002.t019	,	nan	X	nan	توصیه	nan
+d004.s002.t020	to	nan	X	nan	کرده_است	bn:00084593v
+d004.s002.t021	reach	reach	V	bn:00088789v	تا دارو	nan
+d004.s002.t022	their	nan	X	nan	های	bn:00066562n
+d004.s002.t023	recommendations	recommendation	N	bn:00066562n	به	nan
+d004.s002.t024	on	nan	X	nan	خود در	bn:00054156n
+d004.s002.t025	how	nan	X	nan	مورد	nan
+d004.s002.t026	to	nan	X	nan	nan	nan
+d004.s002.t027	use	use	V	bn:00082705v	نحوه استفاده	bn:00038799n
+d004.s002.t028	the	nan	X	nan	nan	nan
+d004.s002.t029	medicine	medicine	N	bn:00054128n	از	bn:00030627n
+d004.s002.t030	.	nan	X	nan	nan	nan
+d004.s003.t001	What	nan	X	nan	nan	nan
+d004.s003.t002	is	be	V	nan	nan	nan
+d004.s003.t003	Cerenia	cerenia	N	bn:00923812n	Cerenia	nan
+d004.s003.t004	?	nan	X	nan	چیست	nan
+d004.s004.t001	Cerenia	cerenia	N	bn:00923812n	Cerenia	nan
+d004.s004.t002	contains	contain	V	bn:00085499v	حاوی	bn:00098464a
+d004.s004.t003	the	nan	X	nan	nan	nan
+d004.s004.t004	active	active	J	bn:00096387a	فعال	bn:00096392a
+d004.s004.t005	substance	substance	N	bn:00074985n	ماده	bn:00053867n
+d004.s004.t006	maropitant	maropitant	N	bn:00923812n	ماروپانت	bn:00096995a
+d004.s004.t007	and	nan	X	nan	و	nan
+d004.s004.t008	is	be	V	nan	است	nan
+d004.s004.t009	available	available	J	bn:00097846a	در دسترس	nan
+d004.s004.t010	as	nan	X	nan	به عنوان به	nan
+d004.s004.t011	tablet	tablet	N	bn:00052222n	قرص	bn:00052222n
+d004.s004.t012	or	nan	X	nan	یا	nan
+d004.s004.t013	as	nan	X	nan	عنوان	bn:00077409n
+d004.s004.t014	solution	solution	N	bn:00072760n	محلول	bn:00072760n
+d004.s004.t015	for	nan	X	nan	برای	nan
+d004.s004.t016	injection	injection	N	bn:00046787n	تزریق	bn:00046787n
+d004.s004.t017	.	nan	X	nan	است	nan
+d004.s005.t001	The	nan	X	nan	رنگ	bn:00020726n
+d004.s005.t002	tablets	tablet	N	bn:00052222n	قرص	bn:00052222n
+d004.s005.t003	are	be	V	nan	ها هستند	bn:00055115n
+d004.s005.t004	pale-orange	pale-orange	J	nan	نارنجی کم	bn:00107945a
+d004.s005.t005	and	nan	X	nan	و	nan
+d004.s005.t006	have	have	V	bn:00088078v	nan	nan
+d004.s005.t007	a	nan	X	nan	nan	nan
+d004.s005.t008	score	score	N	bn:00069754n	خط	bn:00008281n
+d004.s005.t009	line	line	N	bn:00023645n	یک	nan
+d004.s005.t010	on	nan	X	nan	nan	nan
+d004.s005.t011	both	nan	X	nan	هر دو	nan
+d004.s005.t012	sides	side	N	bn:00032604n	طرف	bn:00042602n
+d004.s005.t013	so	so	R	bn:00117049r	دارند	bn:00083187v
+d004.s005.t014	that	nan	X	nan	nan	nan
+d004.s005.t015	they	nan	X	nan	امتیاز	bn:00063218n
+d004.s005.t016	can	nan	X	nan	تا	nan
+d004.s005.t017	be	be	V	nan	نصف	bn:00042601n
+d004.s005.t018	halved	halve	V	bn:00089157v	بتوانند	bn:00083340v
+d004.s005.t019	.	nan	X	nan	nan	nan
+d004.s006.t001	Each	nan	X	nan	هر	nan
+d004.s006.t002	tablet	tablet	N	bn:00052222n	nan	nan
+d004.s006.t003	is	be	V	nan	nan	nan
+d004.s006.t004	marked	mark	V	bn:00090663v	لوحی مشخص	bn:00021500n
+d004.s006.t005	with	nan	X	nan	با	nan
+d004.s006.t006	the	nan	X	nan	رایانه	bn:00021464n
+d004.s006.t007	Pfizer	pfizer	N	bn:03463336n	آرم Pfizer	bn:00051872n
+d004.s006.t008	logo	logo	N	bn:00051872n	nan	nan
+d004.s006.t009	on	nan	X	nan	nan	nan
+d004.s006.t010	one	nan	X	nan	از یک	nan
+d004.s006.t011	side	side	N	bn:00032604n	طرف	bn:00042602n
+d004.s006.t012	and	nan	X	nan	و	nan
+d004.s006.t013	with	nan	X	nan	با	nan
+d004.s006.t014	the	nan	X	nan	nan	nan
+d004.s006.t015	letters	letter	N	bn:00003057n	حروف	bn:00003057n
+d004.s006.t016	MPT	mpt	N	nan	MPT	nan
+d004.s006.t017	and	nan	X	nan	و	nan
+d004.s006.t018	the	nan	X	nan	nan	nan
+d004.s006.t019	quantity	quantity	N	bn:00003603n	مقدار	bn:00079508n
+d004.s006.t020	of	nan	X	nan	nan	nan
+d004.s006.t021	maropitant	maropitant	N	bn:00923812n	Maropitant	nan
+d004.s006.t022	on	nan	X	nan	در	nan
+d004.s006.t023	the	nan	X	nan	nan	nan
+d004.s006.t024	other	other	J	bn:00108011a	دیگر	bn:00108011a
+d004.s006.t025	side	side	N	bn:00032604n	طرف	bn:00042602n
+d004.s006.t026	.	nan	X	nan	شده_است .	bn:00087013v
+d004.s007.t001	What	nan	X	nan	چه چیزی	nan
+d004.s007.t002	is	be	V	nan	nan	nan
+d004.s007.t003	Cerenia	cerenia	N	bn:00923812n	Cerenia	nan
+d004.s007.t004	used	use	V	bn:00082705v	استفاده	bn:00079404n
+d004.s007.t005	for	nan	X	nan	برای	nan
+d004.s007.t006	?	nan	X	nan	می شود	bn:00054706n
+d004.s008.t001	Cerenia	cerenia	N	bn:00923812n	Cerenia	nan
+d004.s008.t002	is	be	V	nan	است	nan
+d004.s008.t003	an	nan	X	nan	nan	nan
+d004.s008.t004	anti-emetic	anti-emetic	N	bn:00004656n	ضد خویش	nan
+d004.s008.t005	,	nan	X	nan	،	nan
+d004.s008.t006	this	nan	X	nan	این	nan
+d004.s008.t007	means	mean	V	bn:00089805v	بدان معنی است	nan
+d004.s008.t008	that	nan	X	nan	که	nan
+d004.s008.t009	it	nan	X	nan	را	nan
+d004.s008.t010	stops	stop	V	bn:00082787v	متوقف	bn:00074813n
+d004.s008.t011	vomiting	vomit	V	bn:00083115v	استفراغ	bn:00027565n
+d004.s008.t012	.	nan	X	nan	می کند	bn:00054706n
+d004.s009.t001	It	nan	X	nan	این	nan
+d004.s009.t002	is	be	V	nan	nan	nan
+d004.s009.t003	used	use	V	bn:00082705v	nan	nan
+d004.s009.t004	in	nan	X	nan	nan	nan
+d004.s009.t005	dogs	dog	N	bn:00015267n	سگ ها	bn:00015267n
+d004.s009.t006	to	nan	X	nan	nan	nan
+d004.s009.t007	prevent	prevent	V	bn:00088454v	از جلوگیری از از	nan
+d004.s009.t008	vomiting	vomit	V	bn:00083115v	استفراغ	bn:00027565n
+d004.s009.t009	such	such	J	nan	مانند	nan
+d004.s009.t010	as	nan	X	nan	nan	nan
+d004.s009.t011	vomiting	vomit	V	bn:00083115v	استفراغ	bn:00027565n
+d004.s009.t012	caused	cause	V	bn:00084069v	ناشی	bn:00074177n
+d004.s009.t013	by	nan	X	nan	nan	nan
+d004.s009.t014	chemotherapy	chemotherapy	N	bn:00018141n	شیمی درمانی	bn:00018123n
+d004.s009.t015	(	nan	X	nan	(	nan
+d004.s009.t016	medicines	medicine	N	bn:00054128n	nan	nan
+d004.s009.t017	used	use	V	bn:00082705v	استفاده داروهای مورد	bn:00030627n
+d004.s009.t018	for	nan	X	nan	برای استفاده	nan
+d004.s009.t019	the	nan	X	nan	nan	nan
+d004.s009.t020	treatment	treatment	N	bn:00047235n	برای	nan
+d004.s009.t021	of	nan	X	nan	nan	nan
+d004.s009.t022	cancer	cancer	N	bn:00015180n	درمان	bn:00024461n
+d004.s009.t023	,	nan	X	nan	سرطان	bn:00015180n
+d004.s009.t024	some	nan	X	nan	که	nan
+d004.s009.t025	of	nan	X	nan	برخی	bn:00048242n
+d004.s009.t026	which	nan	X	nan	،	nan
+d004.s009.t027	are	be	V	nan	از	nan
+d004.s009.t028	known	know	V	bn:00090142v	استفراغ	bn:00027565n
+d004.s009.t029	to	nan	X	nan	آنها	nan
+d004.s009.t030	cause	cause	V	bn:00084069v	شود	bn:00089140v
+d004.s009.t031	vomiting	vomit	V	bn:00083115v	به	nan
+d004.s009.t032	)	nan	X	nan	شناخته می	bn:00082527v
+d004.s009.t033	.	nan	X	nan	nan	nan
+d004.s010.t001	In	nan	X	nan	در	nan
+d004.s010.t002	combination	combination	N	bn:00020872n	ترکیب	bn:00001466n
+d004.s010.t003	with	nan	X	nan	با	nan
+d004.s010.t004	supportive	supportive	J	bn:00111492a	حمایتی	bn:00111492a
+d004.s010.t005	measures	measure	N	bn:00054018n	اقدامات	bn:00050563n
+d004.s010.t006	such	such	J	nan	مانند	nan
+d004.s010.t007	as	nan	X	nan	nan	nan
+d004.s010.t008	other	other	J	bn:00108011a	سایر	bn:00026980n
+d004.s010.t009	veterinary	veterinary	J	bn:00113583a	دامپزشکی	bn:00079883n
+d004.s010.t010	treatment	treatment	N	bn:00047235n	معالجه	bn:00076843n
+d004.s010.t011	or	nan	X	nan	یا	nan
+d004.s010.t012	a	nan	X	nan	nan	nan
+d004.s010.t013	special	special	J	bn:00108295a	خاص	bn:00111001a
+d004.s010.t014	diet	diet	N	bn:00027011n	رژیم غذایی	bn:00066879n
+d004.s010.t015	,	nan	X	nan	،	nan
+d004.s010.t016	Cerenia	cerenia	N	bn:00923812n	Cerenia	nan
+d004.s010.t017	can	nan	X	nan	می توان	bn:00054706n
+d004.s010.t018	also	also	R	bn:00114246r	ها	bn:00052222n
+d004.s010.t019	be	be	V	nan	nan	nan
+d004.s010.t020	used	use	V	bn:00082705v	)	nan
+d004.s010.t021	in	nan	X	nan	در	nan
+d004.s010.t022	the	nan	X	nan	nan	nan
+d004.s010.t023	treatment	treatment	N	bn:00047235n	درمان	bn:00024461n
+d004.s010.t024	of	nan	X	nan	از	nan
+d004.s010.t025	vomiting	vomiting	N	bn:00027565n	استفراغ	bn:00027565n
+d004.s010.t026	(	nan	X	nan	nan	nan
+d004.s010.t027	either	nan	X	nan	nan	nan
+d004.s010.t028	as	nan	X	nan	به یا به	nan
+d004.s010.t029	injection	injection	N	bn:00046787n	عنوان عنوان	bn:00077409n
+d004.s010.t030	or	nan	X	nan	تزریق	bn:00046787n
+d004.s010.t031	as	nan	X	nan	و	nan
+d004.s010.t032	injection	injection	N	bn:00046787n	nan	nan
+d004.s010.t033	followed	follow	V	bn:00088425v	به	nan
+d004.s010.t034	by	nan	X	nan	nan	nan
+d004.s010.t035	tablets	tablet	N	bn:00052222n	آن	nan
+d004.s010.t036	)	nan	X	nan	قرص	bn:00052222n
+d004.s010.t037	.	nan	X	nan	نیز	bn:00114246r
+d004.s011.t001	For	nan	X	nan	برای	nan
+d004.s011.t002	these	nan	X	nan	این	nan
+d004.s011.t003	purposes	purpose	N	bn:00002178n	اهداف	bn:00002178n
+d004.s011.t004	,	nan	X	nan	،	nan
+d004.s011.t005	Cerenia	cerenia	N	bn:00923812n	Cerenia	nan
+d004.s011.t006	can	nan	X	nan	می تواند تا	bn:00054706n
+d004.s011.t007	be	be	V	nan	nan	nan
+d004.s011.t008	given	give	V	bn:00088826v	nan	
+d004.s011.t009	for	nan	X	nan	nan	nan
+d004.s011.t010	up to	up to	J	nan	nan	nan
+d004.s011.t011	five	nan	X	nan	پنج	nan
+d004.s011.t012	days	day	N	bn:00025419n	روز	bn:00000086n
+d004.s012.t001	How	nan	X	nan	چگونه	bn:00115266r
+d004.s012.t002	does	do	V	nan	nan	nan
+d004.s012.t003	Cerenia	cerenia	N	bn:00923812n	Cerenia	nan
+d004.s012.t004	work	work	V	nan	کار	bn:00081569n
+d004.s012.t005	?	nan	X	nan	می کند	bn:00081319n
+d004.s013.t001	Cerenia	cerenia	N	bn:00923812n	Cerenia	nan
+d004.s013.t002	blocks	block	V	bn:00083622v	nan	nan
+d004.s013.t003	a	nan	X	nan	یک	nan
+d004.s013.t004	neurokinin	neurokinin	N	bn:02560276n	نوروکینین	bn:00078838n
+d004.s013.t005	1	nan	X	nan	1	bn:00000005n
+d004.s013.t006	(	nan	X	nan	nan	nan
+d004.s013.t007	NK1	nk1	N	nan	( 1	nan
+d004.s013.t008	)	nan	X	nan	)	nan
+d004.s013.t009	receptor	receptor	N	bn:00066514n	گیرنده	bn:00066515n
+d004.s013.t010	,	nan	X	nan	را مسدود	bn:00047957n
+d004.s013.t011	which	nan	X	nan	می	bn:00084069v
+d004.s013.t012	acts	act	V	bn:00082285v	سیستم	bn:00054365n
+d004.s013.t013	in	nan	X	nan	کند	nan
+d004.s013.t014	the	nan	X	nan	nan	nan
+d004.s013.t015	central	central	J	bn:00099258a	در	bn:00075760n
+d004.s013.t016	nervous	nervous	J	bn:00107232a	که	nan
+d004.s013.t017	system	system	N	bn:00075762n	،	nan
+d004.s013.t018	.	nan	X	nan	عصبی مرکزی	bn:00099258a
+d004.s014.t001	How	nan	X	nan	چگونه	bn:00114234r
+d004.s014.t002	has	have	V	nan	nan	nan
+d004.s014.t003	Cerenia	cerenia	N	bn:00923812n	Cerenia	nan
+d004.s014.t004	been	be	V	nan	nan	nan
+d004.s014.t005	studied	study	V	bn:00082596v	مورد مطالعه قرار گرفته_است	nan
+d004.s014.t006	?	nan	X	nan	؟	nan
+d004.s015.t001	A	nan	X	nan	nan	nan
+d004.s015.t002	large	large	J	bn:00098342a	زیادی	bn:00106408a
+d004.s015.t003	number	number	N	bn:00034394n	تعداد	bn:00058285n
+d004.s015.t004	of	nan	X	nan	از	nan
+d004.s015.t005	studies	study	N	bn:00074790n	مطالعات	bn:00061758n
+d004.s015.t006	with	nan	X	nan	با	nan
+d004.s015.t007	Cerenia	cerenia	N	bn:00923812n	سرنیا	bn:00034108n
+d004.s015.t008	were	be	V	nan	nan	nan
+d004.s015.t009	carried	carry	V	nan	انجام	bn:00029881n
+d004.s015.t010	out	out	R	nan	nan	nan
+d004.s015.t011	either	either	R	nan	یا	nan
+d004.s015.t012	in	nan	X	nan	در در	nan
+d004.s015.t013	laboratory	laboratory	N	bn:00049551n	آزمایشگاهی	bn:00102579a
+d004.s015.t014	dogs	dog	N	bn:00015267n	سگهای	bn:00015267n
+d004.s015.t015	or	nan	X	nan	یا	nan
+d004.s015.t016	in	nan	X	nan	در	nan
+d004.s015.t017	animal	animal	J	nan	حیوانات	bn:00004222n
+d004.s015.t018	patients	patient	N	bn:00061017n	بیماران	bn:00001742n
+d004.s015.t019	at	nan	X	nan	nan	nan
+d004.s015.t020	veterinary	veterinary	J	bn:00113583a	اقدامات دامپزشکی	bn:00007012n
+d004.s015.t021	practises	practise	V	nan	nan	nan
+d004.s015.t022	in	nan	X	nan	در	nan
+d004.s015.t023	several	several	J	bn:00110469a	چندین	nan
+d004.s015.t024	European	european	J	bn:00102440a	اروپایی	bn:00031898n
+d004.s015.t025	countries	country	N	bn:00011771n	کشور	bn:00023235n
+d004.s015.t026	and	nan	X	nan	و	nan
+d004.s015.t027	in	nan	X	nan	nan	nan
+d004.s015.t028	the	nan	X	nan	nan	nan
+d004.s015.t029	USA	usa	N	bn:00003341n	ایالات متحده	nan
+d004.s015.t030	.	nan	X	nan	شد	bn:00087106v
+d004.s016.t001	What	nan	X	nan	چه	nan
+d004.s016.t002	benefit	benefit	N	bn:00009905n	فایده	bn:00079396n
+d004.s016.t003	has	have	V	nan	nan	nan
+d004.s016.t004	Cerenia	cerenia	N	bn:00923812n	Cerenia	nan
+d004.s016.t005	shown	show	V	bn:00083245v	نشان داده_است	bn:00025766n
+d004.s016.t006	during	nan	X	nan	در طول	nan
+d004.s016.t007	the	nan	X	nan	ای	nan
+d004.s016.t008	studies	study	N	bn:00074790n	مطالعات	bn:00061758n
+d004.s016.t009	?	nan	X	nan	؟	nan
+d004.s017.t001	The	nan	X	nan	این است	nan
+d004.s017.t002	results	result	N	bn:00021961n	نتایج	bn:00004452n
+d004.s017.t003	of	nan	X	nan	nan	nan
+d004.s017.t004	the	nan	X	nan	nan	nan
+d004.s017.t005	studies	study	N	bn:00074790n	مطالعات	bn:00061758n
+d004.s017.t006	showed	show	V	bn:00083245v	نشان داد	bn:00025766n
+d004.s017.t007	that	nan	X	nan	که	nan
+d004.s017.t008	Cerenia	cerenia	N	bn:00923812n	Cerenia	nan
+d004.s017.t009	was	be	V	nan	nan	nan
+d004.s017.t010	more	more	R	bn:00116284r	nan	nan
+d004.s017.t011	effective	effective	J	bn:00102038a	مؤثرتر	bn:00101186a
+d004.s017.t012	than	nan	X	nan	از	nan
+d004.s017.t013	the	nan	X	nan	nan	nan
+d004.s017.t014	placebo	placebo	N	bn:00062717n	دارونما که	bn:00004525n
+d004.s017.t015	:	nan	X	nan	nan	nan
+d004.s017.t016	less	less	J	bn:00105886a	استفراغ	bn:00027565n
+d004.s017.t017	vomiting	vomiting	N	bn:00027565n	:	nan
+d004.s017.t018	was	be	V	nan	nan	nan
+d004.s017.t019	seen	see	V	bn:00082812v	دارو دیده	bn:00028872n
+d004.s017.t020	in	nan	X	nan	کمتری	bn:00110149a
+d004.s017.t021	dogs	dog	N	bn:00015267n	در	nan
+d004.s017.t022	that	nan	X	nan	سگهایی	bn:00015267n
+d004.s017.t023	received	receive	V	bn:00087863v	را می	nan
+d004.s017.t024	the	nan	X	nan	nan	nan
+d004.s017.t025	medicine	medicine	N	bn:00054128n	nan	nan
+d004.s017.t026	than	nan	X	nan	کردند	bn:00084331v
+d004.s017.t027	in	nan	X	nan	nan	nan
+d004.s017.t028	dogs	dog	N	bn:00015267n	به	nan
+d004.s017.t029	that	nan	X	nan	سگهایی	bn:00015267n
+d004.s017.t030	received	receive	V	bn:00087863v	دارونما دریافت کرده_اند	bn:00078526n
+d004.s017.t031	a	nan	X	nan	nan	nan
+d004.s017.t032	placebo	placebo	N	bn:00062717n	که	nan
+d004.s017.t033	,	nan	X	nan	،	nan
+d004.s017.t034	both	nan	X	nan	هم هم	nan
+d004.s017.t035	in	nan	X	nan	در	bn:00042450n
+d004.s017.t036	the	nan	X	nan	nan	nan
+d004.s017.t037	treatment	treatment	N	bn:00047235n	درمان	nan
+d004.s017.t038	or	nan	X	nan	nan	nan
+d004.s017.t039	in	nan	X	nan	در	bn:00042450n
+d004.s017.t040	the	nan	X	nan	nan	nan
+d004.s017.t041	prevention	prevention	N	bn:00008467n	پیشگیری	nan
+d004.s017.t042	of	nan	X	nan	از	bn:00008467n
+d004.s017.t043	vomiting	vomiting	N	bn:00027565n	استفراغ	nan
+d004.s017.t044	.	nan	X	nan	می شود	bn:00086708v
+d004.s018.t001	The	nan	X	nan	nan	nan
+d004.s018.t002	treatment	treatment	N	bn:00047235n	درمان	nan
+d004.s018.t003	of	nan	X	nan	nan	nan
+d004.s018.t004	a	nan	X	nan	nan	nan
+d004.s018.t005	vomiting	vomiting	N	bn:00027565n	استفراغ	bn:00027565n
+d004.s018.t006	dog	dog	N	bn:00015267n	سگ	bn:00015267n
+d004.s018.t007	should	nan	X	nan	باید	nan
+d004.s018.t008	be	be	V	nan	شود	bn:00089351v
+d004.s018.t009	started	start	V	bn:00083347v	آغاز	bn:00009633n
+d004.s018.t010	with	nan	X	nan	با	nan
+d004.s018.t011	the	nan	X	nan	nan	nan
+d004.s018.t012	injection	injection	N	bn:00046787n	تزریق	bn:00046787n
+d004.s018.t013	,	nan	X	nan	،	nan
+d004.s018.t014	since	nan	X	nan	زیرا	nan
+d004.s018.t015	vomiting	vomiting	N	bn:00027565n	استفراغ	bn:00027565n
+d004.s018.t016	animals	animal	N	bn:00004222n	حیوانات	bn:00004222n
+d004.s018.t017	might	nan	X	nan	ممکن است	bn:00105981a
+d004.s018.t018	not	not	R	bn:00116360r	nan	nan
+d004.s018.t019	be	be	V	nan	nan	nan
+d004.s018.t020	able	able	J	bn:00096151a	نتوانند	bn:00087966v
+d004.s018.t021	to	nan	X	nan	nan	nan
+d004.s018.t022	keep	keep	V	nan	را نگه	nan
+d004.s018.t023	a	nan	X	nan	یک	nan
+d004.s018.t024	tablet	tablet	N	bn:00052222n	قرص ( دوباره	bn:00061296n
+d004.s018.t025	down	down	R	nan	پایین به	bn:00012365n
+d004.s018.t026	(	nan	X	nan	nan	nan
+d004.s018.t027	as	nan	X	nan	را	nan
+d004.s018.t028	they	nan	X	nan	دارند	bn:00089384v
+d004.s018.t029	might	nan	X	nan	زیرا ممکن	nan
+d004.s018.t030	throw	throw	V	nan	نخورده بالا	bn:00102499a
+d004.s018.t031	the	nan	X	nan	nan	nan
+d004.s018.t032	intact	intact	J	bn:00102278a	قرص دست	bn:00061296n
+d004.s018.t033	tablet	tablet	N	bn:00052222n	پرتاب	bn:00035244n
+d004.s018.t034	up	up	R	nan	سمت	bn:00007559n
+d004.s018.t035	again	again	R	bn:00114171r	است	nan
+d004.s018.t036	)	nan	X	nan	nan	nan
+d004.s018.t037	.	nan	X	nan	nan	nan
+d004.s019.t001	For	nan	X	nan	برای	nan
+d004.s019.t002	follow-up	follow-up	N	bn:00035627n	پیگیری	bn:00035623n
+d004.s019.t003	treatment	treatment	N	bn:00047235n	درمان	bn:00024461n
+d004.s019.t004	,	nan	X	nan	،	nan
+d004.s019.t005	the	nan	X	nan	nan	nan
+d004.s019.t006	animal	animal	J	nan	حیوان	bn:00004222n
+d004.s019.t007	owner	owner	N	bn:00059954n	صاحب	bn:00059953n
+d004.s019.t008	can	nan	X	nan	می تواند	bn:00054706n
+d004.s019.t009	administer	administer	V	bn:00082365v	تجویز	bn:00004628n
+d004.s019.t010	the	nan	X	nan	ها را	bn:00004628n
+d004.s019.t011	tablets	tablet	N	bn:00052222n	قرص	bn:00052222n
+d004.s019.t012	to	nan	X	nan	به	nan
+d004.s019.t013	the	nan	X	nan	nan	nan
+d004.s019.t014	dog	dog	N	bn:00015267n	سگ	bn:00015267n
+d004.s019.t015	.	nan	X	nan	کند	bn:00093287v
+d004.s020.t001	Also	also	R	bn:00114246r	همچنین	bn:00114246r
+d004.s020.t002	,	nan	X	nan	،	nan
+d004.s020.t003	the	nan	X	nan	nan	nan
+d004.s020.t004	treatment	treatment	N	bn:00047235n	درمان	bn:00024461n
+d004.s020.t005	of	nan	X	nan	nan	nan
+d004.s020.t006	vomiting	vomiting	N	bn:00027565n	استفراغ	bn:00027565n
+d004.s020.t007	should	nan	X	nan	باید	nan
+d004.s020.t008	only	only	R	bn:00114234r	فقط	bn:00114234r
+d004.s020.t009	be	be	V	nan	nan	nan
+d004.s020.t010	together	together	R	nan	nan	nan
+d004.s020.t011	with	nan	X	nan	در حالی	nan
+d004.s020.t012	other	other	J	bn:00108011a	که	nan
+d004.s020.t013	supportive	supportive	J	bn:00111492a	دلایل	bn:00041881n
+d004.s020.t014	measure	measure	N	bn:00054018n	nan	nan
+d004.s020.t015	or	nan	X	nan	اساسی	bn:00098084a
+d004.s020.t016	other	other	J	bn:00108011a	استفراغ	bn:00027565n
+d004.s020.t017	veterinary	veterinary	J	bn:00113583a	به می	nan
+d004.s020.t018	therapy	therapy	N	bn:00076843n	nan	nan
+d004.s020.t019	while	nan	X	nan	، همراه	nan
+d004.s020.t020	addressing	address	V	bn:00082336v	با سایر	nan
+d004.s020.t021	the	nan	X	nan	پردازد	bn:00089682v
+d004.s020.t022	underlying	underlie	V	bn:00095360v	حمایتی	bn:00111492a
+d004.s020.t023	causes	cause	N	bn:00016850n	اقدامات	bn:00050563n
+d004.s020.t024	of	nan	X	nan	nan	nan
+d004.s020.t025	the	nan	X	nan	nan	nan
+d004.s020.t026	vomiting	vomiting	N	bn:00027565n	یا	nan
+d004.s020.t027	.	nan	X	nan	سایر	bn:00070651n
+d004.s021.t001	What	nan	X	nan	nan	nan
+d004.s021.t002	is	be	V	nan	nan	nan
+d004.s021.t003	the	nan	X	nan	nan	nan
+d004.s021.t004	risk	risk	N	bn:00030747n	خطر	bn:00030747n
+d004.s021.t005	associated	associate	V	bn:00082868v	مرتبط	bn:00100499a
+d004.s021.t006	with	nan	X	nan	با	nan
+d004.s021.t007	Cerenia	cerenia	N	bn:00923812n	Cerenia	nan
+d004.s021.t008	?	nan	X	nan	چیست	nan
+d004.s022.t001	Cerenia	cerenia	N	bn:00923812n	Cerenia	nan
+d004.s022.t002	was	be	V	nan	nan	nan
+d004.s022.t003	generally	generally	R	bn:00114634r	به طور کلی	nan
+d004.s022.t004	well	well	R	bn:00115530r	درمان	bn:00024461n
+d004.s022.t005	tolerated	tolerate	V	bn:00095008v	nan	nan
+d004.s022.t006	when	nan	X	nan	هنگام	bn:00046209n
+d004.s022.t007	administered	administer	V	bn:00082365v	nan	nan
+d004.s022.t008	daily	daily	R	bn:00114917r	روزانه	bn:00114917r
+d004.s022.t009	at	nan	X	nan	nan	nan
+d004.s022.t010	dosages	dosage	N	bn:00028320n	nan	nan
+d004.s022.t011	up	up	R	nan	nan	nan
+d004.s022.t012	to	nan	X	nan	تا	nan
+d004.s022.t013	5	nan	X	nan	5	nan
+d004.s022.t014	times	time	N	bn:00019848n	برابر	bn:00020888n
+d004.s022.t015	the	nan	X	nan	nan	nan
+d004.s022.t016	recommended	recommend	V	bn:00082418v	توصیه شده (	bn:00066562n
+d004.s022.t017	doses	dose	N	bn:00028320n	دوزها دوزهای	bn:00028320n
+d004.s022.t018	for	nan	X	nan	برای	nan
+d004.s022.t019	an	nan	X	nan	nan	nan
+d004.s022.t020	extended	extended	J	bn:00101795a	nan	nan
+d004.s022.t021	period	period	N	bn:00061605n	مدت طولانی	bn:00029170n
+d004.s022.t022	of	nan	X	nan	nan	nan
+d004.s022.t023	time	time	N	bn:00077267n	زمان	bn:00060099n
+d004.s022.t024	(	nan	X	nan	nan	nan
+d004.s022.t025	up	up	R	nan	nan	nan
+d004.s022.t026	to	nan	X	nan	از	nan
+d004.s022.t027	3	nan	X	nan	حداکثر	bn:00053933n
+d004.s022.t028	times	time	N	bn:00019848n	3	nan
+d004.s022.t029	the	nan	X	nan	nan	nan
+d004.s022.t030	recommended	recommended	J	nan	مدت زمان شده	bn:00029170n
+d004.s022.t031	maximum	maximum	J	bn:00106517a	برابر	bn:00020888n
+d004.s022.t032	duration	duration	N	bn:00022191n	حداکثر	bn:00053933n
+d004.s022.t033	of	nan	X	nan	توصیه )	bn:00066562n
+d004.s022.t034	treatment	treatment	N	bn:00047235n	تجویز	bn:00076647n
+d004.s022.t035	)	nan	X	nan	به	nan
+d004.s022.t036	.	nan	X	nan	خوبی	bn:00043358n
+d004.s023.t001	What	nan	X	nan	nan	nan
+d004.s023.t002	are	be	V	nan	nan	nan
+d004.s023.t003	the	nan	X	nan	nan	nan
+d004.s023.t004	precautions	precaution	N	bn:00042049n	اقدامات احتیاطی	bn:00050563n
+d004.s023.t005	for	nan	X	nan	برای	nan
+d004.s023.t006	the	nan	X	nan	nan	nan
+d004.s023.t007	person	person	N	bn:00046516n	شخصی	bn:00046516n
+d004.s023.t008	who	nan	X	nan	که	nan
+d004.s023.t009	gives	give	V	bn:00088826v	می دهد	bn:00054706n
+d004.s023.t010	the	nan	X	nan	را	nan
+d004.s023.t011	medicine	medicine	N	bn:00054128n	دارو	bn:00028872n
+d004.s023.t012	or	nan	X	nan	یا	nan
+d004.s023.t013	comes	come	V	nan	nan	nan
+d004.s023.t014	into	nan	X	nan	nan	nan
+d004.s023.t015	contact	contact	N	bn:00022113n	تماس	bn:00026265n
+d004.s023.t016	with	nan	X	nan	با	nan
+d004.s023.t017	the	nan	X	nan	در است	nan
+d004.s023.t018	animal	animal	N	bn:00004222n	حیوان	bn:00004222n
+d004.s023.t019	?	nan	X	nan	چیست	nan
+d004.s024.t001	Cerenia	cerenia	N	bn:00923812n	Cerenia	nan
+d004.s024.t002	does	do	V	nan	nan	nan
+d004.s024.t003	not	not	R	bn:00116360r	نمی	bn:00084069v
+d004.s024.t004	represent	represent	V	bn:00083187v	را نشان	nan
+d004.s024.t005	a	nan	X	nan	nan	nan
+d004.s024.t006	particular	particular	J	bn:00102398a	خاصی	bn:00111001a
+d004.s024.t007	risk	risk	N	bn:00030747n	خطر	bn:00030747n
+d004.s024.t008	for	nan	X	nan	برای	nan
+d004.s024.t009	people	people	N	bn:00044382n	مردم	bn:00063584n
+d004.s024.t010	.	nan	X	nan	دهد	bn:00084069v
