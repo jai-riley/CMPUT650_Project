@@ -3,7 +3,9 @@ import csv
 import os
 from nltk.corpus import wordnet
 
-lang = "EN"
+# https://babelnet.io/v6/getSynset?id={babel_id}&key={api_key}
+
+lang = "AF"
 lst = []
 
 
@@ -20,27 +22,68 @@ def union(lst1, lst2):
     return lst3
 
 
-def get_score(lst1, lst2):
-    #lst3 = intersection(lst1, lst2)
-    #return get_similarity(lst1,lst2) / len(union(lst1,lst2))
-    return get_similarity(lst1,lst2) / (len(union(lst1,lst2)))
+def get_score(lst1, lst2, thres=0):
+    lst3 = intersection(lst1, lst2)
+    # return get_similarity(lst1,lst2) / len(union(lst1,lst2))
+    if thres == 0:
+        if (len(lst1) + len(lst2)) == 0:
+            return 0
+        else:
+            score = get_similarity(lst1, lst2) / (len(lst1) + len(lst2))
+
+    else:
+        if len(union(lst1, lst2)) == 0:
+            return 0
+        else:
+            score = get_similarity(lst1, lst2, thres) / len(union(lst1, lst2))
+    return min(1, score)
+    # return score
 
 
-def get_similarity(lst1, lst2):
-    #inter = intersection(lst1, lst2)
+def avg_path(dict, item, val):
+    if val > dict[item]:
+        dict[item] = val
+
+
+def threshold_path(dict, item, val, thres):
+    if val > thres:
+        dict[item] = 1
+
+
+def get_similarity(lst1, lst2, thres=0):
+    # inter = intersection(lst1, lst2)
     l1 = {}
-    l2 = []
-    for item in lst1:
-            l1[item] = 0
+    l2 = {}
+    for item in set(lst1):
+        l1[item] = 0
+    for item in set(lst2):
+        l2[item] = 0
     for item in l1.keys():
-        for item2 in lst2:
+        for item2 in l2.keys():
             synl1 = wordnet.synset(item)
             synl2 = wordnet.synset(item2)
-            val = synl1.wup_similarity(synl2)
-            if val >= 0.75:
-                l1[item] = 1
+            try:
+                val = synl1.wup_similarity(synl2)
+            except:
+                val = 0
+            if thres == 0:
+                avg_path(l1, item, val)
+            else:
+                threshold_path(l1, item, val, thres)
+    for item in l2.keys():
+        for item2 in l1.keys():
+            synl1 = wordnet.synset(item)
+            synl2 = wordnet.synset(item2)
+            try:
+                val = synl1.wup_similarity(synl2)
+            except:
+                val = 0
 
-    return sum(l1.values())
+            if thres == 0:
+                avg_path(l2, item, val)
+            else:
+                threshold_path(l2, item, val, thres)
+    return sum(l1.values()) + sum(l1.values())
 
 
 def read_csv_file(file_path):
@@ -48,11 +91,15 @@ def read_csv_file(file_path):
     with open(file_path, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            print( row['PairID'])
+            print(row['PairID'])
             r = []
-            text = row['Text'].split('\n')
-            r.append({'text': text[0].lower(), 'lang': lang})
-            r.append({'text': text[1].lower(), 'lang': lang})
+            #text = row['Text'].split('\n')
+            t1 = row['Text1 Translation'].lower()
+            t2 = row['Text2 Translation'].lower()
+            r.append({'text': t1, 'lang': "EN"})
+            r.append({'text': t2, 'lang': "EN"})
+            #r.append({'text': text[0].lower(), 'lang': "EN"})
+            #r.append({'text': text[1].lower(), 'lang': "ES"})
             score = get_wsd(r)
             x = {'PairID': row['PairID'], "Pred_Score": f'{score:.2f}'}
             lst.append(x)
@@ -73,7 +120,7 @@ def get_wsd(data):
                         l.append(token['nltkSynset'])
                         # print(token['text'])
                 concepts.append(l)
-            return get_score(concepts[0], concepts[1])
+            return get_score(concepts[0], concepts[1],0.8)
 
         else:
             print(f"Error: {response.status_code}, {response.text}")
@@ -90,16 +137,16 @@ def write_csv_file(file_path, data):
         writer.writerows(data)
 
 
-api_url = "http://nlp.uniroma1.it/amuse-wsd/api/model"
+api_url = "http://127.0.0.1:12346/api/model"
 
 headers = {
     'Accept': 'application/json',
     'Content-Type': 'application/json',
 }
-
-csv_file_path = 'eng_dev.csv'
-output_file = "out_1.csv"
+"""
+csv_file_path = 'SemEval2024-Task1/afr2eng_test.csv'
+output_file = "SemEval2024-Task1/outputTHM/afr2eng_test.csv"
 data_from_csv = read_csv_file(csv_file_path)
 write_csv_file(output_file, lst)
-
+"""
 """[{'text': 'two championships, three all-star wins, seven straight feature wins.', 'lang': 'EN'}, {'text': '2 championship, 3 all-stars victory, 7 straight wins.', 'lang': 'EN'}]"""
