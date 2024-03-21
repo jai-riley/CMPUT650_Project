@@ -104,20 +104,29 @@ def write_to_csv(id, sentence, output_filename):
             else:
                 tokenID = f't{count}'
             count += 1
-            writer.writerow([f"{id}.{tokenID}",token['text'],token['lemma'],token['pos'],token['bnSynsetId']])
+            if token['bnSynsetId'] == 'O':
+                sense = 'n/a'
+            else:
+                sense = token['bnSynsetId']
+            writer.writerow([f"{id}.{tokenID}",token['text'],token['lemma'],token['pos'],sense])
 
 
 def main():
     try:
+        print("Getting sentences....")
         sentences = read_csv_file(filename)
-        print("\nSentences formed from tokens in the file:")
+        count = 1
+        total = len(sentences.items())
         for idx, sentence in sentences.items():
-            wsd = get_wsd(sentence,"EN")
+            print(f"Sentence {count} of {total}....")
+            wsd = get_wsd(sentence,lang)
             write_to_csv(idx, wsd, output_file)
+            count += 1
+        print("Done")
     except FileNotFoundError:
         print(f"File '{filename}' not found.")
 
-
+lang = "EN"
 filename = 'a3_tokens-English.csv'
 output_file = "out_tokens.csv"
 
