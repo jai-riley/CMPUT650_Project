@@ -126,9 +126,9 @@ def main():
     except FileNotFoundError:
         print(f"File '{filename}' not found.")
 
-lang = "EN"
-filename = 'a3_tokens-English.csv'
-output_file = "out_tokens.csv"
+lang = "FA"
+filename = 'a3_tokens_Farsi.csv'
+output_file = "out_farsi_tokens.csv"
 
 # this is the url for the offline version of AMuSE-WSD
 api_url = "http://127.0.0.1:12346/api/model"
