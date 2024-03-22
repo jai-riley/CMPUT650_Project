@@ -156,7 +156,7 @@ count = 0
 #dirs = [x for x in all_files if x not in completed_files]
 dirs = ['esp_dev.csv']
 #lang = "EN"
-#print("H")
+
 
 # rerun relatedness for hin
 for file in dirs:

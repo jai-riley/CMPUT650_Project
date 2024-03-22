@@ -23,8 +23,8 @@ def get_values(csv_file_path, target_column):
             #print(len(column_values))
             for row in csvreader:
                 #print(row["PairID"][-4:])
-                column_values[int(row["PairID"][-4:])] = float(row[target_column])
-                #column_values = [float(row[target_column]) for row in csvreader ]
+                #column_values[int(row["PairID"][-4:])] = float(row[target_column])
+                column_values = [float(row[target_column]) for row in csvreader ]
 
             # Print the extracted values
             #print(f"All values in the '{target_column}' column: { column_values}")
