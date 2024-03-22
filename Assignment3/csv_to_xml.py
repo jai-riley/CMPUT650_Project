@@ -1,43 +1,21 @@
 from xml.dom import minidom
-import os
 import csv
-def get_values(csv_file_path, target_column):
+
+def get_column(csv_file_path,target_column):
     with open(csv_file_path, 'r', newline='', encoding='utf-8') as csvfile:
-        # Create a csv reader
         csvreader = csv.DictReader(csvfile)
-
-        # Check if the target column is present in the header
-        if target_column not in csvreader.fieldnames:
-            print(f"Error: Column '{target_column}' not found in the csv file.")
-        else:
-            column_values = [row[target_column] for row in csvreader ]
-            return column_values
-
+        return [row[target_column] for row in csvreader]
 
 def get_num_doc(csv_file_path):
-    target_column = "Token ID"
-    with open(csv_file_path, 'r', newline='', encoding='utf-8') as csvfile:
-        # Create a csv reader
-        csvreader = csv.DictReader(csvfile)
-        # Check if the target column is present in the header
-        if target_column not in csvreader.fieldnames:
-            print(f"Error: Column '{target_column}' not found in the csv file.")
-        else:
-            column_values = [row[target_column] for row in csvreader ]
-            return int(column_values[-1][1:4])
+        return int(get_column(csv_file_path,"Token ID")[-1][1:4])
 
 def get_num_sentences(csv_file_path, doc_num):
-    with open(csv_file_path, 'r', newline='', encoding='utf-8') as csvfile:
-        # Create a csv reader
-        csvreader = csv.DictReader(csvfile)
-        # Check if the target column is present in the header
-        column_values = [row["Token ID"] for row in csvreader ]
+    column_values = get_column(csv_file_path,"Token ID")
     doc = [x for x in column_values if x[0:4] == doc_num]
     return int(doc[-1][6:9])
 
-def get_tokens(sentence_id, input_file,object,root):
+def add_tokens(sentence_id, input_file, object, root):
     with open(input_file, 'r', newline='', encoding='utf-8') as csvfile:
-        # Create a csv reader
         csvreader = csv.DictReader(csvfile)
         for row in csvreader:
             if row["Token ID"][0:9] == sentence_id:
@@ -48,7 +26,6 @@ def get_tokens(sentence_id, input_file,object,root):
                 x = root.createTextNode(row["Token"])
                 token.appendChild(x)
                 object.appendChild(token)
-
 
 def GenerateXML(input_file,output_file,lang):
     root = minidom.Document()
@@ -72,7 +49,7 @@ def GenerateXML(input_file,output_file,lang):
             sentence = root.createElement("sentence")
             sentence.setAttribute('id',f"{docId}.{senId}")
             document.appendChild(sentence)
-            get_tokens(f"{docId}.{senId}",input_file,sentence,root)
+            add_tokens(f"{docId}.{senId}", input_file, sentence, root)
     xml_str = root.toprettyxml(indent="\t")
     with open(output_file, "w") as f:
         f.write(xml_str)
