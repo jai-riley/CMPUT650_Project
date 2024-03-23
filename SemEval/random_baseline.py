@@ -22,5 +22,5 @@ for file in all_files:
         csvwriter.writerow(["PairID","Pred_Score"])
         ids = get_column(f"SemEval2024-Task1/labels/{file}", "PairID")
         for pair in ids:
-            num = randint(1, 5)
-            csvwriter.writerow([pair,num/4])
+            num = randint(0, 101)
+            csvwriter.writerow([pair,num/100])
