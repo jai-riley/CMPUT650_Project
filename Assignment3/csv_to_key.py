@@ -70,8 +70,9 @@ with open("/Users/jairiley/Desktop/CMPUT650_Project/Assignment3/a3_tokens-WSDFar
                                                        first_token_id=row[0])
                 wsd = get_wsd(sentence,"FA")["tokens"]
                 for token in wsd:
-                    if token == combined_word:
-                        print("HES\n\n")
+                    #print(token)
+                    if token["text"] == combined_word:
+                        print("YES\n\n")
                 #print(sentence)
                 #print(combined_word)
                 key_file.append([row[0], next_token, "", ""])
