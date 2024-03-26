@@ -12,7 +12,7 @@ def find_multi_lexical_in_alignment(document_number: int, sentence_number: int, 
 
 
 def get_sentence(document_number: int, sentence_number: int, first_token_id: str):
-    with open("a3_tokens - WSD Farsi.csv", 'r', newline='', encoding='utf-8') as file:
+    with open("/Users/jairiley/Desktop/CMPUT650_Project/Assignment3/a3_tokens-WSDFarsi.csv", 'r', newline='', encoding='utf-8') as file:
         reader = csv.reader(file)
 
         next(reader)
@@ -34,7 +34,7 @@ def get_sentence(document_number: int, sentence_number: int, first_token_id: str
 
 multi_lexical = []
 
-with open("a3_tokens - Aligned (Farsi).csv", 'r', newline='', encoding='utf-8') as file:
+with open("/Users/jairiley/Desktop/CMPUT650_Project/Assignment3/a3_tokens-Aligned_Farsi_.csv", 'r', newline='', encoding='utf-8') as file:
     reader = csv.reader(file)
 
     next(reader)
@@ -51,7 +51,7 @@ with open("a3_tokens - Aligned (Farsi).csv", 'r', newline='', encoding='utf-8') 
                 multi_lexical.append([first_token_id, second_token_id, first_token, second_token])
 
 key_file = []
-with open("a3_tokens-WSD Farsi.csv", 'r', newline='', encoding='utf-8') as file:
+with open("/Users/jairiley/Desktop/CMPUT650_Project/Assignment3/a3_tokens-WSDFarsi.csv", 'r', newline='', encoding='utf-8') as file:
     reader = csv.reader(file)
 
     next(reader)
@@ -68,10 +68,12 @@ with open("a3_tokens-WSD Farsi.csv", 'r', newline='', encoding='utf-8') as file:
                     token_number + 1).zfill(3)
                 sentence, combined_word = get_sentence(document_number=document_number, sentence_number=sentence_number,
                                                        first_token_id=row[0])
-                wsd = get_wsd(sentence,"FA")
-
-                print(sentence)
-                print(combined_word)
+                wsd = get_wsd(sentence,"FA")["tokens"]
+                for token in wsd:
+                    if token == combined_word:
+                        print("HES\n\n")
+                #print(sentence)
+                #print(combined_word)
                 key_file.append([row[0], next_token, "", ""])
 
 with open('key.csv', mode='w', newline='') as csvfile:

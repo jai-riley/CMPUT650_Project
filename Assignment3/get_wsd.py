@@ -75,7 +75,7 @@ def get_wsd(sentence,lang):
             json_response = response.json()
             # Extract the WSD result for the sentence
             for sentence_wsd in json_response:
-                print(sentence_wsd)
+                #print(sentence_wsd)
                 return sentence_wsd
         else:
             # Print error message if request was not successful
