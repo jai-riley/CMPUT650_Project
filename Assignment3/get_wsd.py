@@ -20,7 +20,7 @@ def read_csv_file(filename):
     current_sentence = []
 
     # Open the CSV file for reading
-    with open(filename, 'r', newline='') as file:
+    with open(filename, 'r', newline='', encoding='utf-8-sig') as file:
         # Create a CSV reader object
         reader = csv.DictReader(file)
         # Variable to track the current sentence ID
@@ -28,7 +28,8 @@ def read_csv_file(filename):
         # Iterate over each row in the CSV file
         for row in reader:
             # Extract the first 9 characters of the Token ID
-            token_id_prefix = row.get("Token ID")[0:9]
+            print(row)
+            token_id_prefix = row.get('Token ID')[0:7]
 
             # If the current Token ID prefix is different from the previous one,
             # it means we are starting a new sentence
@@ -43,6 +44,7 @@ def read_csv_file(filename):
 
             # Extract the token from the row
             token = row.get('Token')
+            print(token)
             # If the token is not None, append it to the current sentence
             if token is not None:
                 current_sentence.append(token)
@@ -62,7 +64,7 @@ def get_wsd(sentence,lang):
     Returns:
     - dict: A dictionary containing the WSD result for the input sentence.
     """
-    data = [{'text': sentence.lower(), 'lang': lang}]
+    data = [{'text':sentence.lower(), 'lang': lang}]
     try:
         # Send a POST request to the WSD API
         response = requests.post(api_url, headers=headers, json=data)
@@ -73,6 +75,7 @@ def get_wsd(sentence,lang):
             json_response = response.json()
             # Extract the WSD result for the sentence
             for sentence_wsd in json_response:
+                print(sentence_wsd)
                 return sentence_wsd
         else:
             # Print error message if request was not successful
@@ -115,6 +118,7 @@ def main():
     try:
         print("Getting sentences....")
         sentences = read_csv_file(filename)
+        print(len(sentences))
         count = 1
         total = len(sentences.items())
         for idx, sentence in sentences.items():
@@ -127,8 +131,8 @@ def main():
         print(f"File '{filename}' not found.")
 
 lang = "FA"
-filename = 'a3_tokens_Farsi.csv'
-output_file = "out_farsi_tokens.csv"
+filename = 'out_senses.csv'
+output_file = "out_senses_farsi_GOLD.csv"
 
 # this is the url for the offline version of AMuSE-WSD
 api_url = "http://127.0.0.1:12346/api/model"
@@ -142,5 +146,6 @@ headers = {
 }
 
 
-if __name__ == "__main__":
+"""if __name__ == "__main__":
     main()
+"""

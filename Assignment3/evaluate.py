@@ -1,5 +1,6 @@
 import csv
-from sklearn.metrics import f1_score,precision_score,recall_score
+from sklearn.metrics import f1_score, precision_score, recall_score
+
 
 def read_csv_file(filename):
     """
@@ -49,13 +50,15 @@ def read_csv_file(filename):
                 else:
                     tokenID = f"t{count}"
                 count += 1
-                current_sentence[tokenID] = [row['Token'],row['Sense']]
+                current_sentence[tokenID] = [row['Token'], row['Sense']]
 
         # After reading all rows, if there are tokens in the current sentence, join them to form a sentence
         if current_sentence:
             sentences[id] = current_sentence
     # Return the constructed sentences
     return sentences
+
+
 def evaluate(gold_sentences, pred_sentences):
     p = 0
     r = 0
@@ -63,43 +66,46 @@ def evaluate(gold_sentences, pred_sentences):
     for x in range(len(gold_sentences.keys())):
         gold_sentence = gold_sentences[list(gold_sentences.keys())[x]]
         pred_sentence = pred_sentences[list(pred_sentences.keys())[x]]
-        #print(len(gold_sentence.keys()),len(pred_sentence.keys()))
+        # print(len(gold_sentence.keys()),len(pred_sentence.keys()))
         if len(gold_sentence.keys()) == len(pred_sentence.keys()):
-            f1 += f1_score([y[1] for x,y in gold_sentence.items()],[y[1] for x,y in pred_sentence.items()],average='micro')
-            p += precision_score([y[1] for x,y in gold_sentence.items()],[y[1] for x,y in pred_sentence.items()],average='micro')
-            r += recall_score([y[1] for x,y in gold_sentence.items()],[y[1] for x,y in pred_sentence.items()],average='micro')
+            f1 += f1_score([y[1] for x, y in gold_sentence.items()], [y[1] for x, y in pred_sentence.items()],
+                           average='micro')
+            p += precision_score([y[1] for x, y in gold_sentence.items()], [y[1] for x, y in pred_sentence.items()],
+                                 average='micro')
+            r += recall_score([y[1] for x, y in gold_sentence.items()], [y[1] for x, y in pred_sentence.items()],
+                              average='micro')
         else:
-            g = [y for x,y in gold_sentence.items()]
+            g = [y for x, y in gold_sentence.items()]
             pred = [y for x, y in pred_sentence.items()]
             if len(g) < len(pred):
                 x = 0
                 a = 0
-                while(x < len(pred)):
+                while (x < len(pred)):
                     count = 0
-                    #print(g[x][0].lower(),pred[x][0])
+                    # print(g[x][0].lower(),pred[x][0])
 
                     if g[x][0].lower() != pred[x][0]:
                         a = x
                         x += 1
-                        while(g[x][0].lower() != pred[a][0] and a < len(pred)):
+                        while (g[x][0].lower() != pred[a][0] and a < len(pred)):
                             count += 1
                             a += 1
-                            #del pred[a]
-                        for a in range(count-1):
+                            # del pred[a]
+                        for a in range(count - 1):
                             g.insert(x + a, ["", 'n/a'])
-                        x+=count
+                        x += count
 
                     else:
                         x += 1
 
-            f1 += f1_score([y[1] for y in g],[y[1] for y in pred],average='micro')
-            p += precision_score([y[1] for y in g],[y[1] for y in pred],average='micro')
-            r += recall_score([y[1] for y in g],[y[1] for y in pred],average='micro')
+            f1 += f1_score([y[1] for y in g], [y[1] for y in pred], average='micro')
+            p += precision_score([y[1] for y in g], [y[1] for y in pred], average='micro')
+            r += recall_score([y[1] for y in g], [y[1] for y in pred], average='micro')
+
+    print(
+        f"F1 Score: {f1 / len(gold_sentences.keys()):.2f}\nPrecision: {p / len(gold_sentences.keys()):.2f} \nRecall: {r / len(gold_sentences.keys()):.2f}")
 
 
-
-    print(f"F1 Score: {f1 / len(gold_sentences.keys()):.2f}\nPrecision: {p/len(gold_sentences.keys()):.2f} \nRecall: {r/len(gold_sentences.keys()):.2f}")
-
-gold_sentences = read_csv_file("a3_tokens-English.csv")
-pred_sentences = read_csv_file("out_tokens.csv")
-evaluate(gold_sentences,pred_sentences)
+gold_sentences = read_csv_file("out_senses.csv")
+pred_sentences = read_csv_file("out_senses_farsi_GOLD.csv")
+evaluate(gold_sentences, pred_sentences)
