@@ -24,13 +24,12 @@ def get_sentence(document_number: int, sentence_number: int, first_token_id: str
             sentence_id = int(row[0].split('.')[1][1:])
             if document_id == document_number and sentence_number == sentence_id:
                 if first_token_id == row[0]:
-                    combined_word = row[1] + "\u200c" + next(reader)[1]
-                    sentence += row[1] + "\u200c"
+                    next_row = next(reader)[1]
+                    combined_word = row[1] + "\u200c" + next_row
+                    sentence += row[1] + "\u200c" + next_row + " "
                 else:
                     sentence += row[1] + " "
-
-        return sentence, combined_word
-
+                return sentence, combined_word
 
 multi_lexical = []
 
