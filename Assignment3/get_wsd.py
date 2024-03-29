@@ -29,7 +29,7 @@ def read_csv_file(filename):
         for row in reader:
             # Extract the first 9 characters of the Token ID
             print(row)
-            token_id_prefix = row.get('Token ID')[0:7]
+            token_id_prefix = row['Token ID'][0:7]
 
             # If the current Token ID prefix is different from the previous one,
             # it means we are starting a new sentence
@@ -43,8 +43,7 @@ def read_csv_file(filename):
                 id = token_id_prefix
 
             # Extract the token from the row
-            token = row.get('Token')
-            print(token)
+            token = row['Token']
             # If the token is not None, append it to the current sentence
             if token is not None:
                 current_sentence.append(token)
@@ -146,6 +145,6 @@ headers = {
 }
 
 
-"""if __name__ == "__main__":
+if __name__ == "__main__":
     main()
-"""
+

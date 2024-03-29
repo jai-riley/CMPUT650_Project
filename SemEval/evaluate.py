@@ -4,9 +4,10 @@ import os
 import csv
 
 def eval():
-    all_files = os.listdir("random_baseline")
+    all_files = os.listdir("SemEval2024-Task1/outputTHM")
+    all_files = ["esp_dev.csv"]
     for file in all_files:
-        with open(f"eval_baseline/eval_{file}", 'a', newline='') as csvfile:
+        with open(f"{file}", 'w', newline='') as csvfile:
 
                 lst = []
                 #print(file[0:7])
@@ -21,7 +22,7 @@ def eval():
                 else:
                     label = "SemEval2024-Task1/labels/sts_eng_eng_test_with_normlabels.csv"
 
-                output_file = "random_baseline/" + file
+                output_file = "SemEval2024-Task1/outputTHM/" + file
 
                 dev_ys = get_values(label, "Score")
                 dev_ys_ = get_values(output_file, "Pred_Score")
@@ -47,7 +48,7 @@ def eval():
 
 # esp: 0.5728845332080186 0.585409019070367, 0.6336848736698238 0.6093109149031243
 # eng: 0.6034921142245867 0.6311834090408295, 0.6443980601117393 0.633632195245917
-
+eval()
 
 import csv
 def avg():
@@ -85,8 +86,8 @@ def avg():
                     cw.writerow(new_row)
 
 
-
-avg()
+#
+#avg()
 """
 # Specify the file path
 file_path = 'random.csv'
