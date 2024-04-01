@@ -37,8 +37,8 @@ def read_csv_file(file_path):
             r = []
             # print(row['PairID'])
             text = row['Text'].split('\n')
-            r.append({'text': text[0].lower(), 'lang': "ES"})
-            r.append({'text': text[1].lower(), 'lang': "ES"})
+            r.append({'text': text[0].lower(), 'lang': "EN"})
+            r.append({'text': text[1].lower(), 'lang': "EN"})
 
             #r.append({'text': row['Text1 Translation'].lower(), 'lang': "EN"})
             #r.append({'text': row['Text2 Translation'].lower(), 'lang': "EN"})
@@ -59,7 +59,7 @@ def get_wsd(data):
             json_response = response.json()
             for sentence in json_response:
                 l = []
-                print(sentence)
+                #print(sentence)
                 for token in sentence['tokens']:
                     # note here that the original data was from bnSynsetId
                     if len(token['nltkSynset']) != 1:
@@ -154,7 +154,7 @@ print(dirs)
 
 count = 0
 #dirs = [x for x in all_files if x not in completed_files]
-dirs = ['esp_dev.csv']
+dirs = ['eng_dev.csv']
 #lang = "EN"
 
 

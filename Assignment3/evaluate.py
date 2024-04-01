@@ -16,7 +16,7 @@ def read_csv_file(filename):
     current_sentence = {}
 
     # Open the CSV file for reading
-    with open(filename, 'r', newline='') as file:
+    with open(filename, 'r', newline='',encoding="utf-8-sig") as file:
         # Create a CSV reader object
         reader = csv.DictReader(file)
         # Variable to track the current sentence ID
@@ -24,8 +24,10 @@ def read_csv_file(filename):
         # Iterate over each row in the CSV file
         count = 1
         for row in reader:
+            #print(row)
             # Extract the first 9 characters of the Token ID
-            token_id_prefix = row.get("Token ID")[0:9]
+            token_id_prefix = row["Token ID"]
+            #print(token_id_prefix)
 
             # If the current Token ID prefix is different from the previous one,
             # it means we are starting a new sentence
@@ -40,7 +42,7 @@ def read_csv_file(filename):
                 count = 1
 
             # Extract the token from the row
-            token = row.get('Token')
+            token = row['Token']
             # If the token is not None, append it to the current sentence
             if token is not None:
                 if count % 10 == count:

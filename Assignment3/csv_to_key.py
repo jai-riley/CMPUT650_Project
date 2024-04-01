@@ -29,7 +29,9 @@ def get_sentence(document_number: int, sentence_number: int, first_token_id: str
                     sentence += row[1] + "\u200c" + next_row + " "
                 else:
                     sentence += row[1] + " "
-                return sentence, combined_word
+
+        return sentence, combined_word
+
 
 multi_lexical = []
 
@@ -69,14 +71,10 @@ with open("/Users/jairiley/Desktop/CMPUT650_Project/Assignment3/a3_tokens-WSDFar
                                                        first_token_id=row[0])
                 wsd = get_wsd(sentence,"FA")["tokens"]
                 for token in wsd:
-                    #print(token)
                     if token["text"] == combined_word:
-                        print("YES\n\n")
-                #print(sentence)
-                #print(combined_word)
-                key_file.append([row[0], next_token, "", ""])
+                        # retrieve the wn
+                        key_file.append([row[0], next_token, token["bnSynsetId"], ""])
 
-with open('key.csv', mode='w', newline='') as csvfile:
+with open('/Users/jairiley/Desktop/CMPUT650_Project/Assignment3/key.csv', mode='w', newline='') as csvfile:
     csvwriter = csv.writer(csvfile)
-
     csvwriter.writerows(key_file)
