@@ -5,12 +5,12 @@ import csv
 
 def eval():
     all_files = os.listdir("SemEval2024-Task1/outputTHM")
-    all_files = ["esp_dev.csv"]
+    all_files = ["arb2eng_test.csv"]
     for file in all_files:
         with open(f"{file}", 'w', newline='') as csvfile:
 
                 lst = []
-                #print(file[0:7])
+                print(file[0:3])
                 if file[0:7] == "track4a":
                     label = "SemEval2024-Task1/labels/track4a_sts_esp_eng_test_with_normlabels.csv"
                 elif file[0:7] == "track4b":
@@ -18,18 +18,21 @@ def eval():
                 elif file[-8:] == "test.csv" or file[4:8] == "test":
                     label = "SemEval2024-Task1/labels/" + file[0:3] + "_test_with_labels.csv"
                 elif file[-7:] == "dev.csv" or file[4:7] == "dev":
+
                     label = "SemEval2024-Task1/labels/" + file[0:3] + "_dev_with_labels.csv"
                 else:
                     label = "SemEval2024-Task1/labels/sts_eng_eng_test_with_normlabels.csv"
 
                 output_file = "SemEval2024-Task1/outputTHM/" + file
-
+                #print(label)
                 dev_ys = get_values(label, "Score")
+                print(dev_ys)
                 dev_ys_ = get_values(output_file, "Pred_Score")
                 pearson, y = pearsonr(dev_ys, dev_ys_)
                 spearman, y = spearmanr(dev_ys, dev_ys_)
 
                 new_row = [spearman, pearson]
+                print(spearman)
                 # Open the CSV file in append mode
                     # Create a CSV writer object
                 csv_writer = csv.writer(csvfile)

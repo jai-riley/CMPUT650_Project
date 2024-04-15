@@ -74,7 +74,7 @@ def get_wsd(sentence,lang):
             json_response = response.json()
             # Extract the WSD result for the sentence
             for sentence_wsd in json_response:
-                #print(sentence_wsd)
+                print(sentence_wsd)
                 return sentence_wsd
         else:
             # Print error message if request was not successful
@@ -106,10 +106,10 @@ def write_to_csv(id, sentence, output_filename):
             else:
                 tokenID = f't{count}'
             count += 1
-            if token['bnSynsetId'] == 'O':
+            if token['wnSynsetOffset'] == 'O':
                 sense = 'n/a'
             else:
-                sense = token['bnSynsetId']
+                sense = token['wnSynsetOffset']
             writer.writerow([f"{id}.{tokenID}",token['text'],token['lemma'],token['pos'],sense])
 
 

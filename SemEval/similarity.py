@@ -76,6 +76,8 @@ def get_similarity(lst1, lst2, thres=0):
             synl2 = wordnet.synset(item2)
             try:
                 val = synl1.wup_similarity(synl2)
+                if val >= 0.8:
+                    print(val, synl1,synl2)
             except:
                 val = 0
 

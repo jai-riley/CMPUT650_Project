@@ -1,3 +1,18 @@
+"""
+Sentence Evaluation and Analysis
+
+This script performs evaluation and analysis of sentences based on gold and predicted senses.
+
+Dependencies:
+    - csv: for reading CSV files
+    - f1_score, precision_score, recall_score: from sklearn.metrics for evaluating the model performance
+
+Functions:
+    - read_csv_file(filename): Reads data from a CSV file and constructs sentences based on the tokens in the file.
+    - evaluate(gold_sentences, pred_sentences): Evaluates the performance of the model based on gold and predicted senses.
+
+"""
+
 import csv
 from sklearn.metrics import f1_score, precision_score, recall_score
 
@@ -24,11 +39,8 @@ def read_csv_file(filename):
         # Iterate over each row in the CSV file
         count = 1
         for row in reader:
-            #print(row)
             # Extract the first 9 characters of the Token ID
             token_id_prefix = row["Token ID"]
-            #print(token_id_prefix)
-
             # If the current Token ID prefix is different from the previous one,
             # it means we are starting a new sentence
             if token_id_prefix != id:
@@ -62,6 +74,12 @@ def read_csv_file(filename):
 
 
 def evaluate(gold_sentences, pred_sentences):
+    """
+    Evaluates the performance of the model based on gold and predicted senses.
+    Args:
+        gold_sentences (dict): Dictionary containing gold standard sentences.
+        pred_sentences (dict): Dictionary containing predicted sentences.
+    """
     p = 0
     r = 0
     f1 = 0
@@ -79,20 +97,18 @@ def evaluate(gold_sentences, pred_sentences):
         else:
             g = [y for x, y in gold_sentence.items()]
             pred = [y for x, y in pred_sentence.items()]
+            # Adjust lists if lengths are not equal
             if len(g) < len(pred):
                 x = 0
                 a = 0
                 while (x < len(pred)):
                     count = 0
-                    # print(g[x][0].lower(),pred[x][0])
-
                     if g[x][0].lower() != pred[x][0]:
                         a = x
                         x += 1
                         while (g[x][0].lower() != pred[a][0] and a < len(pred)):
                             count += 1
                             a += 1
-                            # del pred[a]
                         for a in range(count - 1):
                             g.insert(x + a, ["", 'n/a'])
                         x += count
